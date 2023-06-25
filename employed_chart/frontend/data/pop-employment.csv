@@ -1,0 +1,967 @@
+Year,Industry,Sex,Percentage,State,Total Employed Person ('000),Industry Employed Population ('000)
+2001,Mining,Male,0.4,Malaysia,6055.9,24.2
+2001,Manufacturing,Male,21.1,Malaysia,6055.9,1277.8
+2001,Construction,Male,12.7,Malaysia,6055.9,769.1
+2001,Public administration,Male,8.4,Malaysia,6055.9,508.7
+2001,Education,Male,3.3,Malaysia,6055.9,199.8
+2001,Agriculture,Male,14.8,Malaysia,6055.9,896.3
+2001,Utilities,Male,0.8,Malaysia,6055.9,48.4
+2001,International organizations,Male,0.0,Malaysia,6055.9,0.0
+2001,Financial,Male,2.0,Malaysia,6055.9,121.1
+2001,Fishing,Male,2.0,Malaysia,6055.9,121.1
+2001,Healthcare,Male,0.9,Malaysia,6055.9,54.5
+2001,Hospitality,Male,5.2,Malaysia,6055.9,314.9
+2001,Services,Male,1.9,Malaysia,6055.9,115.1
+2001,Households,Male,0.2,Malaysia,6055.9,12.1
+2001,Real estate,Male,3.5,Malaysia,6055.9,212.0
+2001,Transportation,Male,6.7,Malaysia,6055.9,405.7
+2001,Wholesale & retail trade,Male,16.2,Malaysia,6055.9,981.1
+2001,Mining,Female,0.1,Malaysia,3301.1,3.3
+2001,Manufacturing,Female,27.5,Malaysia,3301.1,907.8
+2001,Construction,Female,1.8,Malaysia,3301.1,59.4
+2001,Public administration,Female,4.8,Malaysia,3301.1,158.5
+2001,Education,Female,9.3,Malaysia,3301.1,307.0
+2001,Agriculture,Female,11.9,Malaysia,3301.1,392.8
+2001,Utilities,Female,0.2,Malaysia,3301.1,6.6
+2001,International organizations,Female,0.0,Malaysia,3301.1,0.0
+2001,Financial,Female,3.2,Malaysia,3301.1,105.6
+2001,Fishing,Female,0.1,Malaysia,3301.1,3.3
+2001,Healthcare,Female,3.6,Malaysia,3301.1,118.8
+2001,Hospitality,Female,8.3,Malaysia,3301.1,274.0
+2001,Services,Female,2.3,Malaysia,3301.1,75.9
+2001,Households,Female,6.2,Malaysia,3301.1,204.7
+2001,Real estate,Female,4.1,Malaysia,3301.1,135.3
+2001,Transportation,Female,2.0,Malaysia,3301.1,66.0
+2001,Wholesale & retail trade,Female,14.4,Malaysia,3301.1,475.4
+2002,Mining,Male,0.4,Malaysia,6141.8,24.6
+2002,Manufacturing,Male,19.8,Malaysia,6141.8,1216.1
+2002,Construction,Male,13.7,Malaysia,6141.8,841.4
+2002,Public administration,Male,7.9,Malaysia,6141.8,485.2
+2002,Education,Male,3.2,Malaysia,6141.8,196.5
+2002,Agriculture,Male,15.1,Malaysia,6141.8,927.4
+2002,Utilities,Male,0.7,Malaysia,6141.8,43.0
+2002,International organizations,Male,0.0,Malaysia,6141.8,0.0
+2002,Financial,Male,2.0,Malaysia,6141.8,122.8
+2002,Fishing,Male,1.7,Malaysia,6141.8,104.4
+2002,Healthcare,Male,1.0,Malaysia,6141.8,61.4
+2002,Hospitality,Male,5.2,Malaysia,6141.8,319.4
+2002,Services,Male,1.9,Malaysia,6141.8,116.7
+2002,Households,Male,0.3,Malaysia,6141.8,18.4
+2002,Real estate,Male,3.9,Malaysia,6141.8,239.5
+2002,Transportation,Male,7.0,Malaysia,6141.8,429.9
+2002,Wholesale & retail trade,Male,16.3,Malaysia,6141.8,1001.1
+2002,Mining,Female,0.1,Malaysia,3400.8,3.4
+2002,Manufacturing,Female,25.1,Malaysia,3400.8,853.6
+2002,Construction,Female,1.9,Malaysia,3400.8,64.6
+2002,Public administration,Female,5.2,Malaysia,3400.8,176.8
+2002,Education,Female,9.1,Malaysia,3400.8,309.5
+2002,Agriculture,Female,11.5,Malaysia,3400.8,391.1
+2002,Utilities,Female,0.2,Malaysia,3400.8,6.8
+2002,International organizations,Female,0.0,Malaysia,3400.8,0.0
+2002,Financial,Female,3.5,Malaysia,3400.8,119.0
+2002,Fishing,Female,0.1,Malaysia,3400.8,3.4
+2002,Healthcare,Female,3.7,Malaysia,3400.8,125.8
+2002,Hospitality,Female,8.8,Malaysia,3400.8,299.3
+2002,Services,Female,2.3,Malaysia,3400.8,78.2
+2002,Households,Female,7.2,Malaysia,3400.8,244.9
+2002,Real estate,Female,4.6,Malaysia,3400.8,156.4
+2002,Transportation,Female,2.0,Malaysia,3400.8,68.0
+2002,Wholesale & retail trade,Female,14.6,Malaysia,3400.8,496.5
+2003,Mining,Male,0.4,Malaysia,6323.6,25.3
+2003,Manufacturing,Male,19.9,Malaysia,6323.6,1258.4
+2003,Construction,Male,13.9,Malaysia,6323.6,879.0
+2003,Public administration,Male,7.8,Malaysia,6323.6,493.2
+2003,Education,Male,3.6,Malaysia,6323.6,227.6
+2003,Agriculture,Male,14.5,Malaysia,6323.6,916.9
+2003,Utilities,Male,0.8,Malaysia,6323.6,50.6
+2003,International organizations,Male,0.0,Malaysia,6323.6,0.0
+2003,Financial,Male,1.9,Malaysia,6323.6,120.1
+2003,Fishing,Male,1.6,Malaysia,6323.6,101.2
+2003,Healthcare,Male,1.1,Malaysia,6323.6,69.6
+2003,Hospitality,Male,5.4,Malaysia,6323.6,341.5
+2003,Services,Male,1.9,Malaysia,6323.6,120.1
+2003,Households,Male,0.3,Malaysia,6323.6,19.0
+2003,Real estate,Male,3.9,Malaysia,6323.6,246.6
+2003,Transportation,Male,6.5,Malaysia,6323.6,411.0
+2003,Wholesale & retail trade,Male,16.6,Malaysia,6323.6,1049.7
+2003,Mining,Female,0.1,Malaysia,3546.1,3.5
+2003,Manufacturing,Female,24.7,Malaysia,3546.1,875.9
+2003,Construction,Female,1.9,Malaysia,3546.1,67.4
+2003,Public administration,Female,4.9,Malaysia,3546.1,173.8
+2003,Education,Female,10.3,Malaysia,3546.1,365.2
+2003,Agriculture,Female,10.9,Malaysia,3546.1,386.5
+2003,Utilities,Female,0.3,Malaysia,3546.1,10.6
+2003,International organizations,Female,0.0,Malaysia,3546.1,0.0
+2003,Financial,Female,3.0,Malaysia,3546.1,106.4
+2003,Fishing,Female,0.1,Malaysia,3546.1,3.5
+2003,Healthcare,Female,4.2,Malaysia,3546.1,148.9
+2003,Hospitality,Female,8.6,Malaysia,3546.1,305.0
+2003,Services,Female,2.7,Malaysia,3546.1,95.7
+2003,Households,Female,6.8,Malaysia,3546.1,241.1
+2003,Real estate,Female,4.4,Malaysia,3546.1,156.0
+2003,Transportation,Female,2.0,Malaysia,3546.1,70.9
+2003,Wholesale & retail trade,Female,15.3,Malaysia,3546.1,542.6
+2004,Mining,Male,0.5,Malaysia,6390.4,32.0
+2004,Manufacturing,Male,18.9,Malaysia,6390.4,1207.8
+2004,Construction,Male,12.9,Malaysia,6390.4,824.4
+2004,Public administration,Male,7.8,Malaysia,6390.4,498.5
+2004,Education,Male,3.5,Malaysia,6390.4,223.7
+2004,Agriculture,Male,14.9,Malaysia,6390.4,952.2
+2004,Utilities,Male,0.8,Malaysia,6390.4,51.1
+2004,International organizations,Male,0.0,Malaysia,6390.4,0.0
+2004,Financial,Male,1.8,Malaysia,6390.4,115.0
+2004,Fishing,Male,1.9,Malaysia,6390.4,121.4
+2004,Healthcare,Male,1.0,Malaysia,6390.4,63.9
+2004,Hospitality,Male,5.5,Malaysia,6390.4,351.5
+2004,Services,Male,2.1,Malaysia,6390.4,134.2
+2004,Households,Male,0.2,Malaysia,6390.4,12.8
+2004,Real estate,Male,4.4,Malaysia,6390.4,281.2
+2004,Transportation,Male,7.1,Malaysia,6390.4,453.7
+2004,Wholesale & retail trade,Male,16.5,Malaysia,6390.4,1054.4
+2004,Mining,Female,0.1,Malaysia,3589.1,3.6
+2004,Manufacturing,Female,22.8,Malaysia,3589.1,818.3
+2004,Construction,Female,1.8,Malaysia,3589.1,64.6
+2004,Public administration,Female,5.1,Malaysia,3589.1,183.0
+2004,Education,Female,10.8,Malaysia,3589.1,387.6
+2004,Agriculture,Female,10.4,Malaysia,3589.1,373.3
+2004,Utilities,Female,0.2,Malaysia,3589.1,7.2
+2004,International organizations,Female,0.0,Malaysia,3589.1,0.0
+2004,Financial,Female,3.3,Malaysia,3589.1,118.4
+2004,Fishing,Female,0.1,Malaysia,3589.1,3.6
+2004,Healthcare,Female,3.8,Malaysia,3589.1,136.4
+2004,Hospitality,Female,9.6,Malaysia,3589.1,344.6
+2004,Services,Female,2.7,Malaysia,3589.1,96.9
+2004,Households,Female,6.9,Malaysia,3589.1,247.6
+2004,Real estate,Female,4.9,Malaysia,3589.1,175.9
+2004,Transportation,Female,2.2,Malaysia,3589.1,79.0
+2004,Wholesale & retail trade,Female,15.4,Malaysia,3589.1,552.7
+2005,Mining,Male,0.5,Malaysia,6470.5,32.4
+2005,Manufacturing,Male,18.6,Malaysia,6470.5,1203.5
+2005,Construction,Male,12.9,Malaysia,6470.5,834.7
+2005,Public administration,Male,8.1,Malaysia,6470.5,524.1
+2005,Education,Male,3.4,Malaysia,6470.5,220.0
+2005,Agriculture,Male,15.4,Malaysia,6470.5,996.5
+2005,Utilities,Male,0.8,Malaysia,6470.5,51.8
+2005,International organizations,Male,0.0,Malaysia,6470.5,0.0
+2005,Financial,Male,1.9,Malaysia,6470.5,122.9
+2005,Fishing,Male,1.7,Malaysia,6470.5,110.0
+2005,Healthcare,Male,1.1,Malaysia,6470.5,71.2
+2005,Hospitality,Male,5.4,Malaysia,6470.5,349.4
+2005,Services,Male,2.1,Malaysia,6470.5,135.9
+2005,Households,Male,0.2,Malaysia,6470.5,12.9
+2005,Real estate,Male,4.4,Malaysia,6470.5,284.7
+2005,Transportation,Male,7.2,Malaysia,6470.5,465.9
+2005,Wholesale & retail trade,Male,16.4,Malaysia,6470.5,1061.2
+2005,Mining,Female,0.1,Malaysia,3574.8,3.6
+2005,Manufacturing,Female,22.0,Malaysia,3574.8,786.5
+2005,Construction,Female,2.0,Malaysia,3574.8,71.5
+2005,Public administration,Female,5.7,Malaysia,3574.8,203.8
+2005,Education,Female,10.8,Malaysia,3574.8,386.1
+2005,Agriculture,Female,10.0,Malaysia,3574.8,357.5
+2005,Utilities,Female,0.2,Malaysia,3574.8,7.1
+2005,International organizations,Female,0.0,Malaysia,3574.8,0.0
+2005,Financial,Female,3.6,Malaysia,3574.8,128.7
+2005,Fishing,Female,0.1,Malaysia,3574.8,3.6
+2005,Healthcare,Female,4.0,Malaysia,3574.8,143.0
+2005,Hospitality,Female,9.0,Malaysia,3574.8,321.7
+2005,Services,Female,2.8,Malaysia,3574.8,100.1
+2005,Households,Female,6.8,Malaysia,3574.8,243.1
+2005,Real estate,Female,4.9,Malaysia,3574.8,175.2
+2005,Transportation,Female,2.2,Malaysia,3574.8,78.6
+2005,Wholesale & retail trade,Female,15.6,Malaysia,3574.8,557.7
+2006,Mining,Male,0.5,Malaysia,6618.6,33.1
+2006,Manufacturing,Male,19.2,Malaysia,6618.6,1270.8
+2006,Construction,Male,12.6,Malaysia,6618.6,833.9
+2006,Public administration,Male,7.3,Malaysia,6618.6,483.2
+2006,Education,Male,3.2,Malaysia,6618.6,211.8
+2006,Agriculture,Male,15.3,Malaysia,6618.6,1012.6
+2006,Utilities,Male,1.0,Malaysia,6618.6,66.2
+2006,International organizations,Male,0.0,Malaysia,6618.6,0.0
+2006,Financial,Male,1.8,Malaysia,6618.6,119.1
+2006,Fishing,Male,1.9,Malaysia,6618.6,125.8
+2006,Healthcare,Male,1.1,Malaysia,6618.6,72.8
+2006,Hospitality,Male,5.8,Malaysia,6618.6,383.9
+2006,Services,Male,2.0,Malaysia,6618.6,132.4
+2006,Households,Male,0.3,Malaysia,6618.6,19.9
+2006,Real estate,Male,4.8,Malaysia,6618.6,317.7
+2006,Transportation,Male,6.8,Malaysia,6618.6,450.1
+2006,Wholesale & retail trade,Male,16.3,Malaysia,6618.6,1078.8
+2006,Mining,Female,0.2,Malaysia,3656.8,7.3
+2006,Manufacturing,Female,22.2,Malaysia,3656.8,811.8
+2006,Construction,Female,2.0,Malaysia,3656.8,73.1
+2006,Public administration,Female,5.1,Malaysia,3656.8,186.5
+2006,Education,Female,10.7,Malaysia,3656.8,391.3
+2006,Agriculture,Female,9.9,Malaysia,3656.8,362.0
+2006,Utilities,Female,0.3,Malaysia,3656.8,11.0
+2006,International organizations,Female,0.0,Malaysia,3656.8,0.0
+2006,Financial,Female,3.3,Malaysia,3656.8,120.7
+2006,Fishing,Female,0.1,Malaysia,3656.8,3.7
+2006,Healthcare,Female,4.2,Malaysia,3656.8,153.6
+2006,Hospitality,Female,9.2,Malaysia,3656.8,336.4
+2006,Services,Female,3.1,Malaysia,3656.8,113.4
+2006,Households,Female,6.4,Malaysia,3656.8,234.0
+2006,Real estate,Female,5.2,Malaysia,3656.8,190.2
+2006,Transportation,Female,2.5,Malaysia,3656.8,91.4
+2006,Wholesale & retail trade,Female,15.6,Malaysia,3656.8,570.5
+2007,Mining,Male,0.5,Malaysia,6747.1,33.7
+2007,Manufacturing,Male,17.7,Malaysia,6747.1,1194.2
+2007,Construction,Male,12.7,Malaysia,6747.1,856.9
+2007,Public administration,Male,7.6,Malaysia,6747.1,512.8
+2007,Education,Male,3.3,Malaysia,6747.1,222.7
+2007,Agriculture,Male,15.8,Malaysia,6747.1,1066.0
+2007,Utilities,Male,0.8,Malaysia,6747.1,54.0
+2007,International organizations,Male,0.0,Malaysia,6747.1,0.0
+2007,Financial,Male,2.1,Malaysia,6747.1,141.7
+2007,Fishing,Male,1.7,Malaysia,6747.1,114.7
+2007,Healthcare,Male,1.1,Malaysia,6747.1,74.2
+2007,Hospitality,Male,5.9,Malaysia,6747.1,398.1
+2007,Services,Male,2.1,Malaysia,6747.1,141.7
+2007,Households,Male,0.3,Malaysia,6747.1,20.2
+2007,Real estate,Male,5.1,Malaysia,6747.1,344.1
+2007,Transportation,Male,6.7,Malaysia,6747.1,452.1
+2007,Wholesale & retail trade,Male,16.6,Malaysia,6747.1,1120.0
+2007,Mining,Female,0.2,Malaysia,3791.0,7.6
+2007,Manufacturing,Female,20.6,Malaysia,3791.0,780.9
+2007,Construction,Female,1.8,Malaysia,3791.0,68.2
+2007,Public administration,Female,5.3,Malaysia,3791.0,200.9
+2007,Education,Female,10.8,Malaysia,3791.0,409.4
+2007,Agriculture,Female,9.8,Malaysia,3791.0,371.5
+2007,Utilities,Female,0.2,Malaysia,3791.0,7.6
+2007,International organizations,Female,0.0,Malaysia,3791.0,0.0
+2007,Financial,Female,3.7,Malaysia,3791.0,140.3
+2007,Fishing,Female,0.1,Malaysia,3791.0,3.8
+2007,Healthcare,Female,4.3,Malaysia,3791.0,163.0
+2007,Hospitality,Female,9.6,Malaysia,3791.0,363.9
+2007,Services,Female,3.2,Malaysia,3791.0,121.3
+2007,Households,Female,6.7,Malaysia,3791.0,254.0
+2007,Real estate,Female,5.7,Malaysia,3791.0,216.1
+2007,Transportation,Female,2.3,Malaysia,3791.0,87.2
+2007,Wholesale & retail trade,Female,15.6,Malaysia,3791.0,591.4
+2008,Mining,Male,0.7,Malaysia,6851.1,48.0
+2008,Manufacturing,Male,17.3,Malaysia,6851.1,1185.2
+2008,Construction,Male,13.4,Malaysia,6851.1,918.0
+2008,Public administration,Male,7.8,Malaysia,6851.1,534.4
+2008,Education,Male,3.3,Malaysia,6851.1,226.1
+2008,Agriculture,Male,15.0,Malaysia,6851.1,1027.7
+2008,Utilities,Male,0.7,Malaysia,6851.1,48.0
+2008,International organizations,Male,0.0,Malaysia,6851.1,0.0
+2008,Financial,Male,2.0,Malaysia,6851.1,137.0
+2008,Fishing,Male,1.7,Malaysia,6851.1,116.5
+2008,Healthcare,Male,1.1,Malaysia,6851.1,75.4
+2008,Hospitality,Male,5.9,Malaysia,6851.1,404.2
+2008,Services,Male,2.3,Malaysia,6851.1,157.6
+2008,Households,Male,0.4,Malaysia,6851.1,27.4
+2008,Real estate,Male,5.0,Malaysia,6851.1,342.6
+2008,Transportation,Male,7.1,Malaysia,6851.1,486.4
+2008,Wholesale & retail trade,Male,16.3,Malaysia,6851.1,1116.7
+2008,Mining,Female,0.3,Malaysia,3808.5,11.4
+2008,Manufacturing,Female,20.0,Malaysia,3808.5,761.7
+2008,Construction,Female,2.2,Malaysia,3808.5,83.8
+2008,Public administration,Female,5.6,Malaysia,3808.5,213.3
+2008,Education,Female,11.3,Malaysia,3808.5,430.4
+2008,Agriculture,Female,8.9,Malaysia,3808.5,339.0
+2008,Utilities,Female,0.3,Malaysia,3808.5,11.4
+2008,International organizations,Female,0.0,Malaysia,3808.5,0.0
+2008,Financial,Female,3.7,Malaysia,3808.5,140.9
+2008,Fishing,Female,0.1,Malaysia,3808.5,3.8
+2008,Healthcare,Female,4.6,Malaysia,3808.5,175.2
+2008,Hospitality,Female,10.0,Malaysia,3808.5,380.8
+2008,Services,Female,3.0,Malaysia,3808.5,114.3
+2008,Households,Female,5.9,Malaysia,3808.5,224.7
+2008,Real estate,Female,5.5,Malaysia,3808.5,209.5
+2008,Transportation,Female,2.5,Malaysia,3808.5,95.2
+2008,Wholesale & retail trade,Female,16.0,Malaysia,3808.5,609.4
+2009,Mining,Male,0.8,Malaysia,6955.7,55.6
+2009,Manufacturing,Male,16.1,Malaysia,6955.7,1119.9
+2009,Construction,Male,13.5,Malaysia,6955.7,939.0
+2009,Public administration,Male,8.2,Malaysia,6955.7,570.4
+2009,Education,Male,3.7,Malaysia,6955.7,257.4
+2009,Agriculture,Male,14.3,Malaysia,6955.7,994.7
+2009,Utilities,Male,0.7,Malaysia,6955.7,48.7
+2009,International organizations,Male,0.0,Malaysia,6955.7,0.0
+2009,Financial,Male,1.9,Malaysia,6955.7,132.2
+2009,Fishing,Male,1.7,Malaysia,6955.7,118.2
+2009,Healthcare,Male,1.2,Malaysia,6955.7,83.5
+2009,Hospitality,Male,5.9,Malaysia,6955.7,410.4
+2009,Services,Male,2.4,Malaysia,6955.7,166.9
+2009,Households,Male,0.3,Malaysia,6955.7,20.9
+2009,Real estate,Male,5.3,Malaysia,6955.7,368.7
+2009,Transportation,Male,7.2,Malaysia,6955.7,500.8
+2009,Wholesale & retail trade,Male,16.9,Malaysia,6955.7,1175.5
+2009,Mining,Female,0.2,Malaysia,3941.6,7.9
+2009,Manufacturing,Female,17.5,Malaysia,3941.6,689.8
+2009,Construction,Female,2.0,Malaysia,3941.6,78.8
+2009,Public administration,Female,6.2,Malaysia,3941.6,244.4
+2009,Education,Female,12.1,Malaysia,3941.6,476.9
+2009,Agriculture,Female,8.9,Malaysia,3941.6,350.8
+2009,Utilities,Female,0.2,Malaysia,3941.6,7.9
+2009,International organizations,Female,0.0,Malaysia,3941.6,0.0
+2009,Financial,Female,3.5,Malaysia,3941.6,138.0
+2009,Fishing,Female,0.1,Malaysia,3941.6,3.9
+2009,Healthcare,Female,4.8,Malaysia,3941.6,189.2
+2009,Hospitality,Female,9.9,Malaysia,3941.6,390.2
+2009,Services,Female,3.5,Malaysia,3941.6,138.0
+2009,Households,Female,6.1,Malaysia,3941.6,240.4
+2009,Real estate,Female,5.9,Malaysia,3941.6,232.6
+2009,Transportation,Female,2.4,Malaysia,3941.6,94.6
+2009,Wholesale & retail trade,Female,16.6,Malaysia,3941.6,654.3
+2010,Mining,Total,0.5,,,
+2010,Manufacturing,Total,17.7,,,
+2010,Construction,Total,9.1,,,
+2010,Transportation,Total,4.7,,,
+2010,Accommodation & food services,Total,7.2,,,
+2010,Info & communication,Total,1.5,,,
+2010,Financial & insurance,Total,2.7,,,
+2010,Real estate,Total,0.5,,,
+2010,Admin & support services,Total,3.0,,,
+2010,Public administration,Total,6.6,,,
+2010,Education,Total,6.5,,,
+2010,Healthcare,Total,2.4,,,
+2010,Households,Total,2.4,,,
+2010,Agriculture,Total,13.6,,,
+2010,Arts & recreation,Total,0.8,,,
+2010,Utilities,Total,0.5,,,
+2010,Services,Total,1.5,,,
+2010,Professional & technical activities,Total,2.4,,,
+2010,Water & waste management,Total,0.6,,,
+2010,Wholesale & retail trade,Total,15.9,,,
+2010,Mining,Male,0.6,Malaysia,7707.8,46.2
+2010,Manufacturing,Male,17.5,Malaysia,7707.8,1348.9
+2010,Construction,Male,12.8,Malaysia,7707.8,986.6
+2010,Transportation,Male,6.2,Malaysia,7707.8,477.9
+2010,Accommodation & food services,Male,6.0,Malaysia,7707.8,462.5
+2010,Info & communication,Male,1.6,Malaysia,7707.8,123.3
+2010,Financial & insurance,Male,2.0,Malaysia,7707.8,154.2
+2010,Real estate,Male,0.5,Malaysia,7707.8,38.5
+2010,Admin & support services,Male,3.2,Malaysia,7707.8,246.6
+2010,Public administration,Male,7.1,Malaysia,7707.8,547.3
+2010,Education,Male,3.5,Malaysia,7707.8,269.8
+2010,Healthcare,Male,1.1,Malaysia,7707.8,84.8
+2010,Households,Male,0.3,Malaysia,7707.8,23.1
+2010,Agriculture,Male,16.3,Malaysia,7707.8,1256.4
+2010,Arts & recreation,Male,0.7,Malaysia,7707.8,54.0
+2010,Utilities,Male,0.6,Malaysia,7707.8,46.2
+2010,Services,Male,1.1,Malaysia,7707.8,84.8
+2010,Professional & technical activities,Male,2.2,Malaysia,7707.8,169.6
+2010,Water & waste management,Male,0.7,Malaysia,7707.8,54.0
+2010,Wholesale & retail trade,Male,15.9,Malaysia,7707.8,1225.5
+2010,Mining,Female,0.2,Malaysia,4191.7,8.4
+2010,Manufacturing,Female,18.2,Malaysia,4191.7,762.9
+2010,Construction,Female,2.3,Malaysia,4191.7,96.4
+2010,Transportation,Female,1.9,Malaysia,4191.7,79.6
+2010,Accommodation & food services,Female,9.3,Malaysia,4191.7,389.8
+2010,Info & communication,Female,1.4,Malaysia,4191.7,58.7
+2010,Financial & insurance,Female,4.0,Malaysia,4191.7,167.7
+2010,Real estate,Female,0.6,Malaysia,4191.7,25.2
+2010,Admin & support services,Female,2.7,Malaysia,4191.7,113.2
+2010,Public administration,Female,5.6,Malaysia,4191.7,234.7
+2010,Education,Female,12.2,Malaysia,4191.7,511.4
+2010,Healthcare,Female,4.6,Malaysia,4191.7,192.8
+2010,Households,Female,6.3,Malaysia,4191.7,264.1
+2010,Agriculture,Female,8.6,Malaysia,4191.7,360.5
+2010,Arts & recreation,Female,0.9,Malaysia,4191.7,37.7
+2010,Utilities,Female,0.3,Malaysia,4191.7,12.6
+2010,Services,Female,2.3,Malaysia,4191.7,96.4
+2010,Professional & technical activities,Female,2.8,Malaysia,4191.7,117.4
+2010,Water & waste management,Female,0.3,Malaysia,4191.7,12.6
+2010,Wholesale & retail trade,Female,15.8,Malaysia,4191.7,662.3
+2011,Mining,Total,0.6,,,
+2011,Manufacturing,Total,18.2,,,
+2011,Construction,Total,9.3,,,
+2011,Transportation,Total,4.9,,,
+2011,Accommodation & food services,Total,7.7,,,
+2011,Info & communication,Total,1.7,,,
+2011,Financial & insurance,Total,2.6,,,
+2011,Real estate,Total,0.5,,,
+2011,Admin & support services,Total,3.6,,,
+2011,Public administration,Total,6.1,,,
+2011,Education,Total,6.3,,,
+2011,Healthcare,Total,3.1,,,
+2011,Households,Total,1.8,,,
+2011,Agriculture,Total,11.5,,,
+2011,Arts & recreation,Total,0.7,,,
+2011,Utilities,Total,0.4,,,
+2011,Services,Total,1.5,,,
+2011,Professional & technical activities,Total,2.7,,,
+2011,Water & waste management,Total,0.6,,,
+2011,Wholesale & retail trade,Total,16.2,,,
+2011,Mining,Male,0.7,Malaysia,7934.8,55.5
+2011,Manufacturing,Male,18.1,Malaysia,7934.8,1436.2
+2011,Construction,Male,13.2,Malaysia,7934.8,1047.4
+2011,Transportation,Male,6.5,Malaysia,7934.8,515.8
+2011,Accommodation & food services,Male,6.3,Malaysia,7934.8,499.9
+2011,Info & communication,Male,1.7,Malaysia,7934.8,134.9
+2011,Financial & insurance,Male,1.9,Malaysia,7934.8,150.8
+2011,Real estate,Male,0.5,Malaysia,7934.8,39.7
+2011,Admin & support services,Male,3.9,Malaysia,7934.8,309.5
+2011,Public administration,Male,6.5,Malaysia,7934.8,515.8
+2011,Education,Male,3.3,Malaysia,7934.8,261.8
+2011,Healthcare,Male,1.3,Malaysia,7934.8,103.2
+2011,Households,Male,0.1,Malaysia,7934.8,7.9
+2011,Agriculture,Male,14.2,Malaysia,7934.8,1126.7
+2011,Arts & recreation,Male,0.7,Malaysia,7934.8,55.5
+2011,Utilities,Male,0.5,Malaysia,7934.8,39.7
+2011,Services,Male,1.2,Malaysia,7934.8,95.2
+2011,Professional & technical activities,Male,2.3,Malaysia,7934.8,182.5
+2011,Water & waste management,Male,0.8,Malaysia,7934.8,63.5
+2011,Wholesale & retail trade,Male,16.2,Malaysia,7934.8,1285.4
+2011,Mining,Female,0.3,Malaysia,4416.7,13.3
+2011,Manufacturing,Female,18.4,Malaysia,4416.7,812.7
+2011,Construction,Female,2.4,Malaysia,4416.7,106.0
+2011,Transportation,Female,2.0,Malaysia,4416.7,88.3
+2011,Accommodation & food services,Female,10.2,Malaysia,4416.7,450.5
+2011,Info & communication,Female,1.6,Malaysia,4416.7,70.7
+2011,Financial & insurance,Female,3.8,Malaysia,4416.7,167.8
+2011,Real estate,Female,0.5,Malaysia,4416.7,22.1
+2011,Admin & support services,Female,3.2,Malaysia,4416.7,141.3
+2011,Public administration,Female,5.2,Malaysia,4416.7,229.7
+2011,Education,Female,11.8,Malaysia,4416.7,521.2
+2011,Healthcare,Female,6.3,Malaysia,4416.7,278.3
+2011,Households,Female,4.9,Malaysia,4416.7,216.4
+2011,Agriculture,Female,6.7,Malaysia,4416.7,295.9
+2011,Arts & recreation,Female,0.7,Malaysia,4416.7,30.9
+2011,Utilities,Female,0.2,Malaysia,4416.7,8.8
+2011,Services,Female,2.0,Malaysia,4416.7,88.3
+2011,Professional & technical activities,Female,3.4,Malaysia,4416.7,150.2
+2011,Water & waste management,Female,0.3,Malaysia,4416.7,13.3
+2011,Wholesale & retail trade,Female,16.3,Malaysia,4416.7,719.9
+2012,Mining,Total,0.6,,,
+2012,Manufacturing,Total,17.7,,,
+2012,Construction,Total,9.2,,,
+2012,Transportation,Total,4.9,,,
+2012,Accommodation & food services,Total,7.5,,,
+2012,Info & communication,Total,1.6,,,
+2012,Financial & insurance,Total,2.5,,,
+2012,Real estate,Total,0.5,,,
+2012,Admin & support services,Total,4.2,,,
+2012,Public administration,Total,5.4,,,
+2012,Education,Total,6.1,,,
+2012,Healthcare,Total,3.2,,,
+2012,Households,Total,1.6,,,
+2012,Agriculture,Total,12.7,,,
+2012,Arts & recreation,Total,0.7,,,
+2012,Utilities,Total,0.5,,,
+2012,Services,Total,1.5,,,
+2012,Professional & technical activities,Total,2.4,,,
+2012,Water & waste management,Total,0.6,,,
+2012,Wholesale & retail trade,Total,16.6,,,
+2012,Mining,Male,0.8,Malaysia,8169.5,65.4
+2012,Manufacturing,Male,17.8,Malaysia,8169.5,1454.2
+2012,Construction,Male,13.2,Malaysia,8169.5,1078.4
+2012,Transportation,Male,6.5,Malaysia,8169.5,531.0
+2012,Accommodation & food services,Male,6.0,Malaysia,8169.5,490.2
+2012,Info & communication,Male,1.6,Malaysia,8169.5,130.7
+2012,Financial & insurance,Male,1.8,Malaysia,8169.5,147.1
+2012,Real estate,Male,0.5,Malaysia,8169.5,40.8
+2012,Admin & support services,Male,4.5,Malaysia,8169.5,367.6
+2012,Public administration,Male,5.9,Malaysia,8169.5,482.0
+2012,Education,Male,3.2,Malaysia,8169.5,261.4
+2012,Healthcare,Male,1.2,Malaysia,8169.5,98.0
+2012,Households,Male,0.1,Malaysia,8169.5,8.2
+2012,Agriculture,Male,15.2,Malaysia,8169.5,1241.8
+2012,Arts & recreation,Male,0.7,Malaysia,8169.5,57.2
+2012,Utilities,Male,0.6,Malaysia,8169.5,49.0
+2012,Services,Male,1.2,Malaysia,8169.5,98.0
+2012,Professional & technical activities,Male,1.9,Malaysia,8169.5,155.2
+2012,Water & waste management,Male,0.8,Malaysia,8169.5,65.4
+2012,Wholesale & retail trade,Male,16.5,Malaysia,8169.5,1348.0
+2012,Mining,Female,0.3,Malaysia,4651.0,14.0
+2012,Manufacturing,Female,17.4,Malaysia,4651.0,809.3
+2012,Construction,Female,2.1,Malaysia,4651.0,97.7
+2012,Transportation,Female,1.9,Malaysia,4651.0,88.4
+2012,Accommodation & food services,Female,10.2,Malaysia,4651.0,474.4
+2012,Info & communication,Female,1.7,Malaysia,4651.0,79.1
+2012,Financial & insurance,Female,3.8,Malaysia,4651.0,176.7
+2012,Real estate,Female,0.6,Malaysia,4651.0,27.9
+2012,Admin & support services,Female,3.6,Malaysia,4651.0,167.4
+2012,Public administration,Female,4.7,Malaysia,4651.0,218.6
+2012,Education,Female,11.2,Malaysia,4651.0,520.9
+2012,Healthcare,Female,6.9,Malaysia,4651.0,320.9
+2012,Households,Female,4.2,Malaysia,4651.0,195.3
+2012,Agriculture,Female,8.3,Malaysia,4651.0,386.0
+2012,Arts & recreation,Female,0.6,Malaysia,4651.0,27.9
+2012,Utilities,Female,0.2,Malaysia,4651.0,9.3
+2012,Services,Female,2.0,Malaysia,4651.0,93.0
+2012,Professional & technical activities,Female,3.2,Malaysia,4651.0,148.8
+2012,Water & waste management,Female,0.3,Malaysia,4651.0,14.0
+2012,Wholesale & retail trade,Female,16.8,Malaysia,4651.0,781.4
+2013,Mining,Total,0.6,,,
+2013,Manufacturing,Total,17.1,,,
+2013,Construction,Total,9.5,,,
+2013,Transportation,Total,4.6,,,
+2013,Accommodation & food services,Total,7.7,,,
+2013,Info & communication,Total,1.4,,,
+2013,Financial & insurance,Total,2.4,,,
+2013,Real estate,Total,0.5,,,
+2013,Admin & support services,Total,4.2,,,
+2013,Public administration,Total,5.6,,,
+2013,Education,Total,6.0,,,
+2013,Healthcare,Total,3.6,,,
+2013,Households,Total,1.6,,,
+2013,Agriculture,Total,13.0,,,
+2013,Arts & recreation,Total,0.6,,,
+2013,Utilities,Total,0.5,,,
+2013,Services,Total,1.4,,,
+2013,Professional & technical activities,Total,2.3,,,
+2013,Water & waste management,Total,0.6,,,
+2013,Wholesale & retail trade,Total,16.7,,,
+2013,Mining,Male,0.8,Malaysia,8484.6,67.9
+2013,Manufacturing,Male,17.2,Malaysia,8484.6,1459.4
+2013,Construction,Male,13.9,Malaysia,8484.6,1179.4
+2013,Transportation,Male,6.4,Malaysia,8484.6,543.0
+2013,Accommodation & food services,Male,6.0,Malaysia,8484.6,509.1
+2013,Info & communication,Male,1.4,Malaysia,8484.6,118.8
+2013,Financial & insurance,Male,1.7,Malaysia,8484.6,144.2
+2013,Real estate,Male,0.5,Malaysia,8484.6,42.4
+2013,Admin & support services,Male,4.4,Malaysia,8484.6,373.3
+2013,Public administration,Male,6.2,Malaysia,8484.6,526.0
+2013,Education,Male,3.2,Malaysia,8484.6,271.5
+2013,Healthcare,Male,1.1,Malaysia,8484.6,93.3
+2013,Households,Male,0.1,Malaysia,8484.6,8.5
+2013,Agriculture,Male,15.7,Malaysia,8484.6,1332.1
+2013,Arts & recreation,Male,0.6,Malaysia,8484.6,50.9
+2013,Utilities,Male,0.6,Malaysia,8484.6,50.9
+2013,Services,Male,1.0,Malaysia,8484.6,84.8
+2013,Professional & technical activities,Male,1.9,Malaysia,8484.6,161.2
+2013,Water & waste management,Male,0.8,Malaysia,8484.6,67.9
+2013,Wholesale & retail trade,Male,16.3,Malaysia,8484.6,1383.0
+2013,Mining,Female,0.3,Malaysia,5060.8,15.2
+2013,Manufacturing,Female,16.9,Malaysia,5060.8,855.3
+2013,Construction,Female,2.2,Malaysia,5060.8,111.3
+2013,Transportation,Female,1.6,Malaysia,5060.8,81.0
+2013,Accommodation & food services,Female,10.6,Malaysia,5060.8,536.4
+2013,Info & communication,Female,1.5,Malaysia,5060.8,75.9
+2013,Financial & insurance,Female,3.4,Malaysia,5060.8,172.1
+2013,Real estate,Female,0.6,Malaysia,5060.8,30.4
+2013,Admin & support services,Female,3.8,Malaysia,5060.8,192.3
+2013,Public administration,Female,4.6,Malaysia,5060.8,232.8
+2013,Education,Female,10.8,Malaysia,5060.8,546.6
+2013,Healthcare,Female,7.8,Malaysia,5060.8,394.7
+2013,Households,Female,4.1,Malaysia,5060.8,207.5
+2013,Agriculture,Female,8.4,Malaysia,5060.8,425.1
+2013,Arts & recreation,Female,0.6,Malaysia,5060.8,30.4
+2013,Utilities,Female,0.2,Malaysia,5060.8,10.1
+2013,Services,Female,2.1,Malaysia,5060.8,106.3
+2013,Professional & technical activities,Female,2.9,Malaysia,5060.8,146.8
+2013,Water & waste management,Female,0.3,Malaysia,5060.8,15.2
+2013,Wholesale & retail trade,Female,17.3,Malaysia,5060.8,875.5
+2014,Mining,Total,0.6,,,
+2014,Manufacturing,Total,17.1,,,
+2014,Construction,Total,9.2,,,
+2014,Transportation,Total,4.3,,,
+2014,Accommodation & food services,Total,8.3,,,
+2014,Info & communication,Total,1.5,,,
+2014,Financial & insurance,Total,2.4,,,
+2014,Real estate,Total,0.6,,,
+2014,Admin & support services,Total,4.7,,,
+2014,Public administration,Total,5.4,,,
+2014,Education,Total,6.3,,,
+2014,Healthcare,Total,3.8,,,
+2014,Households,Total,1.1,,,
+2014,Agriculture,Total,12.2,,,
+2014,Arts & recreation,Total,0.7,,,
+2014,Utilities,Total,0.5,,,
+2014,Services,Total,1.4,,,
+2014,Professional & technical activities,Total,2.4,,,
+2014,Water & waste management,Total,0.6,,,
+2014,Wholesale & retail trade,Total,16.8,,,
+2014,Mining,Male,0.8,Malaysia,8587.5,68.7
+2014,Manufacturing,Male,17.3,Malaysia,8587.5,1485.6
+2014,Construction,Male,13.6,Malaysia,8587.5,1167.9
+2014,Transportation,Male,6.0,Malaysia,8587.5,515.2
+2014,Accommodation & food services,Male,6.7,Malaysia,8587.5,575.4
+2014,Info & communication,Male,1.6,Malaysia,8587.5,137.4
+2014,Financial & insurance,Male,1.7,Malaysia,8587.5,146.0
+2014,Real estate,Male,0.6,Malaysia,8587.5,51.5
+2014,Admin & support services,Male,5.1,Malaysia,8587.5,438.0
+2014,Public administration,Male,5.9,Malaysia,8587.5,506.7
+2014,Education,Male,3.3,Malaysia,8587.5,283.4
+2014,Healthcare,Male,1.2,Malaysia,8587.5,103.0
+2014,Households,Male,0.1,Malaysia,8587.5,8.6
+2014,Agriculture,Male,14.6,Malaysia,8587.5,1253.8
+2014,Arts & recreation,Male,0.7,Malaysia,8587.5,60.1
+2014,Utilities,Male,0.6,Malaysia,8587.5,51.5
+2014,Services,Male,1.1,Malaysia,8587.5,94.5
+2014,Professional & technical activities,Male,1.9,Malaysia,8587.5,163.2
+2014,Water & waste management,Male,0.8,Malaysia,8587.5,68.7
+2014,Wholesale & retail trade,Male,16.5,Malaysia,8587.5,1416.9
+2014,Mining,Female,0.3,Malaysia,5265.1,15.8
+2014,Manufacturing,Female,16.9,Malaysia,5265.1,889.8
+2014,Construction,Female,2.0,Malaysia,5265.1,105.3
+2014,Transportation,Female,1.7,Malaysia,5265.1,89.5
+2014,Accommodation & food services,Female,10.8,Malaysia,5265.1,568.6
+2014,Info & communication,Female,1.5,Malaysia,5265.1,79.0
+2014,Financial & insurance,Female,3.5,Malaysia,5265.1,184.3
+2014,Real estate,Female,0.6,Malaysia,5265.1,31.6
+2014,Admin & support services,Female,4.2,Malaysia,5265.1,221.1
+2014,Public administration,Female,4.4,Malaysia,5265.1,231.7
+2014,Education,Female,11.2,Malaysia,5265.1,589.7
+2014,Healthcare,Female,8.2,Malaysia,5265.1,431.7
+2014,Households,Female,2.9,Malaysia,5265.1,152.7
+2014,Agriculture,Female,8.4,Malaysia,5265.1,442.3
+2014,Arts & recreation,Female,0.7,Malaysia,5265.1,36.9
+2014,Utilities,Female,0.2,Malaysia,5265.1,10.5
+2014,Services,Female,2.0,Malaysia,5265.1,105.3
+2014,Professional & technical activities,Female,3.2,Malaysia,5265.1,168.5
+2014,Water & waste management,Female,0.2,Malaysia,5265.1,10.5
+2014,Wholesale & retail trade,Female,17.2,Malaysia,5265.1,905.6
+2015,Mining,Total,0.7,,,
+2015,Manufacturing,Total,16.5,,,
+2015,Construction,Total,9.3,,,
+2015,Transportation,Total,4.4,,,
+2015,Accommodation & food services,Total,8.2,,,
+2015,Info & communication,Total,1.5,,,
+2015,Financial & insurance,Total,2.5,,,
+2015,Real estate,Total,0.5,,,
+2015,Admin & support services,Total,4.5,,,
+2015,Public administration,Total,5.3,,,
+2015,Education,Total,6.4,,,
+2015,Healthcare,Total,4.1,,,
+2015,Households,Total,1.0,,,
+2015,Agriculture,Total,12.5,,,
+2015,Arts & recreation,Total,0.6,,,
+2015,Utilities,Total,0.4,,,
+2015,Services,Total,1.7,,,
+2015,Professional & technical activities,Total,2.6,,,
+2015,Water & waste management,Total,0.5,,,
+2015,Wholesale & retail trade,Total,16.8,,,
+2015,Mining,Male,1.0,Malaysia,8691.0,86.9
+2015,Manufacturing,Male,16.5,Malaysia,8691.0,1434.0
+2015,Construction,Male,13.8,Malaysia,8691.0,1199.4
+2015,Transportation,Male,6.1,Malaysia,8691.0,530.2
+2015,Accommodation & food services,Male,6.7,Malaysia,8691.0,582.3
+2015,Info & communication,Male,1.6,Malaysia,8691.0,139.1
+2015,Financial & insurance,Male,1.9,Malaysia,8691.0,165.1
+2015,Real estate,Male,0.5,Malaysia,8691.0,43.5
+2015,Admin & support services,Male,4.7,Malaysia,8691.0,408.5
+2015,Public administration,Male,6.0,Malaysia,8691.0,521.5
+2015,Education,Male,3.3,Malaysia,8691.0,286.8
+2015,Healthcare,Male,1.3,Malaysia,8691.0,113.0
+2015,Households,Male,0.1,Malaysia,8691.0,8.7
+2015,Agriculture,Male,15.3,Malaysia,8691.0,1329.7
+2015,Arts & recreation,Male,0.6,Malaysia,8691.0,52.1
+2015,Utilities,Male,0.6,Malaysia,8691.0,52.1
+2015,Services,Male,1.2,Malaysia,8691.0,104.3
+2015,Professional & technical activities,Male,2.2,Malaysia,8691.0,191.2
+2015,Water & waste management,Male,0.7,Malaysia,8691.0,60.8
+2015,Wholesale & retail trade,Male,16.1,Malaysia,8691.0,1399.3
+2015,Mining,Female,0.3,Malaysia,5376.7,16.1
+2015,Manufacturing,Female,16.4,Malaysia,5376.7,881.8
+2015,Construction,Female,2.1,Malaysia,5376.7,112.9
+2015,Transportation,Female,1.5,Malaysia,5376.7,80.7
+2015,Accommodation & food services,Female,10.6,Malaysia,5376.7,569.9
+2015,Info & communication,Female,1.3,Malaysia,5376.7,69.9
+2015,Financial & insurance,Female,3.6,Malaysia,5376.7,193.6
+2015,Real estate,Female,0.6,Malaysia,5376.7,32.3
+2015,Admin & support services,Female,4.2,Malaysia,5376.7,225.8
+2015,Public administration,Female,4.3,Malaysia,5376.7,231.2
+2015,Education,Female,11.4,Malaysia,5376.7,612.9
+2015,Healthcare,Female,8.6,Malaysia,5376.7,462.4
+2015,Households,Female,2.5,Malaysia,5376.7,134.4
+2015,Agriculture,Female,7.9,Malaysia,5376.7,424.8
+2015,Arts & recreation,Female,0.5,Malaysia,5376.7,26.9
+2015,Utilities,Female,0.2,Malaysia,5376.7,10.8
+2015,Services,Female,2.5,Malaysia,5376.7,134.4
+2015,Professional & technical activities,Female,3.2,Malaysia,5376.7,172.1
+2015,Water & waste management,Female,0.2,Malaysia,5376.7,10.8
+2015,Wholesale & retail trade,Female,17.9,Malaysia,5376.7,962.4
+2016,Mining,Total,0.7,,,
+2016,Manufacturing,Total,16.9,,,
+2016,Construction,Total,8.8,,,
+2016,Transportation,Total,4.5,,,
+2016,Accommodation & food services,Total,8.9,,,
+2016,Info & communication,Total,1.5,,,
+2016,Financial & insurance,Total,2.4,,,
+2016,Real estate,Total,0.6,,,
+2016,Admin & support services,Total,4.6,,,
+2016,Public administration,Total,5.3,,,
+2016,Education,Total,6.6,,,
+2016,Healthcare,Total,4.0,,,
+2016,Households,Total,0.9,,,
+2016,Agriculture,Total,11.4,,,
+2016,Arts & recreation,Total,0.6,,,
+2016,Utilities,Total,0.5,,,
+2016,Services,Total,1.6,,,
+2016,Professional & technical activities,Total,2.6,,,
+2016,Water & waste management,Total,0.5,,,
+2016,Wholesale & retail trade,Total,17.1,,,
+2016,Mining,Male,0.9,Malaysia,9012.1,81.1
+2016,Manufacturing,Male,16.7,Malaysia,9012.1,1505.0
+2016,Construction,Male,13.0,Malaysia,9012.1,1171.6
+2016,Transportation,Male,6.2,Malaysia,9012.1,558.8
+2016,Accommodation & food services,Male,7.2,Malaysia,9012.1,648.9
+2016,Info & communication,Male,1.7,Malaysia,9012.1,153.2
+2016,Financial & insurance,Male,1.8,Malaysia,9012.1,162.2
+2016,Real estate,Male,0.5,Malaysia,9012.1,45.1
+2016,Admin & support services,Male,5.0,Malaysia,9012.1,450.6
+2016,Public administration,Male,6.0,Malaysia,9012.1,540.7
+2016,Education,Male,3.5,Malaysia,9012.1,315.4
+2016,Healthcare,Male,1.3,Malaysia,9012.1,117.2
+2016,Households,Male,0.1,Malaysia,9012.1,9.0
+2016,Agriculture,Male,14.2,Malaysia,9012.1,1279.7
+2016,Arts & recreation,Male,0.6,Malaysia,9012.1,54.1
+2016,Utilities,Male,0.7,Malaysia,9012.1,63.1
+2016,Services,Male,1.3,Malaysia,9012.1,117.2
+2016,Professional & technical activities,Male,2.1,Malaysia,9012.1,189.3
+2016,Water & waste management,Male,0.8,Malaysia,9012.1,72.1
+2016,Wholesale & retail trade,Male,16.4,Malaysia,9012.1,1478.0
+2016,Mining,Female,0.4,Malaysia,5655.7,22.6
+2016,Manufacturing,Female,17.1,Malaysia,5655.7,967.1
+2016,Construction,Female,2.1,Malaysia,5655.7,118.8
+2016,Transportation,Female,1.6,Malaysia,5655.7,90.5
+2016,Accommodation & food services,Female,11.6,Malaysia,5655.7,656.1
+2016,Info & communication,Female,1.2,Malaysia,5655.7,67.9
+2016,Financial & insurance,Female,3.5,Malaysia,5655.7,197.9
+2016,Real estate,Female,0.7,Malaysia,5655.7,39.6
+2016,Admin & support services,Female,4.1,Malaysia,5655.7,231.9
+2016,Public administration,Female,4.2,Malaysia,5655.7,237.5
+2016,Education,Female,11.4,Malaysia,5655.7,644.7
+2016,Healthcare,Female,8.4,Malaysia,5655.7,475.1
+2016,Households,Female,2.2,Malaysia,5655.7,124.4
+2016,Agriculture,Female,6.8,Malaysia,5655.7,384.6
+2016,Arts & recreation,Female,0.6,Malaysia,5655.7,33.9
+2016,Utilities,Female,0.3,Malaysia,5655.7,17.0
+2016,Services,Female,2.2,Malaysia,5655.7,124.4
+2016,Professional & technical activities,Female,3.2,Malaysia,5655.7,181.0
+2016,Water & waste management,Female,0.2,Malaysia,5655.7,11.3
+2016,Wholesale & retail trade,Female,18.3,Malaysia,5655.7,1035.0
+2017,Mining,Total,0.7,,,
+2017,Manufacturing,Total,17.4,,,
+2017,Construction,Total,8.7,,,
+2017,Transportation,Total,4.5,,,
+2017,Accommodation & food services,Total,9.1,,,
+2017,Info & communication,Total,1.5,,,
+2017,Financial & insurance,Total,2.6,,,
+2017,Real estate,Total,0.6,,,
+2017,Admin & support services,Total,4.7,,,
+2017,Public administration,Total,5.1,,,
+2017,Education,Total,6.1,,,
+2017,Healthcare,Total,4.1,,,
+2017,Households,Total,0.7,,,
+2017,Agriculture,Total,11.3,,,
+2017,Arts & recreation,Total,0.6,,,
+2017,Utilities,Total,0.4,,,
+2017,Services,Total,1.8,,,
+2017,Professional & technical activities,Total,2.4,,,
+2017,Water & waste management,Total,0.6,,,
+2017,Wholesale & retail trade,Total,17.2,,,
+2017,Mining,Male,0.9,Malaysia,8913.4,80.2
+2017,Manufacturing,Male,17.1,Malaysia,8913.4,1524.2
+2017,Construction,Male,12.8,Malaysia,8913.4,1140.9
+2017,Transportation,Male,6.4,Malaysia,8913.4,570.5
+2017,Accommodation & food services,Male,7.5,Malaysia,8913.4,668.5
+2017,Info & communication,Male,1.7,Malaysia,8913.4,151.5
+2017,Financial & insurance,Male,1.8,Malaysia,8913.4,160.4
+2017,Real estate,Male,0.6,Malaysia,8913.4,53.5
+2017,Admin & support services,Male,5.1,Malaysia,8913.4,454.6
+2017,Public administration,Male,5.7,Malaysia,8913.4,508.1
+2017,Education,Male,3.2,Malaysia,8913.4,285.2
+2017,Healthcare,Male,1.4,Malaysia,8913.4,124.8
+2017,Households,Male,0.1,Malaysia,8913.4,8.9
+2017,Agriculture,Male,14.2,Malaysia,8913.4,1265.7
+2017,Arts & recreation,Male,0.6,Malaysia,8913.4,53.5
+2017,Utilities,Male,0.6,Malaysia,8913.4,53.5
+2017,Services,Male,1.3,Malaysia,8913.4,115.9
+2017,Professional & technical activities,Male,2.0,Malaysia,8913.4,178.3
+2017,Water & waste management,Male,0.8,Malaysia,8913.4,71.3
+2017,Wholesale & retail trade,Male,16.4,Malaysia,8913.4,1461.8
+2017,Mining,Female,0.3,Malaysia,5563.3,16.7
+2017,Manufacturing,Female,17.8,Malaysia,5563.3,990.3
+2017,Construction,Female,2.2,Malaysia,5563.3,122.4
+2017,Transportation,Female,1.5,Malaysia,5563.3,83.4
+2017,Accommodation & food services,Female,11.8,Malaysia,5563.3,656.5
+2017,Info & communication,Female,1.3,Malaysia,5563.3,72.3
+2017,Financial & insurance,Female,3.7,Malaysia,5563.3,205.8
+2017,Real estate,Female,0.6,Malaysia,5563.3,33.4
+2017,Admin & support services,Female,4.0,Malaysia,5563.3,222.5
+2017,Public administration,Female,4.2,Malaysia,5563.3,233.7
+2017,Education,Female,10.7,Malaysia,5563.3,595.3
+2017,Healthcare,Female,8.4,Malaysia,5563.3,467.3
+2017,Households,Female,1.8,Malaysia,5563.3,100.1
+2017,Agriculture,Female,6.7,Malaysia,5563.3,372.7
+2017,Arts & recreation,Female,0.6,Malaysia,5563.3,33.4
+2017,Utilities,Female,0.2,Malaysia,5563.3,11.1
+2017,Services,Female,2.6,Malaysia,5563.3,144.6
+2017,Professional & technical activities,Female,3.1,Malaysia,5563.3,172.5
+2017,Water & waste management,Female,0.2,Malaysia,5563.3,11.1
+2017,Wholesale & retail trade,Female,18.4,Malaysia,5563.3,1023.6
+2018,Mining,Total,0.6,,,
+2018,Manufacturing,Total,16.9,,,
+2018,Construction,Total,8.5,,,
+2018,Transportation,Total,4.7,,,
+2018,Accommodation & food services,Total,10.0,,,
+2018,Info & communication,Total,1.5,,,
+2018,Financial & insurance,Total,2.3,,,
+2018,Real estate,Total,0.7,,,
+2018,Admin & support services,Total,5.1,,,
+2018,Public administration,Total,4.9,,,
+2018,Education,Total,6.7,,,
+2018,Healthcare,Total,3.7,,,
+2018,Households,Total,0.7,,,
+2018,Agriculture,Total,10.6,,,
+2018,Arts & recreation,Total,0.6,,,
+2018,Utilities,Total,0.5,,,
+2018,Services,Total,1.8,,,
+2018,Professional & technical activities,Total,2.5,,,
+2018,Water & waste management,Total,0.6,,,
+2018,Wholesale & retail trade,Total,17.2,,,
+2018,Mining,Male,0.8,Malaysia,9041.8,72.3
+2018,Manufacturing,Male,16.6,Malaysia,9041.8,1500.9
+2018,Construction,Male,12.5,Malaysia,9041.8,1130.2
+2018,Transportation,Male,6.5,Malaysia,9041.8,587.7
+2018,Accommodation & food services,Male,8.1,Malaysia,9041.8,732.4
+2018,Info & communication,Male,1.6,Malaysia,9041.8,144.7
+2018,Financial & insurance,Male,1.8,Malaysia,9041.8,162.8
+2018,Real estate,Male,0.6,Malaysia,9041.8,54.3
+2018,Admin & support services,Male,5.5,Malaysia,9041.8,497.3
+2018,Public administration,Male,5.6,Malaysia,9041.8,506.3
+2018,Education,Male,3.8,Malaysia,9041.8,343.6
+2018,Healthcare,Male,1.2,Malaysia,9041.8,108.5
+2018,Households,Male,0.1,Malaysia,9041.8,9.0
+2018,Agriculture,Male,13.5,Malaysia,9041.8,1220.6
+2018,Arts & recreation,Male,0.6,Malaysia,9041.8,54.3
+2018,Utilities,Male,0.7,Malaysia,9041.8,63.3
+2018,Services,Male,1.4,Malaysia,9041.8,126.6
+2018,Professional & technical activities,Male,2.0,Malaysia,9041.8,180.8
+2018,Water & waste management,Male,0.8,Malaysia,9041.8,72.3
+2018,Wholesale & retail trade,Male,16.4,Malaysia,9041.8,1482.9
+2018,Mining,Female,0.3,Malaysia,5734.2,17.2
+2018,Manufacturing,Female,17.4,Malaysia,5734.2,997.8
+2018,Construction,Female,2.2,Malaysia,5734.2,126.2
+2018,Transportation,Female,1.9,Malaysia,5734.2,108.9
+2018,Accommodation & food services,Female,12.9,Malaysia,5734.2,739.7
+2018,Info & communication,Female,1.3,Malaysia,5734.2,74.5
+2018,Financial & insurance,Female,3.1,Malaysia,5734.2,177.8
+2018,Real estate,Female,0.8,Malaysia,5734.2,45.9
+2018,Admin & support services,Female,4.3,Malaysia,5734.2,246.6
+2018,Public administration,Female,3.7,Malaysia,5734.2,212.2
+2018,Education,Female,11.3,Malaysia,5734.2,648.0
+2018,Healthcare,Female,7.7,Malaysia,5734.2,441.5
+2018,Households,Female,1.7,Malaysia,5734.2,97.5
+2018,Agriculture,Female,6.1,Malaysia,5734.2,349.8
+2018,Arts & recreation,Female,0.6,Malaysia,5734.2,34.4
+2018,Utilities,Female,0.2,Malaysia,5734.2,11.5
+2018,Services,Female,2.4,Malaysia,5734.2,137.6
+2018,Professional & technical activities,Female,3.3,Malaysia,5734.2,189.2
+2018,Water & waste management,Female,0.2,Malaysia,5734.2,11.5
+2018,Wholesale & retail trade,Female,18.5,Malaysia,5734.2,1060.8
+2019,Mining,Total,0.6,,,
+2019,Manufacturing,Total,17.8,,,
+2019,Construction,Total,8.5,,,
+2019,Transportation,Total,4.4,,,
+2019,Accommodation & food services,Total,10.3,,,
+2019,Info & communication,Total,1.4,,,
+2019,Financial & insurance,Total,2.2,,,
+2019,Real estate,Total,0.6,,,
+2019,Admin & support services,Total,5.3,,,
+2019,Public administration,Total,4.9,,,
+2019,Education,Total,6.4,,,
+2019,Healthcare,Total,3.5,,,
+2019,Households,Total,0.7,,,
+2019,Agriculture,Total,10.2,,,
+2019,Arts & recreation,Total,0.5,,,
+2019,Utilities,Total,0.5,,,
+2019,Services,Total,1.8,,,
+2019,Professional & technical activities,Total,2.6,,,
+2019,Water & waste management,Total,0.6,,,
+2019,Wholesale & retail trade,Total,17.2,,,
+2019,Mining,Male,0.8,Malaysia,9202.4,73.6
+2019,Manufacturing,Male,18.1,Malaysia,9202.4,1665.6
+2019,Construction,Male,12.6,Malaysia,9202.4,1159.5
+2019,Transportation,Male,6.2,Malaysia,9202.4,570.5
+2019,Accommodation & food services,Male,8.0,Malaysia,9202.4,736.2
+2019,Info & communication,Male,1.5,Malaysia,9202.4,138.0
+2019,Financial & insurance,Male,1.6,Malaysia,9202.4,147.2
+2019,Real estate,Male,0.5,Malaysia,9202.4,46.0
+2019,Admin & support services,Male,5.7,Malaysia,9202.4,524.5
+2019,Public administration,Male,5.6,Malaysia,9202.4,515.3
+2019,Education,Male,3.4,Malaysia,9202.4,312.9
+2019,Healthcare,Male,1.2,Malaysia,9202.4,110.4
+2019,Households,Male,0.1,Malaysia,9202.4,9.2
+2019,Agriculture,Male,13.3,Malaysia,9202.4,1223.9
+2019,Arts & recreation,Male,0.5,Malaysia,9202.4,46.0
+2019,Utilities,Male,0.7,Malaysia,9202.4,64.4
+2019,Services,Male,1.3,Malaysia,9202.4,119.6
+2019,Professional & technical activities,Male,2.1,Malaysia,9202.4,193.3
+2019,Water & waste management,Male,0.8,Malaysia,9202.4,73.6
+2019,Wholesale & retail trade,Male,16.1,Malaysia,9202.4,1481.6
+2019,Mining,Female,0.3,Malaysia,5871.0,17.6
+2019,Manufacturing,Female,17.4,Malaysia,5871.0,1021.6
+2019,Construction,Female,2.1,Malaysia,5871.0,123.3
+2019,Transportation,Female,1.6,Malaysia,5871.0,93.9
+2019,Accommodation & food services,Female,13.8,Malaysia,5871.0,810.2
+2019,Info & communication,Female,1.3,Malaysia,5871.0,76.3
+2019,Financial & insurance,Female,3.2,Malaysia,5871.0,187.9
+2019,Real estate,Female,0.7,Malaysia,5871.0,41.1
+2019,Admin & support services,Female,4.9,Malaysia,5871.0,287.7
+2019,Public administration,Female,3.8,Malaysia,5871.0,223.1
+2019,Education,Female,11.1,Malaysia,5871.0,651.7
+2019,Healthcare,Female,7.0,Malaysia,5871.0,411.0
+2019,Households,Female,1.6,Malaysia,5871.0,93.9
+2019,Agriculture,Female,5.5,Malaysia,5871.0,322.9
+2019,Arts & recreation,Female,0.5,Malaysia,5871.0,29.4
+2019,Utilities,Female,0.2,Malaysia,5871.0,11.7
+2019,Services,Female,2.5,Malaysia,5871.0,146.8
+2019,Professional & technical activities,Female,3.4,Malaysia,5871.0,199.6
+2019,Water & waste management,Female,0.2,Malaysia,5871.0,11.7
+2019,Wholesale & retail trade,Female,18.9,Malaysia,5871.0,1109.6
+2020,Agriculture,Total,10.5,,,
+2020,Mining,Total,0.5,,,
+2020,Manufacturing,Total,16.7,,,
+2020,Utilities,Total,0.5,,,
+2020,Water & waste management,Total,0.6,,,
+2020,Construction,Total,7.8,,,
+2020,Wholesale & retail trade,Total,18.5,,,
+2020,Transportation,Total,4.6,,,
+2020,Accommodation & food services,Total,10.3,,,
+2020,Info & communication,Total,1.5,,,
+2020,Financial & insurance,Total,2.5,,,
+2020,Real estate,Total,0.5,,,
+2020,Professional & technical activities,Total,2.5,,,
+2020,Admin & support services,Total,5.4,,,
+2020,Public administration,Total,4.9,,,
+2020,Education,Total,6.3,,,
+2020,Healthcare,Total,3.7,,,
+2020,Arts & recreation,Total,0.4,,,
+2020,Services,Total,1.8,,,
+2020,Households,Total,0.4,,,
+2020,Agriculture,Male,13.3,Malaysia,9128.8,1214.1
+2020,Mining,Male,0.7,Malaysia,9128.8,63.9
+2020,Manufacturing,Male,16.5,Malaysia,9128.8,1506.3
+2020,Utilities,Male,0.7,Malaysia,9128.8,63.9
+2020,Water & waste management,Male,0.7,Malaysia,9128.8,63.9
+2020,Construction,Male,11.2,Malaysia,9128.8,1022.4
+2020,Wholesale & retail trade,Male,17.8,Malaysia,9128.8,1624.9
+2020,Transportation,Male,6.3,Malaysia,9128.8,575.1
+2020,Accommodation & food services,Male,9.1,Malaysia,9128.8,830.7
+2020,Info & communication,Male,1.5,Malaysia,9128.8,136.9
+2020,Financial & insurance,Male,1.9,Malaysia,9128.8,173.4
+2020,Real estate,Male,0.5,Malaysia,9128.8,45.6
+2020,Professional & technical activities,Male,2.1,Malaysia,9128.8,191.7
+2020,Admin & support services,Male,5.6,Malaysia,9128.8,511.2
+2020,Public administration,Male,5.4,Malaysia,9128.8,493.0
+2020,Education,Male,3.2,Malaysia,9128.8,292.1
+2020,Healthcare,Male,1.7,Malaysia,9128.8,155.2
+2020,Arts & recreation,Male,0.3,Malaysia,9128.8,27.4
+2020,Services,Male,1.5,Malaysia,9128.8,136.9
+2020,Households,Male,0.1,Malaysia,9128.8,9.1
+2020,Agriculture,Female,6.1,Malaysia,5827.9,355.5
+2020,Mining,Female,0.4,Malaysia,5827.9,23.3
+2020,Manufacturing,Female,17.1,Malaysia,5827.9,996.6
+2020,Utilities,Female,0.2,Malaysia,5827.9,11.7
+2020,Water & waste management,Female,0.3,Malaysia,5827.9,17.5
+2020,Construction,Female,2.6,Malaysia,5827.9,151.5
+2020,Wholesale & retail trade,Female,19.6,Malaysia,5827.9,1142.3
+2020,Transportation,Female,2.0,Malaysia,5827.9,116.6
+2020,Accommodation & food services,Female,12.2,Malaysia,5827.9,711.0
+2020,Info & communication,Female,1.5,Malaysia,5827.9,87.4
+2020,Financial & insurance,Female,3.4,Malaysia,5827.9,198.1
+2020,Real estate,Female,0.7,Malaysia,5827.9,40.8
+2020,Professional & technical activities,Female,3.2,Malaysia,5827.9,186.5
+2020,Admin & support services,Female,5.0,Malaysia,5827.9,291.4
+2020,Public administration,Female,4.1,Malaysia,5827.9,238.9
+2020,Education,Female,11.1,Malaysia,5827.9,646.9
+2020,Healthcare,Female,6.9,Malaysia,5827.9,402.1
+2020,Arts & recreation,Female,0.5,Malaysia,5827.9,29.1
+2020,Services,Female,2.2,Malaysia,5827.9,128.2
+2020,Households,Female,1.0,Malaysia,5827.9,58.3

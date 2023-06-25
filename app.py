@@ -1,7 +1,7 @@
 import streamlit as st
 from population_map import populationMap
 from death_chart import deathChart
-from streamlit_javascript import st_javascript
+from employed_chart import employmentChart
 
 # init
 if "selectedState" not in st.session_state:
@@ -70,7 +70,9 @@ with st.sidebar:
 # --------------------------------------------------------------------------
 
 
+# --------------------------------------------------------------------------
 # draw population state map
+# --------------------------------------------------------------------------
 props = {"year": st.session_state.year} # message to be sent to js
 st.header("Population Distribution by State in a Country")
 st.markdown("**Click** on the legend to display the state with a specific population density. Click again to deselect.")
@@ -80,8 +82,12 @@ st.markdown("**Click** on the state to view the death rate for a specific state.
 iPopulationMap = populationMap(key="popMap",  **props)
 if iPopulationMap:
     fromMapGetState()
+# --------------------------------------------------------------------------
 
+
+# --------------------------------------------------------------------------
 # draw death rate bar chart
+# --------------------------------------------------------------------------
 container = st.container()
 st.markdown("**Hover** over the bars to view detailed death rate.")
 showAll = st.checkbox("Show all states", value=False, key="showAll", on_change=clearState)
@@ -97,3 +103,17 @@ iDeathChart = deathChart(key="deathChart", **props)
 if not st.session_state.deathChart is None:
     deathSectionHeader = f'<h2>Age Group-Based Mortality Rates for <span style="color: {st.session_state.deathChart[0]}">Male</span> & <span style="color: {st.session_state.deathChart[1]}">Female</span> in Year {st.session_state.year}</h2>'
     container.write(deathSectionHeader, unsafe_allow_html=True)
+# --------------------------------------------------------------------------
+
+
+# --------------------------------------------------------------------------
+# draw employment population bubble chart
+# --------------------------------------------------------------------------
+container = st.container()
+st.markdown("*Please note that the distribution of employment is spread across the entire country and is not filtered by individual states.*")
+props = {"year": st.session_state.year}
+employmentChart = employmentChart(key="employmentChart", **props)
+if not st.session_state.employmentChart is None:
+    deathSectionHeader = f'<h2>Employment Distribution Across Industries for <span style="color: {st.session_state.employmentChart[0]}">Male</span> & <span style="color: {st.session_state.employmentChart[1]}">Female</span> in Year {st.session_state.year}</h2>'
+    container.write(deathSectionHeader, unsafe_allow_html=True)
+# --------------------------------------------------------------------------
