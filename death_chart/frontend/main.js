@@ -68,27 +68,26 @@ function drawDeathChart() {
         .append("g")
         .attr("transform", `translate(${margin.left},${margin.top})`);
 
-    let infoTest = svg
-        .append("text")
-        .attr("x", width / 2)
-        .attr("y", -50)
-        .attr("text-anchor", "middle")
-        .attr("font-size", "24px")
-        .attr("font-weight", "bold");
-    if (
-        selectedYear < 2001 ||
-        selectedYear > 2018 ||
-        (selectedYear < 2014 && selectedState === "Sabah")
-    ) {
-        infoTest.attr("fill", "red");
-        if (!selectedState)
-            infoTest.text(`No death rate data for year ${selectedYear}`);
-        else
-            infoTest.text(
-                `No death rate data for ${selectedState} in ${selectedYear}`
-            );
-        return;
-    }
+    // let infoTest = svg
+    //     .append("text")
+    //     .attr("x", width / 2)
+    //     .attr("y", -50)
+    //     .attr("text-anchor", "middle")
+    //     .attr("font-size", "24px")
+    //     .attr("font-weight", "bold");
+    // if (
+    //     selectedYear < 2001 ||
+    //     selectedYear > 2018 ||
+    //     (selectedYear < 2014 && selectedState === "Sabah")
+    // ) {
+    //     infoTest.attr("fill", "red");
+    //     if (!selectedState)
+    //         infoTest.text(`No death rate data for year ${selectedYear}`);
+    //     else
+    //         infoTest.text(
+    //             `No death rate data for ${selectedState} in ${selectedYear}`
+    //         );
+    // }
 
     let array = [];
     let agegroup = [];
@@ -160,7 +159,8 @@ function drawDeathChart() {
     colorScale = d3
         .scaleOrdinal()
         .domain(subgroups)
-        .range(["#4BA5FF", "#FF4B4B"]);
+        // .range(["#4BA5FF", "#FF4B4B"]);
+        .range(["#1f77b4", "#d62728"]);
 
     svg.append("g")
         .selectAll("g")

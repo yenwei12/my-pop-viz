@@ -9,6 +9,7 @@
     padding: 10px;
     font: 13px sans-serif;
     background: lightsteelblue;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
     border: 0px;
     border-radius: 8px;
     pointer-events: none;
@@ -32,16 +33,6 @@
 }
 
 /* Group Bar Graph */
-.tooltip_bc {
-    position: absolute;
-    text-align: center;
-    padding: 10px;
-    background: #f8f9fa;
-    border: 1px solid #ddd;
-    border-radius: 4px;
-    pointer-events: none;
-    z-index: 1000;
-}
 
 .reveal {
     position: relative;

@@ -160,7 +160,8 @@ function drawBubbleChart() {
     colorScale = d3
         .scaleOrdinal()
         .domain(["Male", "Female"])
-        .range(["#4BA5FF", "#FF4B4B"]);
+        // .range(["#4BA5FF", "#FF4B4B"]);
+        .range(["#1f77b4", "#d62728"]);
 
     // Map the data to the required format for the visualization
     let mappedData = filteredData.map((d) => {
