@@ -156,8 +156,7 @@ function drawBubbleChart() {
     colorScale = d3
         .scaleOrdinal()
         .domain(["Male", "Female"])
-        .range(["#00D4D4", "#FF4B4B"]);
-    // .range(["#619CFF", "#F8766D"]);
+        .range(["#4BA5FF", "#FF4B4B"]);
 
     // Map the data to the required format for the visualization
     let mappedData = filteredData.map((d) => {
@@ -223,7 +222,7 @@ function drawBubbleChart() {
         .style("fill", (d) => d.color)
         .style("fill-opacity", 0.8)
         .attr("stroke", "black")
-        .style("stroke-width", 4);
+        .style("stroke-width", 2);
 
     // Append text to each group displaying the age group
     node.append("text")

@@ -145,8 +145,7 @@ function drawDeathChart() {
     colorScale = d3
         .scaleOrdinal()
         .domain(subgroups)
-        .range(["#00D4D4", "#FF4B4B"]);
-    // .range(["#79B9C2", "#F89880"]);
+        .range(["#4BA5FF", "#FF4B4B"]);
 
     svg.append("g")
         .selectAll("g")
@@ -172,6 +171,7 @@ function drawDeathChart() {
         .attr("width", xSubgroup.bandwidth())
         .attr("height", 0)
         .attr("fill", (d) => d.color)
+        .style("fill-opacity", 0.8)
         .on("mouseover", showTooltip)
         .on("mouseout", hideTooltip)
         .transition()

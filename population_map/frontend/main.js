@@ -183,7 +183,7 @@ function drawMap() {
                 return;
             }
 
-            d3.select(this).attr("fill", "YELLOW");
+            d3.select(this).attr("fill", "#FF4B4B");
 
             showTooltip(event, d);
         })
