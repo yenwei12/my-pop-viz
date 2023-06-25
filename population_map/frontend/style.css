@@ -1,0 +1,65 @@
+* {
+    font-family: sans-serif;
+    margin: 0 auto;
+}
+
+.tooltip {
+    position: absolute;
+    text-align: center;
+    padding: 10px;
+    font: 13px sans-serif;
+    background: lightsteelblue;
+    border: 0px;
+    border-radius: 8px;
+    pointer-events: none;
+    line-height: 1.5;
+}
+
+.map {
+    /* background-color: rgb(238, 231, 231); */
+    width: 100%;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+}
+
+#map-container {
+    width: 100%;
+    position: relative;
+}
+
+.legend {
+    font-size: 12px;
+}
+
+.legend-item {
+    display: inline-flex;
+    align-items: center;
+    margin-right: 10px;
+}
+
+.legend-color {
+    width: 10px;
+    height: 10px;
+    margin-right: 5px;
+}
+
+#map-and-chart-container {
+    display: flex;
+    flex-direction: column;
+}
+
+#population {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background: rgba(255, 255, 255, 0.6);
+    padding: 10px;
+    border-radius: 8px;
+    width: 300px;
+    height: 25px;
+}
