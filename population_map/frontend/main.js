@@ -230,7 +230,6 @@ function update(props) {
     drawLegend();
     drawMap();
     drawPopulationText();
-    drawDeathChart("Johor", 2005);
 }
 
 // Access values sent from Streamlit
