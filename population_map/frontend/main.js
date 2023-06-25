@@ -25,7 +25,8 @@ function unhighlightStates() {
     d3.selectAll("path").style("opacity", 1).style("stroke", null);
 }
 
-function drawTooltip(state) {
+function showTooltip(event, d) {
+    let state = d.properties.name;
     if (!tooltip) {
         tooltip = d3
             .select("body")
@@ -66,6 +67,10 @@ function drawTooltip(state) {
         .html(tooltipHtml)
         .style("left", event.pageX + "px")
         .style("top", event.pageY - 28 + "px");
+}
+
+function hideTooltip(event, d) {
+    tooltip.transition().duration(500).style("opacity", 0);
 }
 
 function drawLegend() {
@@ -180,7 +185,7 @@ function drawMap() {
 
             d3.select(this).attr("fill", "YELLOW");
 
-            drawTooltip(d.properties.name);
+            showTooltip(event, d);
         })
         .on("mouseout", function (event, d) {
             d3.select(this).attr("fill", function () {
@@ -193,8 +198,7 @@ function drawMap() {
                     return "#ccc";
                 }
             });
-
-            tooltip.transition().duration(500).style("opacity", 0);
+            hideTooltip(event, d);
         })
         .on("click", function (event, d) {
             Streamlit.notifyHost({
