@@ -16,7 +16,7 @@ let margin = {
 let width = 1000 - margin.left - margin.right;
 let height = 550 - margin.top - margin.bottom;
 
-function drawTooltip(event, d) {
+function showTooltip(event, d) {
     if (!tooltip) {
         tooltip = d3
             .select("body")
@@ -37,6 +37,10 @@ function drawTooltip(event, d) {
             "top",
             d3.pointer(event, d3.select(".group-bar").node())[1] - 30 + "px"
         );
+}
+
+function hideTooltip(event, d) {
+    tooltip.transition().duration(500).style("opacity", 0);
 }
 
 function drawDeathChart() {
@@ -142,7 +146,7 @@ function drawDeathChart() {
         .scaleOrdinal()
         .domain(subgroups)
         .range(["#00D4D4", "#FF4B4B"]);
-        // .range(["#79B9C2", "#F89880"]);
+    // .range(["#79B9C2", "#F89880"]);
 
     svg.append("g")
         .selectAll("g")
@@ -168,12 +172,8 @@ function drawDeathChart() {
         .attr("width", xSubgroup.bandwidth())
         .attr("height", 0)
         .attr("fill", (d) => d.color)
-        .on("mouseover", function (event, d) {
-            drawTooltip(event, d);
-        })
-        .on("mouseout", function (event, d) {
-            tooltip.transition().duration(500).style("opacity", 0);
-        })
+        .on("mouseover", showTooltip)
+        .on("mouseout", hideTooltip)
         .transition()
         .duration(800)
         .delay((d, i) => i * 50)
