@@ -1,0 +1,2785 @@
+﻿Year,Country or State,Age-specific Fertility Rate,Fertility rate
+2001,Malaysia,15 - 19,15
+2001,Malaysia,20 - 24,88
+2001,Malaysia,25 - 29,168
+2001,Malaysia,30 - 34,146
+2001,Malaysia,35 - 39,90
+2001,Malaysia,40 - 44,31
+2001,Malaysia,45 - 49,4
+2001,Malaysia,Total Fertility Rate,2709
+2001,Johor,15 - 19,13
+2001,Johor,20 - 24,90
+2001,Johor,25 - 29,178
+2001,Johor,30 - 34,153
+2001,Johor,35 - 39,91
+2001,Johor,40 - 44,27
+2001,Johor,45 - 49,3
+2001,Johor,Total Fertility Rate,2775
+2001,Kedah,15 - 19,11
+2001,Kedah,20 - 24,101
+2001,Kedah,25 - 29,198
+2001,Kedah,30 - 34,167
+2001,Kedah,35 - 39,107
+2001,Kedah,40 - 44,40
+2001,Kedah,45 - 49,4
+2001,Kedah,Total Fertility Rate,3138
+2001,Kelantan,15 - 19,15
+2001,Kelantan,20 - 24,140
+2001,Kelantan,25 - 29,342
+2001,Kelantan,30 - 34,231
+2001,Kelantan,35 - 39,160
+2001,Kelantan,40 - 44,75
+2001,Kelantan,45 - 49,10
+2001,Kelantan,Total Fertility Rate,4871
+2001,Melaka,15 - 19,10
+2001,Melaka,20 - 24,89
+2001,Melaka,25 - 29,197
+2001,Melaka,30 - 34,168
+2001,Melaka,35 - 39,94
+2001,Melaka,40 - 44,27
+2001,Melaka,45 - 49,2
+2001,Melaka,Total Fertility Rate,2936
+2001,Negeri Sembilan,15 - 19,12
+2001,Negeri Sembilan,20 - 24,90
+2001,Negeri Sembilan,25 - 29,193
+2001,Negeri Sembilan,30 - 34,151
+2001,Negeri Sembilan,35 - 39,86
+2001,Negeri Sembilan,40 - 44,26
+2001,Negeri Sembilan,45 - 49,2
+2001,Negeri Sembilan,Total Fertility Rate,2802
+2001,Pahang,15 - 19,15
+2001,Pahang,20 - 24,110
+2001,Pahang,25 - 29,210
+2001,Pahang,30 - 34,155
+2001,Pahang,35 - 39,98
+2001,Pahang,40 - 44,36
+2001,Pahang,45 - 49,4
+2001,Pahang,Total Fertility Rate,3137
+2001,Perak,15 - 19,12
+2001,Perak,20 - 24,106
+2001,Perak,25 - 29,219
+2001,Perak,30 - 34,165
+2001,Perak,35 - 39,92
+2001,Perak,40 - 44,28
+2001,Perak,45 - 49,3
+2001,Perak,Total Fertility Rate,3126
+2001,Perlis,15 - 19,13
+2001,Perlis,20 - 24,111
+2001,Perlis,25 - 29,212
+2001,Perlis,30 - 34,156
+2001,Perlis,35 - 39,106
+2001,Perlis,40 - 44,37
+2001,Perlis,45 - 49,3
+2001,Perlis,Total Fertility Rate,3196
+2001,Pulau Pinang,15 - 19,8
+2001,Pulau Pinang,20 - 24,62
+2001,Pulau Pinang,25 - 29,129
+2001,Pulau Pinang,30 - 34,123
+2001,Pulau Pinang,35 - 39,72
+2001,Pulau Pinang,40 - 44,17
+2001,Pulau Pinang,45 - 49,1
+2001,Pulau Pinang,Total Fertility Rate,2063
+2001,Sabah,15 - 19,21
+2001,Sabah,20 - 24,87
+2001,Sabah,25 - 29,125
+2001,Sabah,30 - 34,112
+2001,Sabah,35 - 39,74
+2001,Sabah,40 - 44,37
+2001,Sabah,45 - 49,10
+2001,Sabah,Total Fertility Rate,2334
+2001,Sarawak,15 - 19,36
+2001,Sarawak,20 - 24,115
+2001,Sarawak,25 - 29,160
+2001,Sarawak,30 - 34,136
+2001,Sarawak,35 - 39,77
+2001,Sarawak,40 - 44,24
+2001,Sarawak,45 - 49,3
+2001,Sarawak,Total Fertility Rate,2759
+2001,Selangor,15 - 19,8
+2001,Selangor,20 - 24,63
+2001,Selangor,25 - 29,141
+2001,Selangor,30 - 34,133
+2001,Selangor,35 - 39,78
+2001,Selangor,40 - 44,23
+2001,Selangor,45 - 49,3
+2001,Selangor,Total Fertility Rate,2244
+2001,Terengganu,15 - 19,11
+2001,Terengganu,20 - 24,123
+2001,Terengganu,25 - 29,269
+2001,Terengganu,30 - 34,205
+2001,Terengganu,35 - 39,147
+2001,Terengganu,40 - 44,68
+2001,Terengganu,45 - 49,9
+2001,Terengganu,Total Fertility Rate,4161
+2001,W.P. Kuala Lumpur,15 - 19,9
+2001,W.P. Kuala Lumpur,20 - 24,50
+2001,W.P. Kuala Lumpur,25 - 29,115
+2001,W.P. Kuala Lumpur,30 - 34,125
+2001,W.P. Kuala Lumpur,35 - 39,75
+2001,W.P. Kuala Lumpur,40 - 44,22
+2001,W.P. Kuala Lumpur,45 - 49,3
+2001,W.P. Kuala Lumpur,Total Fertility Rate,1987
+2001,W.P. Labuan,15 - 19,24
+2001,W.P. Labuan,20 - 24,99
+2001,W.P. Labuan,25 - 29,143
+2001,W.P. Labuan,30 - 34,108
+2001,W.P. Labuan,35 - 39,63
+2001,W.P. Labuan,40 - 44,18
+2001,W.P. Labuan,45 - 49,7
+2001,W.P. Labuan,Total Fertility Rate,2303
+2002,Malaysia,15 - 19,13
+2002,Malaysia,20 - 24,81
+2002,Malaysia,25 - 29,163
+2002,Malaysia,30 - 34,145
+2002,Malaysia,35 - 39,86
+2002,Malaysia,40 - 44,30
+2002,Malaysia,45 - 49,4
+2002,Malaysia,Total Fertility Rate,2609
+2002,Johor,15 - 19,11
+2002,Johor,20 - 24,84
+2002,Johor,25 - 29,172
+2002,Johor,30 - 34,148
+2002,Johor,35 - 39,87
+2002,Johor,40 - 44,26
+2002,Johor,45 - 49,3
+2002,Johor,Total Fertility Rate,2657
+2002,Kedah,15 - 19,9
+2002,Kedah,20 - 24,91
+2002,Kedah,25 - 29,191
+2002,Kedah,30 - 34,162
+2002,Kedah,35 - 39,101
+2002,Kedah,40 - 44,35
+2002,Kedah,45 - 49,4
+2002,Kedah,Total Fertility Rate,2968
+2002,Kelantan,15 - 19,14
+2002,Kelantan,20 - 24,118
+2002,Kelantan,25 - 29,311
+2002,Kelantan,30 - 34,238
+2002,Kelantan,35 - 39,153
+2002,Kelantan,40 - 44,75
+2002,Kelantan,45 - 49,9
+2002,Kelantan,Total Fertility Rate,4594
+2002,Melaka,15 - 19,8
+2002,Melaka,20 - 24,82
+2002,Melaka,25 - 29,193
+2002,Melaka,30 - 34,154
+2002,Melaka,35 - 39,88
+2002,Melaka,40 - 44,26
+2002,Melaka,45 - 49,2
+2002,Melaka,Total Fertility Rate,2766
+2002,Negeri Sembilan,15 - 19,11
+2002,Negeri Sembilan,20 - 24,84
+2002,Negeri Sembilan,25 - 29,192
+2002,Negeri Sembilan,30 - 34,154
+2002,Negeri Sembilan,35 - 39,83
+2002,Negeri Sembilan,40 - 44,25
+2002,Negeri Sembilan,45 - 49,2
+2002,Negeri Sembilan,Total Fertility Rate,2756
+2002,Pahang,15 - 19,15
+2002,Pahang,20 - 24,97
+2002,Pahang,25 - 29,199
+2002,Pahang,30 - 34,158
+2002,Pahang,35 - 39,93
+2002,Pahang,40 - 44,35
+2002,Pahang,45 - 49,4
+2002,Pahang,Total Fertility Rate,3001
+2002,Perak,15 - 19,12
+2002,Perak,20 - 24,95
+2002,Perak,25 - 29,213
+2002,Perak,30 - 34,163
+2002,Perak,35 - 39,87
+2002,Perak,40 - 44,26
+2002,Perak,45 - 49,2
+2002,Perak,Total Fertility Rate,3000
+2002,Perlis,15 - 19,13
+2002,Perlis,20 - 24,95
+2002,Perlis,25 - 29,208
+2002,Perlis,30 - 34,166
+2002,Perlis,35 - 39,99
+2002,Perlis,40 - 44,34
+2002,Perlis,45 - 49,2
+2002,Perlis,Total Fertility Rate,3084
+2002,Pulau Pinang,15 - 19,8
+2002,Pulau Pinang,20 - 24,59
+2002,Pulau Pinang,25 - 29,129
+2002,Pulau Pinang,30 - 34,126
+2002,Pulau Pinang,35 - 39,68
+2002,Pulau Pinang,40 - 44,17
+2002,Pulau Pinang,45 - 49,1
+2002,Pulau Pinang,Total Fertility Rate,2042
+2002,Sabah,15 - 19,19
+2002,Sabah,20 - 24,76
+2002,Sabah,25 - 29,114
+2002,Sabah,30 - 34,108
+2002,Sabah,35 - 39,69
+2002,Sabah,40 - 44,34
+2002,Sabah,45 - 49,8
+2002,Sabah,Total Fertility Rate,2145
+2002,Sarawak,15 - 19,32
+2002,Sarawak,20 - 24,111
+2002,Sarawak,25 - 29,155
+2002,Sarawak,30 - 34,135
+2002,Sarawak,35 - 39,72
+2002,Sarawak,40 - 44,24
+2002,Sarawak,45 - 49,3
+2002,Sarawak,Total Fertility Rate,2666
+2002,Selangor,15 - 19,8
+2002,Selangor,20 - 24,61
+2002,Selangor,25 - 29,143
+2002,Selangor,30 - 34,138
+2002,Selangor,35 - 39,77
+2002,Selangor,40 - 44,22
+2002,Selangor,45 - 49,2
+2002,Selangor,Total Fertility Rate,2254
+2002,Terengganu,15 - 19,10
+2002,Terengganu,20 - 24,104
+2002,Terengganu,25 - 29,254
+2002,Terengganu,30 - 34,207
+2002,Terengganu,35 - 39,140
+2002,Terengganu,40 - 44,63
+2002,Terengganu,45 - 49,7
+2002,Terengganu,Total Fertility Rate,3927
+2002,W.P. Kuala Lumpur,15 - 19,8
+2002,W.P. Kuala Lumpur,20 - 24,50
+2002,W.P. Kuala Lumpur,25 - 29,111
+2002,W.P. Kuala Lumpur,30 - 34,115
+2002,W.P. Kuala Lumpur,35 - 39,70
+2002,W.P. Kuala Lumpur,40 - 44,20
+2002,W.P. Kuala Lumpur,45 - 49,2
+2002,W.P. Kuala Lumpur,Total Fertility Rate,1872
+2002,W.P. Labuan,15 - 19,16
+2002,W.P. Labuan,20 - 24,84
+2002,W.P. Labuan,25 - 29,144
+2002,W.P. Labuan,30 - 34,121
+2002,W.P. Labuan,35 - 39,62
+2002,W.P. Labuan,40 - 44,21
+2002,W.P. Labuan,45 - 49,3
+2002,W.P. Labuan,Total Fertility Rate,2256
+2003,Malaysia,15 - 19,13
+2003,Malaysia,20 - 24,76
+2003,Malaysia,25 - 29,157
+2003,Malaysia,30 - 34,139
+2003,Malaysia,35 - 39,83
+2003,Malaysia,40 - 44,27
+2003,Malaysia,45 - 49,3
+2003,Malaysia,Total Fertility Rate,2494
+2003,Johor,15 - 19,12
+2003,Johor,20 - 24,80
+2003,Johor,25 - 29,167
+2003,Johor,30 - 34,142
+2003,Johor,35 - 39,82
+2003,Johor,40 - 44,25
+2003,Johor,45 - 49,3
+2003,Johor,Total Fertility Rate,2549
+2003,Kedah,15 - 19,9
+2003,Kedah,20 - 24,86
+2003,Kedah,25 - 29,186
+2003,Kedah,30 - 34,154
+2003,Kedah,35 - 39,94
+2003,Kedah,40 - 44,32
+2003,Kedah,45 - 49,3
+2003,Kedah,Total Fertility Rate,2818
+2003,Kelantan,15 - 19,14
+2003,Kelantan,20 - 24,108
+2003,Kelantan,25 - 29,281
+2003,Kelantan,30 - 34,234
+2003,Kelantan,35 - 39,141
+2003,Kelantan,40 - 44,63
+2003,Kelantan,45 - 49,8
+2003,Kelantan,Total Fertility Rate,4245
+2003,Melaka,15 - 19,9
+2003,Melaka,20 - 24,76
+2003,Melaka,25 - 29,191
+2003,Melaka,30 - 34,156
+2003,Melaka,35 - 39,88
+2003,Melaka,40 - 44,23
+2003,Melaka,45 - 49,2
+2003,Melaka,Total Fertility Rate,2722
+2003,Negeri Sembilan,15 - 19,10
+2003,Negeri Sembilan,20 - 24,81
+2003,Negeri Sembilan,25 - 29,183
+2003,Negeri Sembilan,30 - 34,151
+2003,Negeri Sembilan,35 - 39,81
+2003,Negeri Sembilan,40 - 44,23
+2003,Negeri Sembilan,45 - 49,2
+2003,Negeri Sembilan,Total Fertility Rate,2650
+2003,Pahang,15 - 19,14
+2003,Pahang,20 - 24,87
+2003,Pahang,25 - 29,192
+2003,Pahang,30 - 34,156
+2003,Pahang,35 - 39,90
+2003,Pahang,40 - 44,32
+2003,Pahang,45 - 49,4
+2003,Pahang,Total Fertility Rate,2880
+2003,Perak,15 - 19,11
+2003,Perak,20 - 24,85
+2003,Perak,25 - 29,197
+2003,Perak,30 - 34,156
+2003,Perak,35 - 39,83
+2003,Perak,40 - 44,24
+2003,Perak,45 - 49,2
+2003,Perak,Total Fertility Rate,2792
+2003,Perlis,15 - 19,13
+2003,Perlis,20 - 24,90
+2003,Perlis,25 - 29,198
+2003,Perlis,30 - 34,150
+2003,Perlis,35 - 39,96
+2003,Perlis,40 - 44,34
+2003,Perlis,45 - 49,3
+2003,Perlis,Total Fertility Rate,2915
+2003,Pulau Pinang,15 - 19,7
+2003,Pulau Pinang,20 - 24,56
+2003,Pulau Pinang,25 - 29,120
+2003,Pulau Pinang,30 - 34,118
+2003,Pulau Pinang,35 - 39,65
+2003,Pulau Pinang,40 - 44,15
+2003,Pulau Pinang,45 - 49,1
+2003,Pulau Pinang,Total Fertility Rate,1916
+2003,Sabah,15 - 19,17
+2003,Sabah,20 - 24,70
+2003,Sabah,25 - 29,108
+2003,Sabah,30 - 34,100
+2003,Sabah,35 - 39,66
+2003,Sabah,40 - 44,30
+2003,Sabah,45 - 49,9
+2003,Sabah,Total Fertility Rate,2005
+2003,Sarawak,15 - 19,31
+2003,Sarawak,20 - 24,107
+2003,Sarawak,25 - 29,152
+2003,Sarawak,30 - 34,131
+2003,Sarawak,35 - 39,71
+2003,Sarawak,40 - 44,22
+2003,Sarawak,45 - 49,3
+2003,Sarawak,Total Fertility Rate,2588
+2003,Selangor,15 - 19,8
+2003,Selangor,20 - 24,58
+2003,Selangor,25 - 29,142
+2003,Selangor,30 - 34,134
+2003,Selangor,35 - 39,77
+2003,Selangor,40 - 44,22
+2003,Selangor,45 - 49,2
+2003,Selangor,Total Fertility Rate,2215
+2003,Terengganu,15 - 19,10
+2003,Terengganu,20 - 24,93
+2003,Terengganu,25 - 29,235
+2003,Terengganu,30 - 34,203
+2003,Terengganu,35 - 39,134
+2003,Terengganu,40 - 44,55
+2003,Terengganu,45 - 49,8
+2003,Terengganu,Total Fertility Rate,3685
+2003,W.P. Kuala Lumpur,15 - 19,7
+2003,W.P. Kuala Lumpur,20 - 24,47
+2003,W.P. Kuala Lumpur,25 - 29,108
+2003,W.P. Kuala Lumpur,30 - 34,111
+2003,W.P. Kuala Lumpur,35 - 39,67
+2003,W.P. Kuala Lumpur,40 - 44,19
+2003,W.P. Kuala Lumpur,45 - 49,2
+2003,W.P. Kuala Lumpur,Total Fertility Rate,1803
+2003,W.P. Labuan,15 - 19,18
+2003,W.P. Labuan,20 - 24,92
+2003,W.P. Labuan,25 - 29,146
+2003,W.P. Labuan,30 - 34,126
+2003,W.P. Labuan,35 - 39,73
+2003,W.P. Labuan,40 - 44,22
+2003,W.P. Labuan,45 - 49,5
+2003,W.P. Labuan,Total Fertility Rate,2405
+2004,Malaysia,15 - 19,13
+2004,Malaysia,20 - 24,72
+2004,Malaysia,25 - 29,154
+2004,Malaysia,30 - 34,138
+2004,Malaysia,35 - 39,81
+2004,Malaysia,40 - 44,27
+2004,Malaysia,45 - 49,3
+2004,Malaysia,Total Fertility Rate,2450
+2004,Johor,15 - 19,11
+2004,Johor,20 - 24,76
+2004,Johor,25 - 29,161
+2004,Johor,30 - 34,139
+2004,Johor,35 - 39,79
+2004,Johor,40 - 44,24
+2004,Johor,45 - 49,2
+2004,Johor,Total Fertility Rate,2469
+2004,Kedah,15 - 19,9
+2004,Kedah,20 - 24,79
+2004,Kedah,25 - 29,181
+2004,Kedah,30 - 34,155
+2004,Kedah,35 - 39,92
+2004,Kedah,40 - 44,31
+2004,Kedah,45 - 49,3
+2004,Kedah,Total Fertility Rate,2750
+2004,Kelantan,15 - 19,14
+2004,Kelantan,20 - 24,101
+2004,Kelantan,25 - 29,254
+2004,Kelantan,30 - 34,231
+2004,Kelantan,35 - 39,140
+2004,Kelantan,40 - 44,61
+2004,Kelantan,45 - 49,7
+2004,Kelantan,Total Fertility Rate,4039
+2004,Melaka,15 - 19,8
+2004,Melaka,20 - 24,72
+2004,Melaka,25 - 29,184
+2004,Melaka,30 - 34,152
+2004,Melaka,35 - 39,79
+2004,Melaka,40 - 44,24
+2004,Melaka,45 - 49,1
+2004,Melaka,Total Fertility Rate,2597
+2004,Negeri Sembilan,15 - 19,11
+2004,Negeri Sembilan,20 - 24,74
+2004,Negeri Sembilan,25 - 29,178
+2004,Negeri Sembilan,30 - 34,151
+2004,Negeri Sembilan,35 - 39,77
+2004,Negeri Sembilan,40 - 44,23
+2004,Negeri Sembilan,45 - 49,1
+2004,Negeri Sembilan,Total Fertility Rate,2576
+2004,Pahang,15 - 19,16
+2004,Pahang,20 - 24,81
+2004,Pahang,25 - 29,182
+2004,Pahang,30 - 34,156
+2004,Pahang,35 - 39,89
+2004,Pahang,40 - 44,30
+2004,Pahang,45 - 49,3
+2004,Pahang,Total Fertility Rate,2796
+2004,Perak,15 - 19,11
+2004,Perak,20 - 24,81
+2004,Perak,25 - 29,186
+2004,Perak,30 - 34,158
+2004,Perak,35 - 39,80
+2004,Perak,40 - 44,24
+2004,Perak,45 - 49,2
+2004,Perak,Total Fertility Rate,2701
+2004,Perlis,15 - 19,11
+2004,Perlis,20 - 24,84
+2004,Perlis,25 - 29,190
+2004,Perlis,30 - 34,154
+2004,Perlis,35 - 39,88
+2004,Perlis,40 - 44,32
+2004,Perlis,45 - 49,2
+2004,Perlis,Total Fertility Rate,2814
+2004,Pulau Pinang,15 - 19,7
+2004,Pulau Pinang,20 - 24,53
+2004,Pulau Pinang,25 - 29,118
+2004,Pulau Pinang,30 - 34,112
+2004,Pulau Pinang,35 - 39,65
+2004,Pulau Pinang,40 - 44,16
+2004,Pulau Pinang,45 - 49,1
+2004,Pulau Pinang,Total Fertility Rate,1855
+2004,Sabah,15 - 19,18
+2004,Sabah,20 - 24,67
+2004,Sabah,25 - 29,109
+2004,Sabah,30 - 34,102
+2004,Sabah,35 - 39,68
+2004,Sabah,40 - 44,30
+2004,Sabah,45 - 49,9
+2004,Sabah,Total Fertility Rate,2022
+2004,Sarawak,15 - 19,32
+2004,Sarawak,20 - 24,105
+2004,Sarawak,25 - 29,144
+2004,Sarawak,30 - 34,130
+2004,Sarawak,35 - 39,70
+2004,Sarawak,40 - 44,22
+2004,Sarawak,45 - 49,2
+2004,Sarawak,Total Fertility Rate,2527
+2004,Selangor,15 - 19,8
+2004,Selangor,20 - 24,56
+2004,Selangor,25 - 29,146
+2004,Selangor,30 - 34,136
+2004,Selangor,35 - 39,79
+2004,Selangor,40 - 44,23
+2004,Selangor,45 - 49,3
+2004,Selangor,Total Fertility Rate,2243
+2004,Terengganu,15 - 19,10
+2004,Terengganu,20 - 24,89
+2004,Terengganu,25 - 29,233
+2004,Terengganu,30 - 34,199
+2004,Terengganu,35 - 39,134
+2004,Terengganu,40 - 44,58
+2004,Terengganu,45 - 49,7
+2004,Terengganu,Total Fertility Rate,3644
+2004,W.P. Kuala Lumpur,15 - 19,7
+2004,W.P. Kuala Lumpur,20 - 24,46
+2004,W.P. Kuala Lumpur,25 - 29,110
+2004,W.P. Kuala Lumpur,30 - 34,106
+2004,W.P. Kuala Lumpur,35 - 39,62
+2004,W.P. Kuala Lumpur,40 - 44,19
+2004,W.P. Kuala Lumpur,45 - 49,3
+2004,W.P. Kuala Lumpur,Total Fertility Rate,1767
+2004,W.P. Labuan,15 - 19,16
+2004,W.P. Labuan,20 - 24,78
+2004,W.P. Labuan,25 - 29,142
+2004,W.P. Labuan,30 - 34,121
+2004,W.P. Labuan,35 - 39,70
+2004,W.P. Labuan,40 - 44,23
+2004,W.P. Labuan,45 - 49,3
+2004,W.P. Labuan,Total Fertility Rate,2260
+2005,Malaysia,15 - 19,12
+2005,Malaysia,20 - 24,69
+2005,Malaysia,25 - 29,149
+2005,Malaysia,30 - 34,136
+2005,Malaysia,35 - 39,79
+2005,Malaysia,40 - 44,25
+2005,Malaysia,45 - 49,3
+2005,Malaysia,Total Fertility Rate,2362
+2005,Johor,15 - 19,11
+2005,Johor,20 - 24,72
+2005,Johor,25 - 29,156
+2005,Johor,30 - 34,139
+2005,Johor,35 - 39,76
+2005,Johor,40 - 44,22
+2005,Johor,45 - 49,2
+2005,Johor,Total Fertility Rate,2392
+2005,Kedah,15 - 19,9
+2005,Kedah,20 - 24,76
+2005,Kedah,25 - 29,173
+2005,Kedah,30 - 34,151
+2005,Kedah,35 - 39,89
+2005,Kedah,40 - 44,30
+2005,Kedah,45 - 49,3
+2005,Kedah,Total Fertility Rate,2648
+2005,Kelantan,15 - 19,14
+2005,Kelantan,20 - 24,97
+2005,Kelantan,25 - 29,232
+2005,Kelantan,30 - 34,222
+2005,Kelantan,35 - 39,133
+2005,Kelantan,40 - 44,56
+2005,Kelantan,45 - 49,7
+2005,Kelantan,Total Fertility Rate,3800
+2005,Melaka,15 - 19,7
+2005,Melaka,20 - 24,68
+2005,Melaka,25 - 29,180
+2005,Melaka,30 - 34,147
+2005,Melaka,35 - 39,75
+2005,Melaka,40 - 44,19
+2005,Melaka,45 - 49,2
+2005,Melaka,Total Fertility Rate,2495
+2005,Negeri Sembilan,15 - 19,11
+2005,Negeri Sembilan,20 - 24,73
+2005,Negeri Sembilan,25 - 29,173
+2005,Negeri Sembilan,30 - 34,146
+2005,Negeri Sembilan,35 - 39,73
+2005,Negeri Sembilan,40 - 44,21
+2005,Negeri Sembilan,45 - 49,1
+2005,Negeri Sembilan,Total Fertility Rate,2487
+2005,Pahang,15 - 19,15
+2005,Pahang,20 - 24,78
+2005,Pahang,25 - 29,175
+2005,Pahang,30 - 34,152
+2005,Pahang,35 - 39,91
+2005,Pahang,40 - 44,29
+2005,Pahang,45 - 49,3
+2005,Pahang,Total Fertility Rate,2718
+2005,Perak,15 - 19,10
+2005,Perak,20 - 24,74
+2005,Perak,25 - 29,176
+2005,Perak,30 - 34,151
+2005,Perak,35 - 39,76
+2005,Perak,40 - 44,22
+2005,Perak,45 - 49,2
+2005,Perak,Total Fertility Rate,2556
+2005,Perlis,15 - 19,11
+2005,Perlis,20 - 24,84
+2005,Perlis,25 - 29,182
+2005,Perlis,30 - 34,151
+2005,Perlis,35 - 39,88
+2005,Perlis,40 - 44,29
+2005,Perlis,45 - 49,2
+2005,Perlis,Total Fertility Rate,2738
+2005,Pulau Pinang,15 - 19,6
+2005,Pulau Pinang,20 - 24,50
+2005,Pulau Pinang,25 - 29,118
+2005,Pulau Pinang,30 - 34,111
+2005,Pulau Pinang,35 - 39,60
+2005,Pulau Pinang,40 - 44,15
+2005,Pulau Pinang,45 - 49,1
+2005,Pulau Pinang,Total Fertility Rate,1802
+2005,Sabah,15 - 19,17
+2005,Sabah,20 - 24,65
+2005,Sabah,25 - 29,109
+2005,Sabah,30 - 34,102
+2005,Sabah,35 - 39,68
+2005,Sabah,40 - 44,28
+2005,Sabah,45 - 49,10
+2005,Sabah,Total Fertility Rate,1993
+2005,Sarawak,15 - 19,31
+2005,Sarawak,20 - 24,104
+2005,Sarawak,25 - 29,144
+2005,Sarawak,30 - 34,126
+2005,Sarawak,35 - 39,70
+2005,Sarawak,40 - 44,20
+2005,Sarawak,45 - 49,2
+2005,Sarawak,Total Fertility Rate,2480
+2005,Selangor,15 - 19,7
+2005,Selangor,20 - 24,51
+2005,Selangor,25 - 29,140
+2005,Selangor,30 - 34,134
+2005,Selangor,35 - 39,78
+2005,Selangor,40 - 44,21
+2005,Selangor,45 - 49,2
+2005,Selangor,Total Fertility Rate,2165
+2005,Terengganu,15 - 19,9
+2005,Terengganu,20 - 24,87
+2005,Terengganu,25 - 29,214
+2005,Terengganu,30 - 34,200
+2005,Terengganu,35 - 39,126
+2005,Terengganu,40 - 44,52
+2005,Terengganu,45 - 49,5
+2005,Terengganu,Total Fertility Rate,3465
+2005,W.P. Kuala Lumpur,15 - 19,6
+2005,W.P. Kuala Lumpur,20 - 24,42
+2005,W.P. Kuala Lumpur,25 - 29,104
+2005,W.P. Kuala Lumpur,30 - 34,103
+2005,W.P. Kuala Lumpur,35 - 39,56
+2005,W.P. Kuala Lumpur,40 - 44,17
+2005,W.P. Kuala Lumpur,45 - 49,2
+2005,W.P. Kuala Lumpur,Total Fertility Rate,1654
+2005,W.P. Labuan,15 - 19,14
+2005,W.P. Labuan,20 - 24,78
+2005,W.P. Labuan,25 - 29,141
+2005,W.P. Labuan,30 - 34,119
+2005,W.P. Labuan,35 - 39,65
+2005,W.P. Labuan,40 - 44,18
+2005,W.P. Labuan,45 - 49,2
+2005,W.P. Labuan,Total Fertility Rate,2183
+2006,Malaysia,15 - 19,12
+2006,Malaysia,20 - 24,66
+2006,Malaysia,25 - 29,145
+2006,Malaysia,30 - 34,134
+2006,Malaysia,35 - 39,76
+2006,Malaysia,40 - 44,25
+2006,Malaysia,45 - 49,3
+2006,Malaysia,Total Fertility Rate,2299
+2006,Johor,15 - 19,11
+2006,Johor,20 - 24,70
+2006,Johor,25 - 29,155
+2006,Johor,30 - 34,137
+2006,Johor,35 - 39,74
+2006,Johor,40 - 44,22
+2006,Johor,45 - 49,2
+2006,Johor,Total Fertility Rate,2356
+2006,Kedah,15 - 19,8
+2006,Kedah,20 - 24,77
+2006,Kedah,25 - 29,172
+2006,Kedah,30 - 34,146
+2006,Kedah,35 - 39,84
+2006,Kedah,40 - 44,27
+2006,Kedah,45 - 49,2
+2006,Kedah,Total Fertility Rate,2577
+2006,Kelantan,15 - 19,13
+2006,Kelantan,20 - 24,98
+2006,Kelantan,25 - 29,225
+2006,Kelantan,30 - 34,206
+2006,Kelantan,35 - 39,126
+2006,Kelantan,40 - 44,55
+2006,Kelantan,45 - 49,6
+2006,Kelantan,Total Fertility Rate,3644
+2006,Melaka,15 - 19,7
+2006,Melaka,20 - 24,66
+2006,Melaka,25 - 29,163
+2006,Melaka,30 - 34,146
+2006,Melaka,35 - 39,71
+2006,Melaka,40 - 44,20
+2006,Melaka,45 - 49,1
+2006,Melaka,Total Fertility Rate,2363
+2006,Negeri Sembilan,15 - 19,10
+2006,Negeri Sembilan,20 - 24,68
+2006,Negeri Sembilan,25 - 29,166
+2006,Negeri Sembilan,30 - 34,142
+2006,Negeri Sembilan,35 - 39,74
+2006,Negeri Sembilan,40 - 44,20
+2006,Negeri Sembilan,45 - 49,1
+2006,Negeri Sembilan,Total Fertility Rate,2411
+2006,Pahang,15 - 19,16
+2006,Pahang,20 - 24,74
+2006,Pahang,25 - 29,162
+2006,Pahang,30 - 34,146
+2006,Pahang,35 - 39,83
+2006,Pahang,40 - 44,28
+2006,Pahang,45 - 49,3
+2006,Pahang,Total Fertility Rate,2560
+2006,Perak,15 - 19,10
+2006,Perak,20 - 24,73
+2006,Perak,25 - 29,170
+2006,Perak,30 - 34,149
+2006,Perak,35 - 39,74
+2006,Perak,40 - 44,20
+2006,Perak,45 - 49,2
+2006,Perak,Total Fertility Rate,2486
+2006,Perlis,15 - 19,11
+2006,Perlis,20 - 24,77
+2006,Perlis,25 - 29,177
+2006,Perlis,30 - 34,158
+2006,Perlis,35 - 39,81
+2006,Perlis,40 - 44,25
+2006,Perlis,45 - 49,3
+2006,Perlis,Total Fertility Rate,2671
+2006,Pulau Pinang,15 - 19,6
+2006,Pulau Pinang,20 - 24,47
+2006,Pulau Pinang,25 - 29,112
+2006,Pulau Pinang,30 - 34,110
+2006,Pulau Pinang,35 - 39,58
+2006,Pulau Pinang,40 - 44,15
+2006,Pulau Pinang,45 - 49,1
+2006,Pulau Pinang,Total Fertility Rate,1738
+2006,Sabah,15 - 19,17
+2006,Sabah,20 - 24,61
+2006,Sabah,25 - 29,101
+2006,Sabah,30 - 34,96
+2006,Sabah,35 - 39,66
+2006,Sabah,40 - 44,27
+2006,Sabah,45 - 49,6
+2006,Sabah,Total Fertility Rate,1867
+2006,Sarawak,15 - 19,29
+2006,Sarawak,20 - 24,99
+2006,Sarawak,25 - 29,142
+2006,Sarawak,30 - 34,124
+2006,Sarawak,35 - 39,69
+2006,Sarawak,40 - 44,21
+2006,Sarawak,45 - 49,2
+2006,Sarawak,Total Fertility Rate,2429
+2006,Selangor,15 - 19,7
+2006,Selangor,20 - 24,48
+2006,Selangor,25 - 29,138
+2006,Selangor,30 - 34,136
+2006,Selangor,35 - 39,77
+2006,Selangor,40 - 44,21
+2006,Selangor,45 - 49,2
+2006,Selangor,Total Fertility Rate,2147
+2006,Terengganu,15 - 19,10
+2006,Terengganu,20 - 24,84
+2006,Terengganu,25 - 29,210
+2006,Terengganu,30 - 34,193
+2006,Terengganu,35 - 39,125
+2006,Terengganu,40 - 44,48
+2006,Terengganu,45 - 49,6
+2006,Terengganu,Total Fertility Rate,3377
+2006,W.P. Kuala Lumpur,15 - 19,6
+2006,W.P. Kuala Lumpur,20 - 24,41
+2006,W.P. Kuala Lumpur,25 - 29,105
+2006,W.P. Kuala Lumpur,30 - 34,106
+2006,W.P. Kuala Lumpur,35 - 39,56
+2006,W.P. Kuala Lumpur,40 - 44,17
+2006,W.P. Kuala Lumpur,45 - 49,2
+2006,W.P. Kuala Lumpur,Total Fertility Rate,1669
+2006,W.P. Labuan,15 - 19,18
+2006,W.P. Labuan,20 - 24,72
+2006,W.P. Labuan,25 - 29,140
+2006,W.P. Labuan,30 - 34,121
+2006,W.P. Labuan,35 - 39,68
+2006,W.P. Labuan,40 - 44,23
+2006,W.P. Labuan,45 - 49,5
+2006,W.P. Labuan,Total Fertility Rate,2235
+2007,Malaysia,15 - 19,12
+2007,Malaysia,20 - 24,63
+2007,Malaysia,25 - 29,142
+2007,Malaysia,30 - 34,135
+2007,Malaysia,35 - 39,76
+2007,Malaysia,40 - 44,23
+2007,Malaysia,45 - 49,3
+2007,Malaysia,Total Fertility Rate,2274
+2007,Johor,15 - 19,11
+2007,Johor,20 - 24,68
+2007,Johor,25 - 29,155
+2007,Johor,30 - 34,139
+2007,Johor,35 - 39,73
+2007,Johor,40 - 44,22
+2007,Johor,45 - 49,2
+2007,Johor,Total Fertility Rate,2351
+2007,Kedah,15 - 19,9
+2007,Kedah,20 - 24,74
+2007,Kedah,25 - 29,169
+2007,Kedah,30 - 34,147
+2007,Kedah,35 - 39,83
+2007,Kedah,40 - 44,27
+2007,Kedah,45 - 49,2
+2007,Kedah,Total Fertility Rate,2555
+2007,Kelantan,15 - 19,15
+2007,Kelantan,20 - 24,100
+2007,Kelantan,25 - 29,215
+2007,Kelantan,30 - 34,197
+2007,Kelantan,35 - 39,131
+2007,Kelantan,40 - 44,50
+2007,Kelantan,45 - 49,6
+2007,Kelantan,Total Fertility Rate,3570
+2007,Melaka,15 - 19,7
+2007,Melaka,20 - 24,62
+2007,Melaka,25 - 29,167
+2007,Melaka,30 - 34,152
+2007,Melaka,35 - 39,71
+2007,Melaka,40 - 44,18
+2007,Melaka,45 - 49,2
+2007,Melaka,Total Fertility Rate,2396
+2007,Negeri Sembilan,15 - 19,10
+2007,Negeri Sembilan,20 - 24,67
+2007,Negeri Sembilan,25 - 29,170
+2007,Negeri Sembilan,30 - 34,148
+2007,Negeri Sembilan,35 - 39,73
+2007,Negeri Sembilan,40 - 44,18
+2007,Negeri Sembilan,45 - 49,1
+2007,Negeri Sembilan,Total Fertility Rate,2445
+2007,Pahang,15 - 19,16
+2007,Pahang,20 - 24,74
+2007,Pahang,25 - 29,157
+2007,Pahang,30 - 34,143
+2007,Pahang,35 - 39,86
+2007,Pahang,40 - 44,26
+2007,Pahang,45 - 49,2
+2007,Pahang,Total Fertility Rate,2516
+2007,Perak,15 - 19,9
+2007,Perak,20 - 24,72
+2007,Perak,25 - 29,170
+2007,Perak,30 - 34,146
+2007,Perak,35 - 39,71
+2007,Perak,40 - 44,19
+2007,Perak,45 - 49,2
+2007,Perak,Total Fertility Rate,2442
+2007,Perlis,15 - 19,11
+2007,Perlis,20 - 24,83
+2007,Perlis,25 - 29,174
+2007,Perlis,30 - 34,150
+2007,Perlis,35 - 39,86
+2007,Perlis,40 - 44,23
+2007,Perlis,45 - 49,2
+2007,Perlis,Total Fertility Rate,2640
+2007,Pulau Pinang,15 - 19,6
+2007,Pulau Pinang,20 - 24,44
+2007,Pulau Pinang,25 - 29,113
+2007,Pulau Pinang,30 - 34,112
+2007,Pulau Pinang,35 - 39,59
+2007,Pulau Pinang,40 - 44,14
+2007,Pulau Pinang,45 - 49,1
+2007,Pulau Pinang,Total Fertility Rate,1746
+2007,Sabah,15 - 19,17
+2007,Sabah,20 - 24,60
+2007,Sabah,25 - 29,96
+2007,Sabah,30 - 34,97
+2007,Sabah,35 - 39,64
+2007,Sabah,40 - 44,25
+2007,Sabah,45 - 49,6
+2007,Sabah,Total Fertility Rate,1825
+2007,Sarawak,15 - 19,30
+2007,Sarawak,20 - 24,95
+2007,Sarawak,25 - 29,139
+2007,Sarawak,30 - 34,120
+2007,Sarawak,35 - 39,69
+2007,Sarawak,40 - 44,19
+2007,Sarawak,45 - 49,2
+2007,Sarawak,Total Fertility Rate,2368
+2007,Selangor,15 - 19,7
+2007,Selangor,20 - 24,44
+2007,Selangor,25 - 29,134
+2007,Selangor,30 - 34,138
+2007,Selangor,35 - 39,78
+2007,Selangor,40 - 44,21
+2007,Selangor,45 - 49,2
+2007,Selangor,Total Fertility Rate,2121
+2007,Terengganu,15 - 19,10
+2007,Terengganu,20 - 24,84
+2007,Terengganu,25 - 29,204
+2007,Terengganu,30 - 34,197
+2007,Terengganu,35 - 39,127
+2007,Terengganu,40 - 44,50
+2007,Terengganu,45 - 49,4
+2007,Terengganu,Total Fertility Rate,3380
+2007,W.P. Kuala Lumpur,15 - 19,6
+2007,W.P. Kuala Lumpur,20 - 24,39
+2007,W.P. Kuala Lumpur,25 - 29,108
+2007,W.P. Kuala Lumpur,30 - 34,112
+2007,W.P. Kuala Lumpur,35 - 39,57
+2007,W.P. Kuala Lumpur,40 - 44,16
+2007,W.P. Kuala Lumpur,45 - 49,2
+2007,W.P. Kuala Lumpur,Total Fertility Rate,1698
+2007,W.P. Labuan,15 - 19,25
+2007,W.P. Labuan,20 - 24,66
+2007,W.P. Labuan,25 - 29,126
+2007,W.P. Labuan,30 - 34,121
+2007,W.P. Labuan,35 - 39,65
+2007,W.P. Labuan,40 - 44,24
+2007,W.P. Labuan,45 - 49,1
+2007,W.P. Labuan,Total Fertility Rate,2134
+2008,Malaysia,15 - 19,13
+2008,Malaysia,20 - 24,64
+2008,Malaysia,25 - 29,139
+2008,Malaysia,30 - 34,137
+2008,Malaysia,35 - 39,76
+2008,Malaysia,40 - 44,24
+2008,Malaysia,45 - 49,2
+2008,Malaysia,Total Fertility Rate,2274
+2008,Johor,15 - 19,12
+2008,Johor,20 - 24,66
+2008,Johor,25 - 29,148
+2008,Johor,30 - 34,140
+2008,Johor,35 - 39,72
+2008,Johor,40 - 44,21
+2008,Johor,45 - 49,2
+2008,Johor,Total Fertility Rate,2301
+2008,Kedah,15 - 19,9
+2008,Kedah,20 - 24,77
+2008,Kedah,25 - 29,178
+2008,Kedah,30 - 34,150
+2008,Kedah,35 - 39,83
+2008,Kedah,40 - 44,26
+2008,Kedah,45 - 49,2
+2008,Kedah,Total Fertility Rate,2633
+2008,Kelantan,15 - 19,16
+2008,Kelantan,20 - 24,106
+2008,Kelantan,25 - 29,223
+2008,Kelantan,30 - 34,199
+2008,Kelantan,35 - 39,124
+2008,Kelantan,40 - 44,48
+2008,Kelantan,45 - 49,5
+2008,Kelantan,Total Fertility Rate,3610
+2008,Melaka,15 - 19,7
+2008,Melaka,20 - 24,60
+2008,Melaka,25 - 29,159
+2008,Melaka,30 - 34,156
+2008,Melaka,35 - 39,72
+2008,Melaka,40 - 44,18
+2008,Melaka,45 - 49,1
+2008,Melaka,Total Fertility Rate,2363
+2008,Negeri Sembilan,15 - 19,10
+2008,Negeri Sembilan,20 - 24,67
+2008,Negeri Sembilan,25 - 29,168
+2008,Negeri Sembilan,30 - 34,146
+2008,Negeri Sembilan,35 - 39,71
+2008,Negeri Sembilan,40 - 44,20
+2008,Negeri Sembilan,45 - 49,1
+2008,Negeri Sembilan,Total Fertility Rate,2416
+2008,Pahang,15 - 19,16
+2008,Pahang,20 - 24,81
+2008,Pahang,25 - 29,147
+2008,Pahang,30 - 34,151
+2008,Pahang,35 - 39,83
+2008,Pahang,40 - 44,27
+2008,Pahang,45 - 49,2
+2008,Pahang,Total Fertility Rate,2531
+2008,Perak,15 - 19,10
+2008,Perak,20 - 24,69
+2008,Perak,25 - 29,172
+2008,Perak,30 - 34,147
+2008,Perak,35 - 39,73
+2008,Perak,40 - 44,19
+2008,Perak,45 - 49,1
+2008,Perak,Total Fertility Rate,2454
+2008,Perlis,15 - 19,10
+2008,Perlis,20 - 24,85
+2008,Perlis,25 - 29,185
+2008,Perlis,30 - 34,157
+2008,Perlis,35 - 39,82
+2008,Perlis,40 - 44,27
+2008,Perlis,45 - 49,2
+2008,Perlis,Total Fertility Rate,2741
+2008,Pulau Pinang,15 - 19,6
+2008,Pulau Pinang,20 - 24,42
+2008,Pulau Pinang,25 - 29,113
+2008,Pulau Pinang,30 - 34,116
+2008,Pulau Pinang,35 - 39,59
+2008,Pulau Pinang,40 - 44,15
+2008,Pulau Pinang,45 - 49,1
+2008,Pulau Pinang,Total Fertility Rate,1759
+2008,Sabah,15 - 19,19
+2008,Sabah,20 - 24,63
+2008,Sabah,25 - 29,92
+2008,Sabah,30 - 34,102
+2008,Sabah,35 - 39,65
+2008,Sabah,40 - 44,27
+2008,Sabah,45 - 49,6
+2008,Sabah,Total Fertility Rate,1867
+2008,Sarawak,15 - 19,31
+2008,Sarawak,20 - 24,96
+2008,Sarawak,25 - 29,136
+2008,Sarawak,30 - 34,121
+2008,Sarawak,35 - 39,68
+2008,Sarawak,40 - 44,20
+2008,Sarawak,45 - 49,2
+2008,Sarawak,Total Fertility Rate,2372
+2008,Selangor,15 - 19,8
+2008,Selangor,20 - 24,43
+2008,Selangor,25 - 29,128
+2008,Selangor,30 - 34,141
+2008,Selangor,35 - 39,78
+2008,Selangor,40 - 44,21
+2008,Selangor,45 - 49,2
+2008,Selangor,Total Fertility Rate,2101
+2008,Terengganu,15 - 19,12
+2008,Terengganu,20 - 24,89
+2008,Terengganu,25 - 29,214
+2008,Terengganu,30 - 34,194
+2008,Terengganu,35 - 39,128
+2008,Terengganu,40 - 44,48
+2008,Terengganu,45 - 49,5
+2008,Terengganu,Total Fertility Rate,3445
+2008,W.P. Kuala Lumpur,15 - 19,6
+2008,W.P. Kuala Lumpur,20 - 24,38
+2008,W.P. Kuala Lumpur,25 - 29,102
+2008,W.P. Kuala Lumpur,30 - 34,113
+2008,W.P. Kuala Lumpur,35 - 39,60
+2008,W.P. Kuala Lumpur,40 - 44,15
+2008,W.P. Kuala Lumpur,45 - 49,2
+2008,W.P. Kuala Lumpur,Total Fertility Rate,1679
+2008,W.P. Labuan,15 - 19,26
+2008,W.P. Labuan,20 - 24,71
+2008,W.P. Labuan,25 - 29,110
+2008,W.P. Labuan,30 - 34,140
+2008,W.P. Labuan,35 - 39,63
+2008,W.P. Labuan,40 - 44,29
+2008,W.P. Labuan,45 - 49,4
+2008,W.P. Labuan,Total Fertility Rate,2211
+2009,Malaysia,15 - 19,14
+2009,Malaysia,20 - 24,63
+2009,Malaysia,25 - 29,135
+2009,Malaysia,30 - 34,137
+2009,Malaysia,35 - 39,76
+2009,Malaysia,40 - 44,23
+2009,Malaysia,45 - 49,2
+2009,Malaysia,Total Fertility Rate,2245
+2009,Johor,15 - 19,12
+2009,Johor,20 - 24,65
+2009,Johor,25 - 29,144
+2009,Johor,30 - 34,137
+2009,Johor,35 - 39,70
+2009,Johor,40 - 44,19
+2009,Johor,45 - 49,2
+2009,Johor,Total Fertility Rate,2247
+2009,Kedah,15 - 19,10
+2009,Kedah,20 - 24,78
+2009,Kedah,25 - 29,180
+2009,Kedah,30 - 34,152
+2009,Kedah,35 - 39,83
+2009,Kedah,40 - 44,26
+2009,Kedah,45 - 49,2
+2009,Kedah,Total Fertility Rate,2655
+2009,Kelantan,15 - 19,17
+2009,Kelantan,20 - 24,109
+2009,Kelantan,25 - 29,236
+2009,Kelantan,30 - 34,195
+2009,Kelantan,35 - 39,124
+2009,Kelantan,40 - 44,46
+2009,Kelantan,45 - 49,5
+2009,Kelantan,Total Fertility Rate,3662
+2009,Melaka,15 - 19,6
+2009,Melaka,20 - 24,57
+2009,Melaka,25 - 29,153
+2009,Melaka,30 - 34,150
+2009,Melaka,35 - 39,69
+2009,Melaka,40 - 44,16
+2009,Melaka,45 - 49,1
+2009,Melaka,Total Fertility Rate,2264
+2009,Negeri Sembilan,15 - 19,10
+2009,Negeri Sembilan,20 - 24,60
+2009,Negeri Sembilan,25 - 29,167
+2009,Negeri Sembilan,30 - 34,149
+2009,Negeri Sembilan,35 - 39,71
+2009,Negeri Sembilan,40 - 44,18
+2009,Negeri Sembilan,45 - 49,1
+2009,Negeri Sembilan,Total Fertility Rate,2377
+2009,Pahang,15 - 19,16
+2009,Pahang,20 - 24,84
+2009,Pahang,25 - 29,148
+2009,Pahang,30 - 34,146
+2009,Pahang,35 - 39,81
+2009,Pahang,40 - 44,25
+2009,Pahang,45 - 49,2
+2009,Pahang,Total Fertility Rate,2513
+2009,Perak,15 - 19,10
+2009,Perak,20 - 24,66
+2009,Perak,25 - 29,176
+2009,Perak,30 - 34,144
+2009,Perak,35 - 39,72
+2009,Perak,40 - 44,18
+2009,Perak,45 - 49,1
+2009,Perak,Total Fertility Rate,2436
+2009,Perlis,15 - 19,10
+2009,Perlis,20 - 24,84
+2009,Perlis,25 - 29,182
+2009,Perlis,30 - 34,162
+2009,Perlis,35 - 39,83
+2009,Perlis,40 - 44,25
+2009,Perlis,45 - 49,1
+2009,Perlis,Total Fertility Rate,2730
+2009,Pulau Pinang,15 - 19,6
+2009,Pulau Pinang,20 - 24,41
+2009,Pulau Pinang,25 - 29,106
+2009,Pulau Pinang,30 - 34,115
+2009,Pulau Pinang,35 - 39,61
+2009,Pulau Pinang,40 - 44,13
+2009,Pulau Pinang,45 - 49,1
+2009,Pulau Pinang,Total Fertility Rate,1712
+2009,Sabah,15 - 19,21
+2009,Sabah,20 - 24,67
+2009,Sabah,25 - 29,87
+2009,Sabah,30 - 34,103
+2009,Sabah,35 - 39,63
+2009,Sabah,40 - 44,27
+2009,Sabah,45 - 49,5
+2009,Sabah,Total Fertility Rate,1868
+2009,Sarawak,15 - 19,33
+2009,Sarawak,20 - 24,92
+2009,Sarawak,25 - 29,133
+2009,Sarawak,30 - 34,123
+2009,Sarawak,35 - 39,67
+2009,Sarawak,40 - 44,20
+2009,Sarawak,45 - 49,2
+2009,Sarawak,Total Fertility Rate,2346
+2009,Selangor,15 - 19,9
+2009,Selangor,20 - 24,40
+2009,Selangor,25 - 29,121
+2009,Selangor,30 - 34,141
+2009,Selangor,35 - 39,78
+2009,Selangor,40 - 44,21
+2009,Selangor,45 - 49,2
+2009,Selangor,Total Fertility Rate,2064
+2009,Terengganu,15 - 19,13
+2009,Terengganu,20 - 24,87
+2009,Terengganu,25 - 29,227
+2009,Terengganu,30 - 34,192
+2009,Terengganu,35 - 39,124
+2009,Terengganu,40 - 44,45
+2009,Terengganu,45 - 49,5
+2009,Terengganu,Total Fertility Rate,3463
+2009,W.P. Kuala Lumpur,15 - 19,7
+2009,W.P. Kuala Lumpur,20 - 24,38
+2009,W.P. Kuala Lumpur,25 - 29,97
+2009,W.P. Kuala Lumpur,30 - 34,114
+2009,W.P. Kuala Lumpur,35 - 39,64
+2009,W.P. Kuala Lumpur,40 - 44,14
+2009,W.P. Kuala Lumpur,45 - 49,2
+2009,W.P. Kuala Lumpur,Total Fertility Rate,1683
+2009,W.P. Labuan,15 - 19,26
+2009,W.P. Labuan,20 - 24,73
+2009,W.P. Labuan,25 - 29,102
+2009,W.P. Labuan,30 - 34,128
+2009,W.P. Labuan,35 - 39,59
+2009,W.P. Labuan,40 - 44,25
+2009,W.P. Labuan,45 - 49,4
+2009,W.P. Labuan,Total Fertility Rate,2086
+2010,Malaysia,15 - 19,14
+2010,Malaysia,20 - 24,58
+2010,Malaysia,25 - 29,128
+2010,Malaysia,30 - 34,131
+2010,Malaysia,35 - 39,73
+2010,Malaysia,40 - 44,21
+2010,Malaysia,45 - 49,2
+2010,Malaysia,Total Fertility Rate,2136
+2010,Johor,15 - 19,12
+2010,Johor,20 - 24,59
+2010,Johor,25 - 29,135
+2010,Johor,30 - 34,131
+2010,Johor,35 - 39,68
+2010,Johor,40 - 44,18
+2010,Johor,45 - 49,1
+2010,Johor,Total Fertility Rate,2133
+2010,Kedah,15 - 19,9
+2010,Kedah,20 - 24,71
+2010,Kedah,25 - 29,178
+2010,Kedah,30 - 34,152
+2010,Kedah,35 - 39,80
+2010,Kedah,40 - 44,24
+2010,Kedah,45 - 49,2
+2010,Kedah,Total Fertility Rate,2581
+2010,Kelantan,15 - 19,16
+2010,Kelantan,20 - 24,107
+2010,Kelantan,25 - 29,253
+2010,Kelantan,30 - 34,193
+2010,Kelantan,35 - 39,119
+2010,Kelantan,40 - 44,43
+2010,Kelantan,45 - 49,5
+2010,Kelantan,Total Fertility Rate,3679
+2010,Melaka,15 - 19,6
+2010,Melaka,20 - 24,49
+2010,Melaka,25 - 29,148
+2010,Melaka,30 - 34,141
+2010,Melaka,35 - 39,66
+2010,Melaka,40 - 44,14
+2010,Melaka,45 - 49,1
+2010,Melaka,Total Fertility Rate,2122
+2010,Negeri Sembilan,15 - 19,11
+2010,Negeri Sembilan,20 - 24,56
+2010,Negeri Sembilan,25 - 29,158
+2010,Negeri Sembilan,30 - 34,141
+2010,Negeri Sembilan,35 - 39,69
+2010,Negeri Sembilan,40 - 44,17
+2010,Negeri Sembilan,45 - 49,1
+2010,Negeri Sembilan,Total Fertility Rate,2267
+2010,Pahang,15 - 19,15
+2010,Pahang,20 - 24,79
+2010,Pahang,25 - 29,147
+2010,Pahang,30 - 34,145
+2010,Pahang,35 - 39,79
+2010,Pahang,40 - 44,26
+2010,Pahang,45 - 49,3
+2010,Pahang,Total Fertility Rate,2471
+2010,Perak,15 - 19,9
+2010,Perak,20 - 24,60
+2010,Perak,25 - 29,175
+2010,Perak,30 - 34,137
+2010,Perak,35 - 39,70
+2010,Perak,40 - 44,17
+2010,Perak,45 - 49,1
+2010,Perak,Total Fertility Rate,2341
+2010,Perlis,15 - 19,9
+2010,Perlis,20 - 24,73
+2010,Perlis,25 - 29,185
+2010,Perlis,30 - 34,154
+2010,Perlis,35 - 39,78
+2010,Perlis,40 - 44,19
+2010,Perlis,45 - 49,2
+2010,Perlis,Total Fertility Rate,2598
+2010,Pulau Pinang,15 - 19,6
+2010,Pulau Pinang,20 - 24,37
+2010,Pulau Pinang,25 - 29,95
+2010,Pulau Pinang,30 - 34,104
+2010,Pulau Pinang,35 - 39,54
+2010,Pulau Pinang,40 - 44,14
+2010,Pulau Pinang,45 - 49,1
+2010,Pulau Pinang,Total Fertility Rate,1558
+2010,Sabah,15 - 19,22
+2010,Sabah,20 - 24,66
+2010,Sabah,25 - 29,84
+2010,Sabah,30 - 34,100
+2010,Sabah,35 - 39,63
+2010,Sabah,40 - 44,27
+2010,Sabah,45 - 49,6
+2010,Sabah,Total Fertility Rate,1836
+2010,Sarawak,15 - 19,32
+2010,Sarawak,20 - 24,84
+2010,Sarawak,25 - 29,123
+2010,Sarawak,30 - 34,117
+2010,Sarawak,35 - 39,62
+2010,Sarawak,40 - 44,18
+2010,Sarawak,45 - 49,2
+2010,Sarawak,Total Fertility Rate,2182
+2010,Selangor,15 - 19,9
+2010,Selangor,20 - 24,37
+2010,Selangor,25 - 29,109
+2010,Selangor,30 - 34,132
+2010,Selangor,35 - 39,74
+2010,Selangor,40 - 44,20
+2010,Selangor,45 - 49,2
+2010,Selangor,Total Fertility Rate,1913
+2010,Terengganu,15 - 19,12
+2010,Terengganu,20 - 24,81
+2010,Terengganu,25 - 29,238
+2010,Terengganu,30 - 34,196
+2010,Terengganu,35 - 39,122
+2010,Terengganu,40 - 44,43
+2010,Terengganu,45 - 49,4
+2010,Terengganu,Total Fertility Rate,3479
+2010,W.P. Kuala Lumpur,15 - 19,7
+2010,W.P. Kuala Lumpur,20 - 24,34
+2010,W.P. Kuala Lumpur,25 - 29,86
+2010,W.P. Kuala Lumpur,30 - 34,106
+2010,W.P. Kuala Lumpur,35 - 39,62
+2010,W.P. Kuala Lumpur,40 - 44,13
+2010,W.P. Kuala Lumpur,45 - 49,2
+2010,W.P. Kuala Lumpur,Total Fertility Rate,1548
+2010,W.P. Labuan,15 - 19,25
+2010,W.P. Labuan,20 - 24,76
+2010,W.P. Labuan,25 - 29,92
+2010,W.P. Labuan,30 - 34,121
+2010,W.P. Labuan,35 - 39,60
+2010,W.P. Labuan,40 - 44,19
+2010,W.P. Labuan,45 - 49,4
+2010,W.P. Labuan,Total Fertility Rate,1984
+2010,W.P. Putrajaya,15 - 19,5
+2010,W.P. Putrajaya,20 - 24,42
+2010,W.P. Putrajaya,25 - 29,145
+2010,W.P. Putrajaya,30 - 34,159
+2010,W.P. Putrajaya,35 - 39,109
+2010,W.P. Putrajaya,40 - 44,19
+2010,W.P. Putrajaya,45 - 49,1
+2010,W.P. Putrajaya,Total Fertility Rate,2405
+2011,Malaysia,15 - 19,14
+2011,Malaysia,20 - 24,57
+2011,Malaysia,25 - 29,129
+2011,Malaysia,30 - 34,135
+2011,Malaysia,35 - 39,76
+2011,Malaysia,40 - 44,22
+2011,Malaysia,45 - 49,2
+2011,Malaysia,Total Fertility Rate,2174
+2011,Johor,15 - 19,12
+2011,Johor,20 - 24,59
+2011,Johor,25 - 29,139
+2011,Johor,30 - 34,133
+2011,Johor,35 - 39,71
+2011,Johor,40 - 44,19
+2011,Johor,45 - 49,2
+2011,Johor,Total Fertility Rate,2175
+2011,Kedah,15 - 19,9
+2011,Kedah,20 - 24,64
+2011,Kedah,25 - 29,184
+2011,Kedah,30 - 34,159
+2011,Kedah,35 - 39,82
+2011,Kedah,40 - 44,23
+2011,Kedah,45 - 49,2
+2011,Kedah,Total Fertility Rate,2613
+2011,Kelantan,15 - 19,16
+2011,Kelantan,20 - 24,96
+2011,Kelantan,25 - 29,259
+2011,Kelantan,30 - 34,213
+2011,Kelantan,35 - 39,120
+2011,Kelantan,40 - 44,45
+2011,Kelantan,45 - 49,4
+2011,Kelantan,Total Fertility Rate,3769
+2011,Melaka,15 - 19,7
+2011,Melaka,20 - 24,47
+2011,Melaka,25 - 29,151
+2011,Melaka,30 - 34,148
+2011,Melaka,35 - 39,77
+2011,Melaka,40 - 44,15
+2011,Melaka,45 - 49,1
+2011,Melaka,Total Fertility Rate,2227
+2011,Negeri Sembilan,15 - 19,10
+2011,Negeri Sembilan,20 - 24,52
+2011,Negeri Sembilan,25 - 29,158
+2011,Negeri Sembilan,30 - 34,151
+2011,Negeri Sembilan,35 - 39,71
+2011,Negeri Sembilan,40 - 44,16
+2011,Negeri Sembilan,45 - 49,1
+2011,Negeri Sembilan,Total Fertility Rate,2296
+2011,Pahang,15 - 19,18
+2011,Pahang,20 - 24,78
+2011,Pahang,25 - 29,148
+2011,Pahang,30 - 34,147
+2011,Pahang,35 - 39,82
+2011,Pahang,40 - 44,25
+2011,Pahang,45 - 49,2
+2011,Pahang,Total Fertility Rate,2502
+2011,Perak,15 - 19,9
+2011,Perak,20 - 24,56
+2011,Perak,25 - 29,171
+2011,Perak,30 - 34,150
+2011,Perak,35 - 39,75
+2011,Perak,40 - 44,17
+2011,Perak,45 - 49,1
+2011,Perak,Total Fertility Rate,2390
+2011,Perlis,15 - 19,9
+2011,Perlis,20 - 24,67
+2011,Perlis,25 - 29,175
+2011,Perlis,30 - 34,161
+2011,Perlis,35 - 39,77
+2011,Perlis,40 - 44,21
+2011,Perlis,45 - 49,1
+2011,Perlis,Total Fertility Rate,2562
+2011,Pulau Pinang,15 - 19,6
+2011,Pulau Pinang,20 - 24,34
+2011,Pulau Pinang,25 - 29,96
+2011,Pulau Pinang,30 - 34,113
+2011,Pulau Pinang,35 - 39,59
+2011,Pulau Pinang,40 - 44,14
+2011,Pulau Pinang,45 - 49,1
+2011,Pulau Pinang,Total Fertility Rate,1620
+2011,Sabah,15 - 19,21
+2011,Sabah,20 - 24,63
+2011,Sabah,25 - 29,82
+2011,Sabah,30 - 34,99
+2011,Sabah,35 - 39,64
+2011,Sabah,40 - 44,26
+2011,Sabah,45 - 49,5
+2011,Sabah,Total Fertility Rate,1807
+2011,Sarawak,15 - 19,32
+2011,Sarawak,20 - 24,84
+2011,Sarawak,25 - 29,122
+2011,Sarawak,30 - 34,123
+2011,Sarawak,35 - 39,64
+2011,Sarawak,40 - 44,18
+2011,Sarawak,45 - 49,2
+2011,Sarawak,Total Fertility Rate,2230
+2011,Selangor,15 - 19,10
+2011,Selangor,20 - 24,38
+2011,Selangor,25 - 29,110
+2011,Selangor,30 - 34,135
+2011,Selangor,35 - 39,77
+2011,Selangor,40 - 44,21
+2011,Selangor,45 - 49,2
+2011,Selangor,Total Fertility Rate,1963
+2011,Terengganu,15 - 19,11
+2011,Terengganu,20 - 24,76
+2011,Terengganu,25 - 29,229
+2011,Terengganu,30 - 34,201
+2011,Terengganu,35 - 39,127
+2011,Terengganu,40 - 44,42
+2011,Terengganu,45 - 49,4
+2011,Terengganu,Total Fertility Rate,3458
+2011,W.P. Kuala Lumpur,15 - 19,7
+2011,W.P. Kuala Lumpur,20 - 24,34
+2011,W.P. Kuala Lumpur,25 - 29,91
+2011,W.P. Kuala Lumpur,30 - 34,105
+2011,W.P. Kuala Lumpur,35 - 39,65
+2011,W.P. Kuala Lumpur,40 - 44,13
+2011,W.P. Kuala Lumpur,45 - 49,1
+2011,W.P. Kuala Lumpur,Total Fertility Rate,1580
+2011,W.P. Labuan,15 - 19,24
+2011,W.P. Labuan,20 - 24,79
+2011,W.P. Labuan,25 - 29,97
+2011,W.P. Labuan,30 - 34,119
+2011,W.P. Labuan,35 - 39,68
+2011,W.P. Labuan,40 - 44,21
+2011,W.P. Labuan,45 - 49,3
+2011,W.P. Labuan,Total Fertility Rate,2050
+2011,W.P. Putrajaya,15 - 19,3
+2011,W.P. Putrajaya,20 - 24,43
+2011,W.P. Putrajaya,25 - 29,178
+2011,W.P. Putrajaya,30 - 34,168
+2011,W.P. Putrajaya,35 - 39,108
+2011,W.P. Putrajaya,40 - 44,29
+2011,W.P. Putrajaya,45 - 49,2
+2011,W.P. Putrajaya,Total Fertility Rate,2651
+2012,Malaysia,15 - 19,14
+2012,Malaysia,20 - 24,56
+2012,Malaysia,25 - 29,130
+2012,Malaysia,30 - 34,136
+2012,Malaysia,35 - 39,78
+2012,Malaysia,40 - 44,22
+2012,Malaysia,45 - 49,2
+2012,Malaysia,Total Fertility Rate,2188
+2012,Johor,15 - 19,13
+2012,Johor,20 - 24,59
+2012,Johor,25 - 29,145
+2012,Johor,30 - 34,136
+2012,Johor,35 - 39,74
+2012,Johor,40 - 44,18
+2012,Johor,45 - 49,1
+2012,Johor,Total Fertility Rate,2232
+2012,Kedah,15 - 19,9
+2012,Kedah,20 - 24,61
+2012,Kedah,25 - 29,178
+2012,Kedah,30 - 34,163
+2012,Kedah,35 - 39,85
+2012,Kedah,40 - 44,22
+2012,Kedah,45 - 49,2
+2012,Kedah,Total Fertility Rate,2602
+2012,Kelantan,15 - 19,15
+2012,Kelantan,20 - 24,83
+2012,Kelantan,25 - 29,250
+2012,Kelantan,30 - 34,205
+2012,Kelantan,35 - 39,120
+2012,Kelantan,40 - 44,44
+2012,Kelantan,45 - 49,4
+2012,Kelantan,Total Fertility Rate,3605
+2012,Melaka,15 - 19,8
+2012,Melaka,20 - 24,42
+2012,Melaka,25 - 29,147
+2012,Melaka,30 - 34,151
+2012,Melaka,35 - 39,80
+2012,Melaka,40 - 44,17
+2012,Melaka,45 - 49,1
+2012,Melaka,Total Fertility Rate,2227
+2012,Negeri Sembilan,15 - 19,10
+2012,Negeri Sembilan,20 - 24,49
+2012,Negeri Sembilan,25 - 29,151
+2012,Negeri Sembilan,30 - 34,155
+2012,Negeri Sembilan,35 - 39,75
+2012,Negeri Sembilan,40 - 44,18
+2012,Negeri Sembilan,45 - 49,1
+2012,Negeri Sembilan,Total Fertility Rate,2294
+2012,Pahang,15 - 19,17
+2012,Pahang,20 - 24,73
+2012,Pahang,25 - 29,155
+2012,Pahang,30 - 34,140
+2012,Pahang,35 - 39,83
+2012,Pahang,40 - 44,25
+2012,Pahang,45 - 49,2
+2012,Pahang,Total Fertility Rate,2475
+2012,Perak,15 - 19,9
+2012,Perak,20 - 24,51
+2012,Perak,25 - 29,163
+2012,Perak,30 - 34,157
+2012,Perak,35 - 39,70
+2012,Perak,40 - 44,18
+2012,Perak,45 - 49,1
+2012,Perak,Total Fertility Rate,2346
+2012,Perlis,15 - 19,11
+2012,Perlis,20 - 24,59
+2012,Perlis,25 - 29,176
+2012,Perlis,30 - 34,152
+2012,Perlis,35 - 39,80
+2012,Perlis,40 - 44,18
+2012,Perlis,45 - 49,2
+2012,Perlis,Total Fertility Rate,2484
+2012,Pulau Pinang,15 - 19,7
+2012,Pulau Pinang,20 - 24,34
+2012,Pulau Pinang,25 - 29,101
+2012,Pulau Pinang,30 - 34,119
+2012,Pulau Pinang,35 - 39,63
+2012,Pulau Pinang,40 - 44,14
+2012,Pulau Pinang,45 - 49,1
+2012,Pulau Pinang,Total Fertility Rate,1697
+2012,Sabah,15 - 19,22
+2012,Sabah,20 - 24,64
+2012,Sabah,25 - 29,85
+2012,Sabah,30 - 34,100
+2012,Sabah,35 - 39,65
+2012,Sabah,40 - 44,26
+2012,Sabah,45 - 49,6
+2012,Sabah,Total Fertility Rate,1841
+2012,Sarawak,15 - 19,32
+2012,Sarawak,20 - 24,80
+2012,Sarawak,25 - 29,120
+2012,Sarawak,30 - 34,118
+2012,Sarawak,35 - 39,63
+2012,Sarawak,40 - 44,19
+2012,Sarawak,45 - 49,2
+2012,Sarawak,Total Fertility Rate,2165
+2012,Selangor,15 - 19,10
+2012,Selangor,20 - 24,39
+2012,Selangor,25 - 29,111
+2012,Selangor,30 - 34,136
+2012,Selangor,35 - 39,81
+2012,Selangor,40 - 44,21
+2012,Selangor,45 - 49,2
+2012,Selangor,Total Fertility Rate,1997
+2012,Terengganu,15 - 19,12
+2012,Terengganu,20 - 24,72
+2012,Terengganu,25 - 29,227
+2012,Terengganu,30 - 34,206
+2012,Terengganu,35 - 39,132
+2012,Terengganu,40 - 44,45
+2012,Terengganu,45 - 49,4
+2012,Terengganu,Total Fertility Rate,3489
+2012,W.P. Kuala Lumpur,15 - 19,9
+2012,W.P. Kuala Lumpur,20 - 24,36
+2012,W.P. Kuala Lumpur,25 - 29,93
+2012,W.P. Kuala Lumpur,30 - 34,108
+2012,W.P. Kuala Lumpur,35 - 39,68
+2012,W.P. Kuala Lumpur,40 - 44,15
+2012,W.P. Kuala Lumpur,45 - 49,1
+2012,W.P. Kuala Lumpur,Total Fertility Rate,1649
+2012,W.P. Labuan,15 - 19,25
+2012,W.P. Labuan,20 - 24,80
+2012,W.P. Labuan,25 - 29,101
+2012,W.P. Labuan,30 - 34,102
+2012,W.P. Labuan,35 - 39,78
+2012,W.P. Labuan,40 - 44,20
+2012,W.P. Labuan,45 - 49,4
+2012,W.P. Labuan,Total Fertility Rate,2045
+2012,W.P. Putrajaya,15 - 19,7
+2012,W.P. Putrajaya,20 - 24,52
+2012,W.P. Putrajaya,25 - 29,179
+2012,W.P. Putrajaya,30 - 34,185
+2012,W.P. Putrajaya,35 - 39,121
+2012,W.P. Putrajaya,40 - 44,28
+2012,W.P. Putrajaya,45 - 49,1
+2012,W.P. Putrajaya,Total Fertility Rate,2870
+2013,Malaysia,15 - 19,13
+2013,Malaysia,20 - 24,51
+2013,Malaysia,25 - 29,122
+2013,Malaysia,30 - 34,124
+2013,Malaysia,35 - 39,73
+2013,Malaysia,40 - 44,20
+2013,Malaysia,45 - 49,2
+2013,Malaysia,Total Fertility Rate,2022
+2013,Johor,15 - 19,11
+2013,Johor,20 - 24,55
+2013,Johor,25 - 29,140
+2013,Johor,30 - 34,126
+2013,Johor,35 - 39,70
+2013,Johor,40 - 44,18
+2013,Johor,45 - 49,1
+2013,Johor,Total Fertility Rate,2107
+2013,Kedah,15 - 19,8
+2013,Kedah,20 - 24,57
+2013,Kedah,25 - 29,168
+2013,Kedah,30 - 34,150
+2013,Kedah,35 - 39,79
+2013,Kedah,40 - 44,20
+2013,Kedah,45 - 49,2
+2013,Kedah,Total Fertility Rate,2417
+2013,Kelantan,15 - 19,14
+2013,Kelantan,20 - 24,72
+2013,Kelantan,25 - 29,247
+2013,Kelantan,30 - 34,198
+2013,Kelantan,35 - 39,113
+2013,Kelantan,40 - 44,40
+2013,Kelantan,45 - 49,4
+2013,Kelantan,Total Fertility Rate,3441
+2013,Melaka,15 - 19,7
+2013,Melaka,20 - 24,38
+2013,Melaka,25 - 29,138
+2013,Melaka,30 - 34,140
+2013,Melaka,35 - 39,74
+2013,Melaka,40 - 44,16
+2013,Melaka,45 - 49,1
+2013,Melaka,Total Fertility Rate,2064
+2013,Negeri Sembilan,15 - 19,10
+2013,Negeri Sembilan,20 - 24,45
+2013,Negeri Sembilan,25 - 29,146
+2013,Negeri Sembilan,30 - 34,148
+2013,Negeri Sembilan,35 - 39,73
+2013,Negeri Sembilan,40 - 44,17
+2013,Negeri Sembilan,45 - 49,1
+2013,Negeri Sembilan,Total Fertility Rate,2200
+2013,Pahang,15 - 19,16
+2013,Pahang,20 - 24,63
+2013,Pahang,25 - 29,155
+2013,Pahang,30 - 34,133
+2013,Pahang,35 - 39,85
+2013,Pahang,40 - 44,23
+2013,Pahang,45 - 49,2
+2013,Pahang,Total Fertility Rate,2384
+2013,Perak,15 - 19,8
+2013,Perak,20 - 24,45
+2013,Perak,25 - 29,144
+2013,Perak,30 - 34,148
+2013,Perak,35 - 39,69
+2013,Perak,40 - 44,17
+2013,Perak,45 - 49,1
+2013,Perak,Total Fertility Rate,2157
+2013,Perlis,15 - 19,10
+2013,Perlis,20 - 24,53
+2013,Perlis,25 - 29,170
+2013,Perlis,30 - 34,144
+2013,Perlis,35 - 39,74
+2013,Perlis,40 - 44,18
+2013,Perlis,45 - 49,1
+2013,Perlis,Total Fertility Rate,2350
+2013,Pulau Pinang,15 - 19,6
+2013,Pulau Pinang,20 - 24,28
+2013,Pulau Pinang,25 - 29,87
+2013,Pulau Pinang,30 - 34,102
+2013,Pulau Pinang,35 - 39,58
+2013,Pulau Pinang,40 - 44,13
+2013,Pulau Pinang,45 - 49,1
+2013,Pulau Pinang,Total Fertility Rate,1475
+2013,Sabah,15 - 19,20
+2013,Sabah,20 - 24,59
+2013,Sabah,25 - 29,78
+2013,Sabah,30 - 34,89
+2013,Sabah,35 - 39,61
+2013,Sabah,40 - 44,24
+2013,Sabah,45 - 49,5
+2013,Sabah,Total Fertility Rate,1677
+2013,Sarawak,15 - 19,30
+2013,Sarawak,20 - 24,70
+2013,Sarawak,25 - 29,105
+2013,Sarawak,30 - 34,107
+2013,Sarawak,35 - 39,59
+2013,Sarawak,40 - 44,17
+2013,Sarawak,45 - 49,1
+2013,Sarawak,Total Fertility Rate,1949
+2013,Selangor,15 - 19,9
+2013,Selangor,20 - 24,36
+2013,Selangor,25 - 29,103
+2013,Selangor,30 - 34,119
+2013,Selangor,35 - 39,76
+2013,Selangor,40 - 44,20
+2013,Selangor,45 - 49,2
+2013,Selangor,Total Fertility Rate,1822
+2013,Terengganu,15 - 19,11
+2013,Terengganu,20 - 24,69
+2013,Terengganu,25 - 29,214
+2013,Terengganu,30 - 34,205
+2013,Terengganu,35 - 39,121
+2013,Terengganu,40 - 44,40
+2013,Terengganu,45 - 49,4
+2013,Terengganu,Total Fertility Rate,3319
+2013,W.P. Kuala Lumpur,15 - 19,8
+2013,W.P. Kuala Lumpur,20 - 24,34
+2013,W.P. Kuala Lumpur,25 - 29,90
+2013,W.P. Kuala Lumpur,30 - 34,95
+2013,W.P. Kuala Lumpur,35 - 39,62
+2013,W.P. Kuala Lumpur,40 - 44,13
+2013,W.P. Kuala Lumpur,45 - 49,1
+2013,W.P. Kuala Lumpur,Total Fertility Rate,1518
+2013,W.P. Labuan,15 - 19,23
+2013,W.P. Labuan,20 - 24,86
+2013,W.P. Labuan,25 - 29,105
+2013,W.P. Labuan,30 - 34,86
+2013,W.P. Labuan,35 - 39,77
+2013,W.P. Labuan,40 - 44,19
+2013,W.P. Labuan,45 - 49,4
+2013,W.P. Labuan,Total Fertility Rate,1998
+2013,W.P. Putrajaya,15 - 19,5
+2013,W.P. Putrajaya,20 - 24,34
+2013,W.P. Putrajaya,25 - 29,197
+2013,W.P. Putrajaya,30 - 34,160
+2013,W.P. Putrajaya,35 - 39,98
+2013,W.P. Putrajaya,40 - 44,33
+2013,W.P. Putrajaya,45 - 49,2
+2013,W.P. Putrajaya,Total Fertility Rate,2641
+2014,Malaysia,15 - 19,13
+2014,Malaysia,20 - 24,51
+2014,Malaysia,25 - 29,123
+2014,Malaysia,30 - 34,127
+2014,Malaysia,35 - 39,77
+2014,Malaysia,40 - 44,21
+2014,Malaysia,45 - 49,2
+2014,Malaysia,Total Fertility Rate,2072
+2014,Johor,15 - 19,11
+2014,Johor,20 - 24,56
+2014,Johor,25 - 29,142
+2014,Johor,30 - 34,130
+2014,Johor,35 - 39,74
+2014,Johor,40 - 44,18
+2014,Johor,45 - 49,1
+2014,Johor,Total Fertility Rate,2162
+2014,Kedah,15 - 19,9
+2014,Kedah,20 - 24,54
+2014,Kedah,25 - 29,166
+2014,Kedah,30 - 34,156
+2014,Kedah,35 - 39,86
+2014,Kedah,40 - 44,22
+2014,Kedah,45 - 49,2
+2014,Kedah,Total Fertility Rate,2468
+2014,Kelantan,15 - 19,14
+2014,Kelantan,20 - 24,71
+2014,Kelantan,25 - 29,250
+2014,Kelantan,30 - 34,215
+2014,Kelantan,35 - 39,121
+2014,Kelantan,40 - 44,40
+2014,Kelantan,45 - 49,4
+2014,Kelantan,Total Fertility Rate,3571
+2014,Melaka,15 - 19,7
+2014,Melaka,20 - 24,36
+2014,Melaka,25 - 29,138
+2014,Melaka,30 - 34,146
+2014,Melaka,35 - 39,80
+2014,Melaka,40 - 44,17
+2014,Melaka,45 - 49,1
+2014,Melaka,Total Fertility Rate,2127
+2014,Negeri Sembilan,15 - 19,9
+2014,Negeri Sembilan,20 - 24,46
+2014,Negeri Sembilan,25 - 29,145
+2014,Negeri Sembilan,30 - 34,162
+2014,Negeri Sembilan,35 - 39,80
+2014,Negeri Sembilan,40 - 44,19
+2014,Negeri Sembilan,45 - 49,1
+2014,Negeri Sembilan,Total Fertility Rate,2313
+2014,Pahang,15 - 19,15
+2014,Pahang,20 - 24,63
+2014,Pahang,25 - 29,167
+2014,Pahang,30 - 34,135
+2014,Pahang,35 - 39,91
+2014,Pahang,40 - 44,24
+2014,Pahang,45 - 49,2
+2014,Pahang,Total Fertility Rate,2494
+2014,Perak,15 - 19,8
+2014,Perak,20 - 24,43
+2014,Perak,25 - 29,143
+2014,Perak,30 - 34,153
+2014,Perak,35 - 39,72
+2014,Perak,40 - 44,17
+2014,Perak,45 - 49,1
+2014,Perak,Total Fertility Rate,2186
+2014,Perlis,15 - 19,11
+2014,Perlis,20 - 24,50
+2014,Perlis,25 - 29,180
+2014,Perlis,30 - 34,154
+2014,Perlis,35 - 39,93
+2014,Perlis,40 - 44,19
+2014,Perlis,45 - 49,1
+2014,Perlis,Total Fertility Rate,2543
+2014,Pulau Pinang,15 - 19,7
+2014,Pulau Pinang,20 - 24,31
+2014,Pulau Pinang,25 - 29,91
+2014,Pulau Pinang,30 - 34,105
+2014,Pulau Pinang,35 - 39,63
+2014,Pulau Pinang,40 - 44,13
+2014,Pulau Pinang,45 - 49,1
+2014,Pulau Pinang,Total Fertility Rate,1555
+2014,Sabah,15 - 19,20
+2014,Sabah,20 - 24,56
+2014,Sabah,25 - 29,79
+2014,Sabah,30 - 34,88
+2014,Sabah,35 - 39,61
+2014,Sabah,40 - 44,23
+2014,Sabah,45 - 49,4
+2014,Sabah,Total Fertility Rate,1658
+2014,Sarawak,15 - 19,30
+2014,Sarawak,20 - 24,70
+2014,Sarawak,25 - 29,104
+2014,Sarawak,30 - 34,108
+2014,Sarawak,35 - 39,61
+2014,Sarawak,40 - 44,17
+2014,Sarawak,45 - 49,2
+2014,Sarawak,Total Fertility Rate,1955
+2014,Selangor,15 - 19,9
+2014,Selangor,20 - 24,38
+2014,Selangor,25 - 29,103
+2014,Selangor,30 - 34,121
+2014,Selangor,35 - 39,80
+2014,Selangor,40 - 44,20
+2014,Selangor,45 - 49,1
+2014,Selangor,Total Fertility Rate,1863
+2014,Terengganu,15 - 19,11
+2014,Terengganu,20 - 24,68
+2014,Terengganu,25 - 29,212
+2014,Terengganu,30 - 34,217
+2014,Terengganu,35 - 39,124
+2014,Terengganu,40 - 44,40
+2014,Terengganu,45 - 49,3
+2014,Terengganu,Total Fertility Rate,3378
+2014,W.P. Kuala Lumpur,15 - 19,10
+2014,W.P. Kuala Lumpur,20 - 24,35
+2014,W.P. Kuala Lumpur,25 - 29,92
+2014,W.P. Kuala Lumpur,30 - 34,102
+2014,W.P. Kuala Lumpur,35 - 39,66
+2014,W.P. Kuala Lumpur,40 - 44,15
+2014,W.P. Kuala Lumpur,45 - 49,1
+2014,W.P. Kuala Lumpur,Total Fertility Rate,1605
+2014,W.P. Labuan,15 - 19,31
+2014,W.P. Labuan,20 - 24,79
+2014,W.P. Labuan,25 - 29,116
+2014,W.P. Labuan,30 - 34,93
+2014,W.P. Labuan,35 - 39,70
+2014,W.P. Labuan,40 - 44,21
+2014,W.P. Labuan,45 - 49,1
+2014,W.P. Labuan,Total Fertility Rate,2054
+2014,W.P. Putrajaya,15 - 19,2
+2014,W.P. Putrajaya,20 - 24,38
+2014,W.P. Putrajaya,25 - 29,212
+2014,W.P. Putrajaya,30 - 34,168
+2014,W.P. Putrajaya,35 - 39,115
+2014,W.P. Putrajaya,40 - 44,30
+2014,W.P. Putrajaya,45 - 49,4
+2014,W.P. Putrajaya,Total Fertility Rate,2846
+2015,Malaysia,15 - 19,12
+2015,Malaysia,20 - 24,48
+2015,Malaysia,25 - 29,118
+2015,Malaysia,30 - 34,124
+2015,Malaysia,35 - 39,76
+2015,Malaysia,40 - 44,21
+2015,Malaysia,45 - 49,2
+2015,Malaysia,Total Fertility Rate,2002
+2015,Johor,15 - 19,10
+2015,Johor,20 - 24,54
+2015,Johor,25 - 29,140
+2015,Johor,30 - 34,130
+2015,Johor,35 - 39,75
+2015,Johor,40 - 44,18
+2015,Johor,45 - 49,1
+2015,Johor,Total Fertility Rate,2139
+2015,Kedah,15 - 19,8
+2015,Kedah,20 - 24,52
+2015,Kedah,25 - 29,159
+2015,Kedah,30 - 34,154
+2015,Kedah,35 - 39,85
+2015,Kedah,40 - 44,22
+2015,Kedah,45 - 49,1
+2015,Kedah,Total Fertility Rate,2407
+2015,Kelantan,15 - 19,13
+2015,Kelantan,20 - 24,64
+2015,Kelantan,25 - 29,230
+2015,Kelantan,30 - 34,212
+2015,Kelantan,35 - 39,123
+2015,Kelantan,40 - 44,38
+2015,Kelantan,45 - 49,4
+2015,Kelantan,Total Fertility Rate,3420
+2015,Melaka,15 - 19,7
+2015,Melaka,20 - 24,34
+2015,Melaka,25 - 29,129
+2015,Melaka,30 - 34,141
+2015,Melaka,35 - 39,80
+2015,Melaka,40 - 44,18
+2015,Melaka,45 - 49,1
+2015,Melaka,Total Fertility Rate,2046
+2015,Negeri Sembilan,15 - 19,9
+2015,Negeri Sembilan,20 - 24,43
+2015,Negeri Sembilan,25 - 29,140
+2015,Negeri Sembilan,30 - 34,158
+2015,Negeri Sembilan,35 - 39,82
+2015,Negeri Sembilan,40 - 44,18
+2015,Negeri Sembilan,45 - 49,1
+2015,Negeri Sembilan,Total Fertility Rate,2253
+2015,Pahang,15 - 19,15
+2015,Pahang,20 - 24,59
+2015,Pahang,25 - 29,156
+2015,Pahang,30 - 34,131
+2015,Pahang,35 - 39,90
+2015,Pahang,40 - 44,26
+2015,Pahang,45 - 49,2
+2015,Pahang,Total Fertility Rate,2390
+2015,Perak,15 - 19,8
+2015,Perak,20 - 24,42
+2015,Perak,25 - 29,133
+2015,Perak,30 - 34,150
+2015,Perak,35 - 39,75
+2015,Perak,40 - 44,18
+2015,Perak,45 - 49,1
+2015,Perak,Total Fertility Rate,2133
+2015,Perlis,15 - 19,12
+2015,Perlis,20 - 24,43
+2015,Perlis,25 - 29,159
+2015,Perlis,30 - 34,144
+2015,Perlis,35 - 39,88
+2015,Perlis,40 - 44,21
+2015,Perlis,45 - 49,2
+2015,Perlis,Total Fertility Rate,2354
+2015,Pulau Pinang,15 - 19,7
+2015,Pulau Pinang,20 - 24,31
+2015,Pulau Pinang,25 - 29,83
+2015,Pulau Pinang,30 - 34,100
+2015,Pulau Pinang,35 - 39,63
+2015,Pulau Pinang,40 - 44,14
+2015,Pulau Pinang,45 - 49,1
+2015,Pulau Pinang,Total Fertility Rate,1486
+2015,Sabah,15 - 19,16
+2015,Sabah,20 - 24,51
+2015,Sabah,25 - 29,74
+2015,Sabah,30 - 34,84
+2015,Sabah,35 - 39,59
+2015,Sabah,40 - 44,23
+2015,Sabah,45 - 49,4
+2015,Sabah,Total Fertility Rate,1554
+2015,Sarawak,15 - 19,27
+2015,Sarawak,20 - 24,65
+2015,Sarawak,25 - 29,99
+2015,Sarawak,30 - 34,103
+2015,Sarawak,35 - 39,61
+2015,Sarawak,40 - 44,16
+2015,Sarawak,45 - 49,1
+2015,Sarawak,Total Fertility Rate,1861
+2015,Selangor,15 - 19,8
+2015,Selangor,20 - 24,39
+2015,Selangor,25 - 29,100
+2015,Selangor,30 - 34,116
+2015,Selangor,35 - 39,79
+2015,Selangor,40 - 44,20
+2015,Selangor,45 - 49,2
+2015,Selangor,Total Fertility Rate,1810
+2015,Terengganu,15 - 19,10
+2015,Terengganu,20 - 24,68
+2015,Terengganu,25 - 29,208
+2015,Terengganu,30 - 34,217
+2015,Terengganu,35 - 39,127
+2015,Terengganu,40 - 44,41
+2015,Terengganu,45 - 49,3
+2015,Terengganu,Total Fertility Rate,3361
+2015,W.P. Kuala Lumpur,15 - 19,9
+2015,W.P. Kuala Lumpur,20 - 24,35
+2015,W.P. Kuala Lumpur,25 - 29,87
+2015,W.P. Kuala Lumpur,30 - 34,95
+2015,W.P. Kuala Lumpur,35 - 39,59
+2015,W.P. Kuala Lumpur,40 - 44,16
+2015,W.P. Kuala Lumpur,45 - 49,1
+2015,W.P. Kuala Lumpur,Total Fertility Rate,1504
+2015,W.P. Labuan,15 - 19,30
+2015,W.P. Labuan,20 - 24,79
+2015,W.P. Labuan,25 - 29,123
+2015,W.P. Labuan,30 - 34,97
+2015,W.P. Labuan,35 - 39,79
+2015,W.P. Labuan,40 - 44,18
+2015,W.P. Labuan,45 - 49,2
+2015,W.P. Labuan,Total Fertility Rate,2131
+2015,W.P. Putrajaya,15 - 19,4
+2015,W.P. Putrajaya,20 - 24,41
+2015,W.P. Putrajaya,25 - 29,192
+2015,W.P. Putrajaya,30 - 34,168
+2015,W.P. Putrajaya,35 - 39,107
+2015,W.P. Putrajaya,40 - 44,32
+2015,W.P. Putrajaya,45 - 49,1
+2015,W.P. Putrajaya,Total Fertility Rate,2725
+2016,Malaysia,15 - 19,10
+2016,Malaysia,20 - 24,47
+2016,Malaysia,25 - 29,111
+2016,Malaysia,30 - 34,120
+2016,Malaysia,35 - 39,74
+2016,Malaysia,40 - 44,20
+2016,Malaysia,45 - 49,2
+2016,Malaysia,Total Fertility Rate,1918
+2016,Johor,15 - 19,9
+2016,Johor,20 - 24,52
+2016,Johor,25 - 29,136
+2016,Johor,30 - 34,128
+2016,Johor,35 - 39,73
+2016,Johor,40 - 44,19
+2016,Johor,45 - 49,1
+2016,Johor,Total Fertility Rate,2086
+2016,Kedah,15 - 19,7
+2016,Kedah,20 - 24,51
+2016,Kedah,25 - 29,146
+2016,Kedah,30 - 34,149
+2016,Kedah,35 - 39,85
+2016,Kedah,40 - 44,22
+2016,Kedah,45 - 49,1
+2016,Kedah,Total Fertility Rate,2309
+2016,Kelantan,15 - 19,12
+2016,Kelantan,20 - 24,61
+2016,Kelantan,25 - 29,204
+2016,Kelantan,30 - 34,211
+2016,Kelantan,35 - 39,117
+2016,Kelantan,40 - 44,38
+2016,Kelantan,45 - 49,3
+2016,Kelantan,Total Fertility Rate,3231
+2016,Melaka,15 - 19,6
+2016,Melaka,20 - 24,36
+2016,Melaka,25 - 29,115
+2016,Melaka,30 - 34,137
+2016,Melaka,35 - 39,80
+2016,Melaka,40 - 44,18
+2016,Melaka,45 - 49,1
+2016,Melaka,Total Fertility Rate,1958
+2016,Negeri Sembilan,15 - 19,7
+2016,Negeri Sembilan,20 - 24,42
+2016,Negeri Sembilan,25 - 29,130
+2016,Negeri Sembilan,30 - 34,152
+2016,Negeri Sembilan,35 - 39,84
+2016,Negeri Sembilan,40 - 44,19
+2016,Negeri Sembilan,45 - 49,1
+2016,Negeri Sembilan,Total Fertility Rate,2175
+2016,Pahang,15 - 19,13
+2016,Pahang,20 - 24,57
+2016,Pahang,25 - 29,146
+2016,Pahang,30 - 34,133
+2016,Pahang,35 - 39,85
+2016,Pahang,40 - 44,23
+2016,Pahang,45 - 49,2
+2016,Pahang,Total Fertility Rate,2291
+2016,Perak,15 - 19,7
+2016,Perak,20 - 24,40
+2016,Perak,25 - 29,124
+2016,Perak,30 - 34,144
+2016,Perak,35 - 39,76
+2016,Perak,40 - 44,17
+2016,Perak,45 - 49,1
+2016,Perak,Total Fertility Rate,2045
+2016,Perlis,15 - 19,12
+2016,Perlis,20 - 24,44
+2016,Perlis,25 - 29,152
+2016,Perlis,30 - 34,146
+2016,Perlis,35 - 39,82
+2016,Perlis,40 - 44,20
+2016,Perlis,45 - 49,1
+2016,Perlis,Total Fertility Rate,2284
+2016,Pulau Pinang,15 - 19,7
+2016,Pulau Pinang,20 - 24,31
+2016,Pulau Pinang,25 - 29,77
+2016,Pulau Pinang,30 - 34,95
+2016,Pulau Pinang,35 - 39,62
+2016,Pulau Pinang,40 - 44,14
+2016,Pulau Pinang,45 - 49,1
+2016,Pulau Pinang,Total Fertility Rate,1438
+2016,Sabah,15 - 19,13
+2016,Sabah,20 - 24,46
+2016,Sabah,25 - 29,68
+2016,Sabah,30 - 34,81
+2016,Sabah,35 - 39,56
+2016,Sabah,40 - 44,20
+2016,Sabah,45 - 49,4
+2016,Sabah,Total Fertility Rate,1445
+2016,Sarawak,15 - 19,21
+2016,Sarawak,20 - 24,61
+2016,Sarawak,25 - 29,93
+2016,Sarawak,30 - 34,97
+2016,Sarawak,35 - 39,60
+2016,Sarawak,40 - 44,16
+2016,Sarawak,45 - 49,1
+2016,Sarawak,Total Fertility Rate,1742
+2016,Selangor,15 - 19,7
+2016,Selangor,20 - 24,39
+2016,Selangor,25 - 29,94
+2016,Selangor,30 - 34,109
+2016,Selangor,35 - 39,75
+2016,Selangor,40 - 44,20
+2016,Selangor,45 - 49,1
+2016,Selangor,Total Fertility Rate,1726
+2016,Terengganu,15 - 19,10
+2016,Terengganu,20 - 24,62
+2016,Terengganu,25 - 29,193
+2016,Terengganu,30 - 34,215
+2016,Terengganu,35 - 39,126
+2016,Terengganu,40 - 44,38
+2016,Terengganu,45 - 49,4
+2016,Terengganu,Total Fertility Rate,3236
+2016,W.P. Kuala Lumpur,15 - 19,8
+2016,W.P. Kuala Lumpur,20 - 24,35
+2016,W.P. Kuala Lumpur,25 - 29,84
+2016,W.P. Kuala Lumpur,30 - 34,97
+2016,W.P. Kuala Lumpur,35 - 39,61
+2016,W.P. Kuala Lumpur,40 - 44,15
+2016,W.P. Kuala Lumpur,45 - 49,1
+2016,W.P. Kuala Lumpur,Total Fertility Rate,1510
+2016,W.P. Labuan,15 - 19,24
+2016,W.P. Labuan,20 - 24,64
+2016,W.P. Labuan,25 - 29,115
+2016,W.P. Labuan,30 - 34,88
+2016,W.P. Labuan,35 - 39,64
+2016,W.P. Labuan,40 - 44,22
+2016,W.P. Labuan,45 - 49,2
+2016,W.P. Labuan,Total Fertility Rate,1894
+2016,W.P. Putrajaya,15 - 19,1
+2016,W.P. Putrajaya,20 - 24,44
+2016,W.P. Putrajaya,25 - 29,165
+2016,W.P. Putrajaya,30 - 34,163
+2016,W.P. Putrajaya,35 - 39,107
+2016,W.P. Putrajaya,40 - 44,31
+2016,W.P. Putrajaya,45 - 49,2
+2016,W.P. Putrajaya,Total Fertility Rate,2563
+2017,Malaysia,15 - 19,9
+2017,Malaysia,20 - 24,46
+2017,Malaysia,25 - 29,108
+2017,Malaysia,30 - 34,118
+2017,Malaysia,35 - 39,74
+2017,Malaysia,40 - 44,21
+2017,Malaysia,45 - 49,2
+2017,Malaysia,Total Fertility Rate,1890
+2017,Johor,15 - 19,8
+2017,Johor,20 - 24,51
+2017,Johor,25 - 29,138
+2017,Johor,30 - 34,130
+2017,Johor,35 - 39,75
+2017,Johor,40 - 44,20
+2017,Johor,45 - 49,1
+2017,Johor,Total Fertility Rate,2116
+2017,Kedah,15 - 19,7
+2017,Kedah,20 - 24,50
+2017,Kedah,25 - 29,140
+2017,Kedah,30 - 34,150
+2017,Kedah,35 - 39,88
+2017,Kedah,40 - 44,24
+2017,Kedah,45 - 49,2
+2017,Kedah,Total Fertility Rate,2307
+2017,Kelantan,15 - 19,10
+2017,Kelantan,20 - 24,61
+2017,Kelantan,25 - 29,185
+2017,Kelantan,30 - 34,214
+2017,Kelantan,35 - 39,121
+2017,Kelantan,40 - 44,38
+2017,Kelantan,45 - 49,3
+2017,Kelantan,Total Fertility Rate,3160
+2017,Melaka,15 - 19,6
+2017,Melaka,20 - 24,35
+2017,Melaka,25 - 29,107
+2017,Melaka,30 - 34,131
+2017,Melaka,35 - 39,81
+2017,Melaka,40 - 44,19
+2017,Melaka,45 - 49,1
+2017,Melaka,Total Fertility Rate,1900
+2017,Negeri Sembilan,15 - 19,7
+2017,Negeri Sembilan,20 - 24,42
+2017,Negeri Sembilan,25 - 29,126
+2017,Negeri Sembilan,30 - 34,146
+2017,Negeri Sembilan,35 - 39,83
+2017,Negeri Sembilan,40 - 44,21
+2017,Negeri Sembilan,45 - 49,1
+2017,Negeri Sembilan,Total Fertility Rate,2131
+2017,Pahang,15 - 19,12
+2017,Pahang,20 - 24,55
+2017,Pahang,25 - 29,136
+2017,Pahang,30 - 34,134
+2017,Pahang,35 - 39,83
+2017,Pahang,40 - 44,26
+2017,Pahang,45 - 49,1
+2017,Pahang,Total Fertility Rate,2236
+2017,Perak,15 - 19,6
+2017,Perak,20 - 24,38
+2017,Perak,25 - 29,115
+2017,Perak,30 - 34,136
+2017,Perak,35 - 39,76
+2017,Perak,40 - 44,17
+2017,Perak,45 - 49,1
+2017,Perak,Total Fertility Rate,1947
+2017,Perlis,15 - 19,10
+2017,Perlis,20 - 24,46
+2017,Perlis,25 - 29,130
+2017,Perlis,30 - 34,146
+2017,Perlis,35 - 39,95
+2017,Perlis,40 - 44,22
+2017,Perlis,45 - 49,1
+2017,Perlis,Total Fertility Rate,2255
+2017,Pulau Pinang,15 - 19,6
+2017,Pulau Pinang,20 - 24,31
+2017,Pulau Pinang,25 - 29,76
+2017,Pulau Pinang,30 - 34,91
+2017,Pulau Pinang,35 - 39,59
+2017,Pulau Pinang,40 - 44,14
+2017,Pulau Pinang,45 - 49,1
+2017,Pulau Pinang,Total Fertility Rate,1391
+2017,Sabah,15 - 19,11
+2017,Sabah,20 - 24,44
+2017,Sabah,25 - 29,68
+2017,Sabah,30 - 34,82
+2017,Sabah,35 - 39,58
+2017,Sabah,40 - 44,20
+2017,Sabah,45 - 49,3
+2017,Sabah,Total Fertility Rate,1434
+2017,Sarawak,15 - 19,18
+2017,Sarawak,20 - 24,58
+2017,Sarawak,25 - 29,91
+2017,Sarawak,30 - 34,95
+2017,Sarawak,35 - 39,59
+2017,Sarawak,40 - 44,15
+2017,Sarawak,45 - 49,1
+2017,Sarawak,Total Fertility Rate,1694
+2017,Selangor,15 - 19,6
+2017,Selangor,20 - 24,39
+2017,Selangor,25 - 29,96
+2017,Selangor,30 - 34,105
+2017,Selangor,35 - 39,72
+2017,Selangor,40 - 44,20
+2017,Selangor,45 - 49,1
+2017,Selangor,Total Fertility Rate,1703
+2017,Terengganu,15 - 19,9
+2017,Terengganu,20 - 24,64
+2017,Terengganu,25 - 29,180
+2017,Terengganu,30 - 34,208
+2017,Terengganu,35 - 39,128
+2017,Terengganu,40 - 44,40
+2017,Terengganu,45 - 49,3
+2017,Terengganu,Total Fertility Rate,3161
+2017,W.P. Kuala Lumpur,15 - 19,7
+2017,W.P. Kuala Lumpur,20 - 24,33
+2017,W.P. Kuala Lumpur,25 - 29,83
+2017,W.P. Kuala Lumpur,30 - 34,94
+2017,W.P. Kuala Lumpur,35 - 39,57
+2017,W.P. Kuala Lumpur,40 - 44,16
+2017,W.P. Kuala Lumpur,45 - 49,1
+2017,W.P. Kuala Lumpur,Total Fertility Rate,1460
+2017,W.P. Labuan,15 - 19,21
+2017,W.P. Labuan,20 - 24,63
+2017,W.P. Labuan,25 - 29,113
+2017,W.P. Labuan,30 - 34,88
+2017,W.P. Labuan,35 - 39,56
+2017,W.P. Labuan,40 - 44,20
+2017,W.P. Labuan,45 - 49,2
+2017,W.P. Labuan,Total Fertility Rate,1817
+2017,W.P. Putrajaya,15 - 19,3
+2017,W.P. Putrajaya,20 - 24,39
+2017,W.P. Putrajaya,25 - 29,168
+2017,W.P. Putrajaya,30 - 34,169
+2017,W.P. Putrajaya,35 - 39,101
+2017,W.P. Putrajaya,40 - 44,31
+2017,W.P. Putrajaya,45 - 49,1
+2017,W.P. Putrajaya,Total Fertility Rate,2562
+2018,Malaysia,15 - 19,9
+2018,Malaysia,20 - 24,44
+2018,Malaysia,25 - 29,103
+2018,Malaysia,30 - 34,117
+2018,Malaysia,35 - 39,72
+2018,Malaysia,40 - 44,22
+2018,Malaysia,45 - 49,2
+2018,Malaysia,Total Fertility Rate,1841
+2018,Johor,15 - 19,7
+2018,Johor,20 - 24,49
+2018,Johor,25 - 29,133
+2018,Johor,30 - 34,133
+2018,Johor,35 - 39,74
+2018,Johor,40 - 44,21
+2018,Johor,45 - 49,1
+2018,Johor,Total Fertility Rate,2088
+2018,Kedah,15 - 19,7
+2018,Kedah,20 - 24,47
+2018,Kedah,25 - 29,131
+2018,Kedah,30 - 34,144
+2018,Kedah,35 - 39,87
+2018,Kedah,40 - 44,22
+2018,Kedah,45 - 49,1
+2018,Kedah,Total Fertility Rate,2200
+2018,Kelantan,15 - 19,9
+2018,Kelantan,20 - 24,55
+2018,Kelantan,25 - 29,163
+2018,Kelantan,30 - 34,209
+2018,Kelantan,35 - 39,120
+2018,Kelantan,40 - 44,40
+2018,Kelantan,45 - 49,3
+2018,Kelantan,Total Fertility Rate,2997
+2018,Melaka,15 - 19,5
+2018,Melaka,20 - 24,36
+2018,Melaka,25 - 29,99
+2018,Melaka,30 - 34,130
+2018,Melaka,35 - 39,78
+2018,Melaka,40 - 44,20
+2018,Melaka,45 - 49,1
+2018,Melaka,Total Fertility Rate,1854
+2018,Negeri Sembilan,15 - 19,7
+2018,Negeri Sembilan,20 - 24,40
+2018,Negeri Sembilan,25 - 29,120
+2018,Negeri Sembilan,30 - 34,144
+2018,Negeri Sembilan,35 - 39,90
+2018,Negeri Sembilan,40 - 44,21
+2018,Negeri Sembilan,45 - 49,1
+2018,Negeri Sembilan,Total Fertility Rate,2117
+2018,Pahang,15 - 19,12
+2018,Pahang,20 - 24,52
+2018,Pahang,25 - 29,120
+2018,Pahang,30 - 34,136
+2018,Pahang,35 - 39,80
+2018,Pahang,40 - 44,27
+2018,Pahang,45 - 49,2
+2018,Pahang,Total Fertility Rate,2146
+2018,Perak,15 - 19,6
+2018,Perak,20 - 24,34
+2018,Perak,25 - 29,102
+2018,Perak,30 - 34,132
+2018,Perak,35 - 39,78
+2018,Perak,40 - 44,18
+2018,Perak,45 - 49,1
+2018,Perak,Total Fertility Rate,1855
+2018,Perlis,15 - 19,10
+2018,Perlis,20 - 24,49
+2018,Perlis,25 - 29,110
+2018,Perlis,30 - 34,142
+2018,Perlis,35 - 39,96
+2018,Perlis,40 - 44,25
+2018,Perlis,45 - 49,2
+2018,Perlis,Total Fertility Rate,2170
+2018,Pulau Pinang,15 - 19,5
+2018,Pulau Pinang,20 - 24,30
+2018,Pulau Pinang,25 - 29,69
+2018,Pulau Pinang,30 - 34,88
+2018,Pulau Pinang,35 - 39,57
+2018,Pulau Pinang,40 - 44,14
+2018,Pulau Pinang,45 - 49,1
+2018,Pulau Pinang,Total Fertility Rate,1323
+2018,Sabah,15 - 19,11
+2018,Sabah,20 - 24,43
+2018,Sabah,25 - 29,67
+2018,Sabah,30 - 34,85
+2018,Sabah,35 - 39,55
+2018,Sabah,40 - 44,21
+2018,Sabah,45 - 49,3
+2018,Sabah,Total Fertility Rate,1427
+2018,Sarawak,15 - 19,17
+2018,Sarawak,20 - 24,55
+2018,Sarawak,25 - 29,84
+2018,Sarawak,30 - 34,93
+2018,Sarawak,35 - 39,58
+2018,Sarawak,40 - 44,17
+2018,Sarawak,45 - 49,1
+2018,Sarawak,Total Fertility Rate,1623
+2018,Selangor,15 - 19,6
+2018,Selangor,20 - 24,38
+2018,Selangor,25 - 29,97
+2018,Selangor,30 - 34,102
+2018,Selangor,35 - 39,68
+2018,Selangor,40 - 44,21
+2018,Selangor,45 - 49,1
+2018,Selangor,Total Fertility Rate,1668
+2018,Terengganu,15 - 19,7
+2018,Terengganu,20 - 24,60
+2018,Terengganu,25 - 29,174
+2018,Terengganu,30 - 34,203
+2018,Terengganu,35 - 39,133
+2018,Terengganu,40 - 44,41
+2018,Terengganu,45 - 49,3
+2018,Terengganu,Total Fertility Rate,3113
+2018,W.P. Kuala Lumpur,15 - 19,6
+2018,W.P. Kuala Lumpur,20 - 24,33
+2018,W.P. Kuala Lumpur,25 - 29,82
+2018,W.P. Kuala Lumpur,30 - 34,97
+2018,W.P. Kuala Lumpur,35 - 39,57
+2018,W.P. Kuala Lumpur,40 - 44,16
+2018,W.P. Kuala Lumpur,45 - 49,1
+2018,W.P. Kuala Lumpur,Total Fertility Rate,1466
+2018,W.P. Labuan,15 - 19,12
+2018,W.P. Labuan,20 - 24,57
+2018,W.P. Labuan,25 - 29,108
+2018,W.P. Labuan,30 - 34,101
+2018,W.P. Labuan,35 - 39,60
+2018,W.P. Labuan,40 - 44,21
+2018,W.P. Labuan,45 - 49,1
+2018,W.P. Labuan,Total Fertility Rate,1801
+2018,W.P. Putrajaya,15 - 19,2
+2018,W.P. Putrajaya,20 - 24,15
+2018,W.P. Putrajaya,25 - 29,229
+2018,W.P. Putrajaya,30 - 34,151
+2018,W.P. Putrajaya,35 - 39,92
+2018,W.P. Putrajaya,40 - 44,38
+2018,W.P. Putrajaya,45 - 49,0
+2018,W.P. Putrajaya,Total Fertility Rate,2632
+2019,Malaysia,15 - 19,8
+2019,Malaysia,20 - 24,42
+2019,Malaysia,25 - 29,101
+2019,Malaysia,30 - 34,111
+2019,Malaysia,35 - 39,70
+2019,Malaysia,40 - 44,22
+2019,Malaysia,45 - 49,2
+2019,Malaysia,Total Fertility Rate,1781
+2019,Johor,15 - 19,7
+2019,Johor,20 - 24,47
+2019,Johor,25 - 29,133
+2019,Johor,30 - 34,129
+2019,Johor,35 - 39,72
+2019,Johor,40 - 44,21
+2019,Johor,45 - 49,1
+2019,Johor,Total Fertility Rate,2053
+2019,Kedah,15 - 19,7
+2019,Kedah,20 - 24,44
+2019,Kedah,25 - 29,124
+2019,Kedah,30 - 34,135
+2019,Kedah,35 - 39,85
+2019,Kedah,40 - 44,23
+2019,Kedah,45 - 49,1
+2019,Kedah,Total Fertility Rate,2095
+2019,Kelantan,15 - 19,9
+2019,Kelantan,20 - 24,53
+2019,Kelantan,25 - 29,143
+2019,Kelantan,30 - 34,192
+2019,Kelantan,35 - 39,118
+2019,Kelantan,40 - 44,37
+2019,Kelantan,45 - 49,3
+2019,Kelantan,Total Fertility Rate,2771
+2019,Melaka,15 - 19,6
+2019,Melaka,20 - 24,36
+2019,Melaka,25 - 29,95
+2019,Melaka,30 - 34,123
+2019,Melaka,35 - 39,75
+2019,Melaka,40 - 44,19
+2019,Melaka,45 - 49,1
+2019,Melaka,Total Fertility Rate,1778
+2019,Negeri Sembilan,15 - 19,6
+2019,Negeri Sembilan,20 - 24,37
+2019,Negeri Sembilan,25 - 29,114
+2019,Negeri Sembilan,30 - 34,134
+2019,Negeri Sembilan,35 - 39,88
+2019,Negeri Sembilan,40 - 44,20
+2019,Negeri Sembilan,45 - 49,1
+2019,Negeri Sembilan,Total Fertility Rate,2004
+2019,Pahang,15 - 19,11
+2019,Pahang,20 - 24,47
+2019,Pahang,25 - 29,112
+2019,Pahang,30 - 34,126
+2019,Pahang,35 - 39,77
+2019,Pahang,40 - 44,28
+2019,Pahang,45 - 49,2
+2019,Pahang,Total Fertility Rate,2012
+2019,Perak,15 - 19,6
+2019,Perak,20 - 24,33
+2019,Perak,25 - 29,94
+2019,Perak,30 - 34,120
+2019,Perak,35 - 39,79
+2019,Perak,40 - 44,19
+2019,Perak,45 - 49,1
+2019,Perak,Total Fertility Rate,1763
+2019,Perlis,15 - 19,9
+2019,Perlis,20 - 24,50
+2019,Perlis,25 - 29,93
+2019,Perlis,30 - 34,132
+2019,Perlis,35 - 39,86
+2019,Perlis,40 - 44,24
+2019,Perlis,45 - 49,1
+2019,Perlis,Total Fertility Rate,1975
+2019,Pulau Pinang,15 - 19,5
+2019,Pulau Pinang,20 - 24,29
+2019,Pulau Pinang,25 - 29,69
+2019,Pulau Pinang,30 - 34,83
+2019,Pulau Pinang,35 - 39,55
+2019,Pulau Pinang,40 - 44,15
+2019,Pulau Pinang,45 - 49,1
+2019,Pulau Pinang,Total Fertility Rate,1281
+2019,Sabah,15 - 19,11
+2019,Sabah,20 - 24,42
+2019,Sabah,25 - 29,68
+2019,Sabah,30 - 34,82
+2019,Sabah,35 - 39,55
+2019,Sabah,40 - 44,22
+2019,Sabah,45 - 49,3
+2019,Sabah,Total Fertility Rate,1414
+2019,Sarawak,15 - 19,16
+2019,Sarawak,20 - 24,53
+2019,Sarawak,25 - 29,84
+2019,Sarawak,30 - 34,91
+2019,Sarawak,35 - 39,58
+2019,Sarawak,40 - 44,17
+2019,Sarawak,45 - 49,1
+2019,Sarawak,Total Fertility Rate,1592
+2019,Selangor,15 - 19,5
+2019,Selangor,20 - 24,35
+2019,Selangor,25 - 29,96
+2019,Selangor,30 - 34,94
+2019,Selangor,35 - 39,62
+2019,Selangor,40 - 44,20
+2019,Selangor,45 - 49,1
+2019,Selangor,Total Fertility Rate,1573
+2019,Terengganu,15 - 19,6
+2019,Terengganu,20 - 24,58
+2019,Terengganu,25 - 29,159
+2019,Terengganu,30 - 34,181
+2019,Terengganu,35 - 39,133
+2019,Terengganu,40 - 44,40
+2019,Terengganu,45 - 49,3
+2019,Terengganu,Total Fertility Rate,2905
+2019,W.P. Kuala Lumpur,15 - 19,7
+2019,W.P. Kuala Lumpur,20 - 24,38
+2019,W.P. Kuala Lumpur,25 - 29,95
+2019,W.P. Kuala Lumpur,30 - 34,109
+2019,W.P. Kuala Lumpur,35 - 39,67
+2019,W.P. Kuala Lumpur,40 - 44,18
+2019,W.P. Kuala Lumpur,45 - 49,2
+2019,W.P. Kuala Lumpur,Total Fertility Rate,1684
+2019,W.P. Labuan,15 - 19,12
+2019,W.P. Labuan,20 - 24,64
+2019,W.P. Labuan,25 - 29,101
+2019,W.P. Labuan,30 - 34,107
+2019,W.P. Labuan,35 - 39,55
+2019,W.P. Labuan,40 - 44,18
+2019,W.P. Labuan,45 - 49,3
+2019,W.P. Labuan,Total Fertility Rate,1798
+2019,W.P. Putrajaya,15 - 19,2
+2019,W.P. Putrajaya,20 - 24,16
+2019,W.P. Putrajaya,25 - 29,374
+2019,W.P. Putrajaya,30 - 34,144
+2019,W.P. Putrajaya,35 - 39,88
+2019,W.P. Putrajaya,40 - 44,26
+2019,W.P. Putrajaya,45 - 49,0
+2019,W.P. Putrajaya,Total Fertility Rate,3256
+2020,Malaysia,15 - 19,8
+2020,Malaysia,20 - 24,40
+2020,Malaysia,25 - 29,97
+2020,Malaysia,30 - 34,107
+2020,Malaysia,35 - 39,69
+2020,Malaysia,40 - 44,21
+2020,Malaysia,45 - 49,2
+2020,Malaysia,Total Fertility Rate,1715
+2020,Johor,15 - 19,7
+2020,Johor,20 - 24,43
+2020,Johor,25 - 29,124
+2020,Johor,30 - 34,123
+2020,Johor,35 - 39,69
+2020,Johor,40 - 44,20
+2020,Johor,45 - 49,1
+2020,Johor,Total Fertility Rate,1939
+2020,Kedah,15 - 19,7
+2020,Kedah,20 - 24,44
+2020,Kedah,25 - 29,119
+2020,Kedah,30 - 34,130
+2020,Kedah,35 - 39,83
+2020,Kedah,40 - 44,23
+2020,Kedah,45 - 49,1
+2020,Kedah,Total Fertility Rate,2027
+2020,Kelantan,15 - 19,8
+2020,Kelantan,20 - 24,51
+2020,Kelantan,25 - 29,129
+2020,Kelantan,30 - 34,186
+2020,Kelantan,35 - 39,117
+2020,Kelantan,40 - 44,38
+2020,Kelantan,45 - 49,3
+2020,Kelantan,Total Fertility Rate,2657
+2020,Melaka,15 - 19,5
+2020,Melaka,20 - 24,37
+2020,Melaka,25 - 29,91
+2020,Melaka,30 - 34,115
+2020,Melaka,35 - 39,77
+2020,Melaka,40 - 44,20
+2020,Melaka,45 - 49,1
+2020,Melaka,Total Fertility Rate,1729
+2020,Negeri Sembilan,15 - 19,6
+2020,Negeri Sembilan,20 - 24,36
+2020,Negeri Sembilan,25 - 29,106
+2020,Negeri Sembilan,30 - 34,133
+2020,Negeri Sembilan,35 - 39,88
+2020,Negeri Sembilan,40 - 44,22
+2020,Negeri Sembilan,45 - 49,1
+2020,Negeri Sembilan,Total Fertility Rate,1960
+2020,Pahang,15 - 19,11
+2020,Pahang,20 - 24,47
+2020,Pahang,25 - 29,106
+2020,Pahang,30 - 34,121
+2020,Pahang,35 - 39,75
+2020,Pahang,40 - 44,26
+2020,Pahang,45 - 49,2
+2020,Pahang,Total Fertility Rate,1935
+2020,Perak,15 - 19,5
+2020,Perak,20 - 24,31
+2020,Perak,25 - 29,86
+2020,Perak,30 - 34,113
+2020,Perak,35 - 39,77
+2020,Perak,40 - 44,20
+2020,Perak,45 - 49,1
+2020,Perak,Total Fertility Rate,1660
+2020,Perlis,15 - 19,8
+2020,Perlis,20 - 24,55
+2020,Perlis,25 - 29,94
+2020,Perlis,30 - 34,127
+2020,Perlis,35 - 39,84
+2020,Perlis,40 - 44,23
+2020,Perlis,45 - 49,2
+2020,Perlis,Total Fertility Rate,1964
+2020,Pulau Pinang,15 - 19,5
+2020,Pulau Pinang,20 - 24,28
+2020,Pulau Pinang,25 - 29,69
+2020,Pulau Pinang,30 - 34,78
+2020,Pulau Pinang,35 - 39,54
+2020,Pulau Pinang,40 - 44,15
+2020,Pulau Pinang,45 - 49,1
+2020,Pulau Pinang,Total Fertility Rate,1251
+2020,Sabah,15 - 19,9
+2020,Sabah,20 - 24,39
+2020,Sabah,25 - 29,63
+2020,Sabah,30 - 34,79
+2020,Sabah,35 - 39,53
+2020,Sabah,40 - 44,21
+2020,Sabah,45 - 49,3
+2020,Sabah,Total Fertility Rate,1333
+2020,Sarawak,15 - 19,14
+2020,Sarawak,20 - 24,50
+2020,Sarawak,25 - 29,81
+2020,Sarawak,30 - 34,88
+2020,Sarawak,35 - 39,55
+2020,Sarawak,40 - 44,17
+2020,Sarawak,45 - 49,1
+2020,Sarawak,Total Fertility Rate,1529
+2020,Selangor,15 - 19,5
+2020,Selangor,20 - 24,33
+2020,Selangor,25 - 29,100
+2020,Selangor,30 - 34,93
+2020,Selangor,35 - 39,61
+2020,Selangor,40 - 44,20
+2020,Selangor,45 - 49,1
+2020,Selangor,Total Fertility Rate,1568
+2020,Terengganu,15 - 19,7
+2020,Terengganu,20 - 24,56
+2020,Terengganu,25 - 29,153
+2020,Terengganu,30 - 34,176
+2020,Terengganu,35 - 39,137
+2020,Terengganu,40 - 44,40
+2020,Terengganu,45 - 49,3
+2020,Terengganu,Total Fertility Rate,2860
+2020,W.P. Kuala Lumpur,15 - 19,6
+2020,W.P. Kuala Lumpur,20 - 24,32
+2020,W.P. Kuala Lumpur,25 - 29,85
+2020,W.P. Kuala Lumpur,30 - 34,100
+2020,W.P. Kuala Lumpur,35 - 39,59
+2020,W.P. Kuala Lumpur,40 - 44,16
+2020,W.P. Kuala Lumpur,45 - 49,1
+2020,W.P. Kuala Lumpur,Total Fertility Rate,1489
+2020,W.P. Labuan,15 - 19,14
+2020,W.P. Labuan,20 - 24,64
+2020,W.P. Labuan,25 - 29,103
+2020,W.P. Labuan,30 - 34,116
+2020,W.P. Labuan,35 - 39,56
+2020,W.P. Labuan,40 - 44,20
+2020,W.P. Labuan,45 - 49,2
+2020,W.P. Labuan,Total Fertility Rate,1880
+2020,W.P. Putrajaya,15 - 19,2
+2020,W.P. Putrajaya,20 - 24,9
+2020,W.P. Putrajaya,25 - 29,298
+2020,W.P. Putrajaya,30 - 34,132
+2020,W.P. Putrajaya,35 - 39,84
+2020,W.P. Putrajaya,40 - 44,29
+2020,W.P. Putrajaya,45 - 49,2
+2020,W.P. Putrajaya,Total Fertility Rate,2779
+2021,Malaysia,15 - 19,6
+2021,Malaysia,20 - 24,39
+2021,Malaysia,25 - 29,106
+2021,Malaysia,30 - 34,103
+2021,Malaysia,35 - 39,64
+2021,Malaysia,40 - 44,19
+2021,Malaysia,45 - 49,1
+2021,Malaysia,Total Fertility Rate,1696
+2021,Johor,15 - 19,5
+2021,Johor,20 - 24,35
+2021,Johor,25 - 29,107
+2021,Johor,30 - 34,105
+2021,Johor,35 - 39,61
+2021,Johor,40 - 44,18
+2021,Johor,45 - 49,1
+2021,Johor,Total Fertility Rate,1660
+2021,Kedah,15 - 19,6
+2021,Kedah,20 - 24,43
+2021,Kedah,25 - 29,119
+2021,Kedah,30 - 34,126
+2021,Kedah,35 - 39,87
+2021,Kedah,40 - 44,22
+2021,Kedah,45 - 49,1
+2021,Kedah,Total Fertility Rate,2025
+2021,Kelantan,15 - 19,6
+2021,Kelantan,20 - 24,48
+2021,Kelantan,25 - 29,180
+2021,Kelantan,30 - 34,183
+2021,Kelantan,35 - 39,107
+2021,Kelantan,40 - 44,38
+2021,Kelantan,45 - 49,3
+2021,Kelantan,Total Fertility Rate,2833
+2021,Melaka,15 - 19,3
+2021,Melaka,20 - 24,33
+2021,Melaka,25 - 29,107
+2021,Melaka,30 - 34,104
+2021,Melaka,35 - 39,73
+2021,Melaka,40 - 44,14
+2021,Melaka,45 - 49,1
+2021,Melaka,Total Fertility Rate,1667
+2021,Negeri Sembilan,15 - 19,5
+2021,Negeri Sembilan,20 - 24,32
+2021,Negeri Sembilan,25 - 29,119
+2021,Negeri Sembilan,30 - 34,114
+2021,Negeri Sembilan,35 - 39,68
+2021,Negeri Sembilan,40 - 44,19
+2021,Negeri Sembilan,45 - 49,1
+2021,Negeri Sembilan,Total Fertility Rate,1797
+2021,Pahang,15 - 19,9
+2021,Pahang,20 - 24,55
+2021,Pahang,25 - 29,151
+2021,Pahang,30 - 34,128
+2021,Pahang,35 - 39,73
+2021,Pahang,40 - 44,20
+2021,Pahang,45 - 49,2
+2021,Pahang,Total Fertility Rate,2180
+2021,Perak,15 - 19,4
+2021,Perak,20 - 24,35
+2021,Perak,25 - 29,120
+2021,Perak,30 - 34,120
+2021,Perak,35 - 39,64
+2021,Perak,40 - 44,17
+2021,Perak,45 - 49,1
+2021,Perak,Total Fertility Rate,1809
+2021,Perlis,15 - 19,5
+2021,Perlis,20 - 24,32
+2021,Perlis,25 - 29,120
+2021,Perlis,30 - 34,141
+2021,Perlis,35 - 39,71
+2021,Perlis,40 - 44,13
+2021,Perlis,45 - 49,1
+2021,Perlis,Total Fertility Rate,1918
+2021,Pulau Pinang,15 - 19,4
+2021,Pulau Pinang,20 - 24,28
+2021,Pulau Pinang,25 - 29,69
+2021,Pulau Pinang,30 - 34,76
+2021,Pulau Pinang,35 - 39,53
+2021,Pulau Pinang,40 - 44,14
+2021,Pulau Pinang,45 - 49,1
+2021,Pulau Pinang,Total Fertility Rate,1226
+2021,Sabah,15 - 19,8
+2021,Sabah,20 - 24,40
+2021,Sabah,25 - 29,70
+2021,Sabah,30 - 34,80
+2021,Sabah,35 - 39,54
+2021,Sabah,40 - 44,22
+2021,Sabah,45 - 49,3
+2021,Sabah,Total Fertility Rate,1386
+2021,Sarawak,15 - 19,14
+2021,Sarawak,20 - 24,54
+2021,Sarawak,25 - 29,89
+2021,Sarawak,30 - 34,90
+2021,Sarawak,35 - 39,53
+2021,Sarawak,40 - 44,16
+2021,Sarawak,45 - 49,1
+2021,Sarawak,Total Fertility Rate,1588
+2021,Selangor,15 - 19,4
+2021,Selangor,20 - 24,31
+2021,Selangor,25 - 29,103
+2021,Selangor,30 - 34,91
+2021,Selangor,35 - 39,59
+2021,Selangor,40 - 44,19
+2021,Selangor,45 - 49,1
+2021,Selangor,Total Fertility Rate,1536
+2021,Terengganu,15 - 19,6
+2021,Terengganu,20 - 24,60
+2021,Terengganu,25 - 29,200
+2021,Terengganu,30 - 34,189
+2021,Terengganu,35 - 39,115
+2021,Terengganu,40 - 44,35
+2021,Terengganu,45 - 49,3
+2021,Terengganu,Total Fertility Rate,3040
+2021,W.P. Kuala Lumpur,15 - 19,4
+2021,W.P. Kuala Lumpur,20 - 24,31
+2021,W.P. Kuala Lumpur,25 - 29,73
+2021,W.P. Kuala Lumpur,30 - 34,76
+2021,W.P. Kuala Lumpur,35 - 39,44
+2021,W.P. Kuala Lumpur,40 - 44,13
+2021,W.P. Kuala Lumpur,45 - 49,1
+2021,W.P. Kuala Lumpur,Total Fertility Rate,1206
+2021,W.P. Labuan,15 - 19,11
+2021,W.P. Labuan,20 - 24,45
+2021,W.P. Labuan,25 - 29,102
+2021,W.P. Labuan,30 - 34,114
+2021,W.P. Labuan,35 - 39,55
+2021,W.P. Labuan,40 - 44,28
+2021,W.P. Labuan,45 - 49,2
+2021,W.P. Labuan,Total Fertility Rate,1785
+2021,W.P. Putrajaya,15 - 19,0
+2021,W.P. Putrajaya,20 - 24,25
+2021,W.P. Putrajaya,25 - 29,113
+2021,W.P. Putrajaya,30 - 34,121
+2021,W.P. Putrajaya,35 - 39,81
+2021,W.P. Putrajaya,40 - 44,28
+2021,W.P. Putrajaya,45 - 49,2
+2021,W.P. Putrajaya,Total Fertility Rate,1855

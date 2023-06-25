@@ -1,0 +1,538 @@
+State,Gender,Year,Values
+Malaysia,Total,2012,74.4
+Johor,Total,2012,74.1
+Kedah,Total,2012,73.0
+Kelantan,Total,2012,71.9
+Melaka,Total,2012,74.1
+Negeri Sembilan,Total,2012,73.4
+Pahang,Total,2012,72.8
+Perak,Total,2012,73.7
+Perlis,Total,2012,72.8
+Pulau Pinang,Total,2012,74.7
+Sabah,Total,2012,73.3
+Sarawak,Total,2012,75.9
+Selangor,Total,2012,75.0
+Terengganu,Total,2012,71.2
+W.P. Kuala Lumpur,Total,2012,75.9
+Malaysia,Male,2012,72.2
+Johor,Male,2012,72.0
+Kedah,Male,2012,70.2
+Kelantan,Male,2012,68.9
+Melaka,Male,2012,71.6
+Negeri Sembilan,Male,2012,70.9
+Pahang,Male,2012,70.3
+Perak,Male,2012,71.0
+Perlis,Male,2012,70.2
+Pulau Pinang,Male,2012,72.2
+Sabah,Male,2012,71.7
+Sarawak,Male,2012,74.3
+Selangor,Male,2012,73.1
+Terengganu,Male,2012,68.5
+W.P. Kuala Lumpur,Male,2012,74.1
+Malaysia,Female,2012,76.9
+Johor,Female,2012,76.7
+Kedah,Female,2012,76.1
+Kelantan,Female,2012,75.0
+Melaka,Female,2012,76.9
+Negeri Sembilan,Female,2012,76.4
+Pahang,Female,2012,75.9
+Perak,Female,2012,76.8
+Perlis,Female,2012,75.7
+Pulau Pinang,Female,2012,77.4
+Sabah,Female,2012,75.2
+Sarawak,Female,2012,77.8
+Selangor,Female,2012,77.2
+Terengganu,Female,2012,74.3
+W.P. Kuala Lumpur,Female,2012,78.1
+Malaysia,Total,2013,74.5
+Johor,Total,2013,74.2
+Kedah,Total,2013,73.0
+Kelantan,Total,2013,71.9
+Melaka,Total,2013,74.4
+Negeri Sembilan,Total,2013,73.5
+Pahang,Total,2013,73.0
+Perak,Total,2013,73.8
+Perlis,Total,2013,72.9
+Pulau Pinang,Total,2013,74.7
+Sabah,Total,2013,73.5
+Sarawak,Total,2013,76.1
+Selangor,Total,2013,75.1
+Terengganu,Total,2013,71.3
+W.P. Kuala Lumpur,Total,2013,76.0
+Malaysia,Male,2013,72.3
+Johor,Male,2013,72.0
+Kedah,Male,2013,70.3
+Kelantan,Male,2013,69.0
+Melaka,Male,2013,71.9
+Negeri Sembilan,Male,2013,70.9
+Pahang,Male,2013,70.4
+Perak,Male,2013,71.1
+Perlis,Male,2013,70.3
+Pulau Pinang,Male,2013,72.3
+Sabah,Male,2013,72.0
+Sarawak,Male,2013,74.4
+Selangor,Male,2013,73.2
+Terengganu,Male,2013,68.6
+W.P. Kuala Lumpur,Male,2013,74.2
+Malaysia,Female,2013,76.9
+Johor,Female,2013,76.8
+Kedah,Female,2013,76.1
+Kelantan,Female,2013,75.1
+Melaka,Female,2013,77.2
+Negeri Sembilan,Female,2013,76.4
+Pahang,Female,2013,76.2
+Perak,Female,2013,76.9
+Perlis,Female,2013,75.8
+Pulau Pinang,Female,2013,77.5
+Sabah,Female,2013,75.4
+Sarawak,Female,2013,78.2
+Selangor,Female,2013,77.3
+Terengganu,Female,2013,74.3
+W.P. Kuala Lumpur,Female,2013,78.2
+Malaysia,Total,2014,74.5
+Johor,Total,2014,74.3
+Kedah,Total,2014,73.1
+Kelantan,Total,2014,71.9
+Melaka,Total,2014,74.5
+Negeri Sembilan,Total,2014,73.5
+Pahang,Total,2014,73.1
+Perak,Total,2014,74.0
+Perlis,Total,2014,73.0
+Pulau Pinang,Total,2014,74.8
+Sabah,Total,2014,73.7
+Sarawak,Total,2014,76.3
+Selangor,Total,2014,75.1
+Terengganu,Total,2014,71.3
+W.P. Kuala Lumpur,Total,2014,76.1
+Malaysia,Male,2014,72.4
+Johor,Male,2014,72.1
+Kedah,Male,2014,70.4
+Kelantan,Male,2014,69.0
+Melaka,Male,2014,72.0
+Negeri Sembilan,Male,2014,71.0
+Pahang,Male,2014,70.6
+Perak,Male,2014,71.2
+Perlis,Male,2014,70.3
+Pulau Pinang,Male,2014,72.3
+Sabah,Male,2014,72.2
+Sarawak,Male,2014,74.5
+Selangor,Male,2014,73.2
+Terengganu,Male,2014,68.6
+W.P. Kuala Lumpur,Male,2014,74.2
+Malaysia,Female,2014,77.0
+Johor,Female,2014,76.9
+Kedah,Female,2014,76.1
+Kelantan,Female,2014,75.1
+Melaka,Female,2014,77.3
+Negeri Sembilan,Female,2014,76.4
+Pahang,Female,2014,76.2
+Perak,Female,2014,77.0
+Perlis,Female,2014,75.8
+Pulau Pinang,Female,2014,77.5
+Sabah,Female,2014,75.5
+Sarawak,Female,2014,78.1
+Selangor,Female,2014,77.3
+Terengganu,Female,2014,74.4
+W.P. Kuala Lumpur,Female,2014,78.2
+Malaysia,Total,2015,74.6
+Johor,Total,2015,74.3
+Kedah,Total,2015,73.1
+Kelantan,Total,2015,72.0
+Melaka,Total,2015,74.6
+Negeri Sembilan,Total,2015,73.6
+Pahang,Total,2015,73.2
+Perak,Total,2015,74.0
+Perlis,Total,2015,73.0
+Pulau Pinang,Total,2015,74.8
+Sabah,Total,2015,73.9
+Sarawak,Total,2015,76.3
+Selangor,Total,2015,75.2
+Terengganu,Total,2015,71.4
+W.P. Kuala Lumpur,Total,2015,76.2
+Malaysia,Male,2015,72.5
+Johor,Male,2015,72.2
+Kedah,Male,2015,70.4
+Kelantan,Male,2015,69.1
+Melaka,Male,2015,72.1
+Negeri Sembilan,Male,2015,71.0
+Pahang,Male,2015,70.7
+Perak,Male,2015,71.3
+Perlis,Male,2015,70.4
+Pulau Pinang,Male,2015,72.4
+Sabah,Male,2015,72.3
+Sarawak,Male,2015,74.6
+Selangor,Male,2015,73.3
+Terengganu,Male,2015,68.7
+W.P. Kuala Lumpur,Male,2015,74.3
+Malaysia,Female,2015,77.1
+Johor,Female,2015,77.0
+Kedah,Female,2015,76.2
+Kelantan,Female,2015,75.1
+Melaka,Female,2015,77.4
+Negeri Sembilan,Female,2015,76.6
+Pahang,Female,2015,76.3
+Perak,Female,2015,77.1
+Perlis,Female,2015,75.9
+Pulau Pinang,Female,2015,77.6
+Sabah,Female,2015,75.8
+Sarawak,Female,2015,78.3
+Selangor,Female,2015,77.4
+Terengganu,Female,2015,74.5
+W.P. Kuala Lumpur,Female,2015,78.3
+Malaysia,Total,2016,74.4
+Johor,Total,2016,74.2
+Kedah,Total,2016,72.9
+Kelantan,Total,2016,72.0
+Melaka,Total,2016,74.5
+Negeri Sembilan,Total,2016,73.4
+Pahang,Total,2016,73.3
+Perak,Total,2016,74.0
+Perlis,Total,2016,72.4
+Pulau Pinang,Total,2016,74.8
+Sabah,Total,2016,74.2
+Sarawak,Total,2016,76.3
+Selangor,Total,2016,75.1
+Terengganu,Total,2016,71.6
+W.P. Kuala Lumpur,Total,2016,76.6
+W.P. Labuan,Total,2016,77.4
+W.P. Putrajaya,Total,2016,72.3
+Malaysia,Male,2016,72.1
+Johor,Male,2016,71.9
+Kedah,Male,2016,70.2
+Kelantan,Male,2016,69.0
+Melaka,Male,2016,71.9
+Negeri Sembilan,Male,2016,70.6
+Pahang,Male,2016,70.9
+Perak,Male,2016,71.1
+Perlis,Male,2016,70.0
+Pulau Pinang,Male,2016,72.3
+Sabah,Male,2016,72.6
+Sarawak,Male,2016,74.5
+Selangor,Male,2016,73.1
+Terengganu,Male,2016,68.9
+W.P. Kuala Lumpur,Male,2016,74.6
+W.P. Labuan,Male,2016,76.2
+W.P. Putrajaya,Male,2016,72.6
+Malaysia,Female,2016,77.0
+Johor,Female,2016,76.9
+Kedah,Female,2016,75.9
+Kelantan,Female,2016,75.1
+Melaka,Female,2016,77.2
+Negeri Sembilan,Female,2016,76.7
+Pahang,Female,2016,76.2
+Perak,Female,2016,77.3
+Perlis,Female,2016,75.0
+Pulau Pinang,Female,2016,77.7
+Sabah,Female,2016,76.2
+Sarawak,Female,2016,78.3
+Selangor,Female,2016,77.4
+Terengganu,Female,2016,74.6
+W.P. Kuala Lumpur,Female,2016,79.0
+W.P. Labuan,Female,2016,78.7
+W.P. Putrajaya,Female,2016,72.0
+Malaysia,Total,2017,74.4
+Johor,Total,2017,74.1
+Kedah,Total,2017,73.0
+Kelantan,Total,2017,72.2
+Melaka,Total,2017,74.5
+Negeri Sembilan,Total,2017,73.4
+Pahang,Total,2017,73.4
+Perak,Total,2017,73.9
+Perlis,Total,2017,72.0
+Pulau Pinang,Total,2017,74.9
+Sabah,Total,2017,74.2
+Sarawak,Total,2017,76.2
+Selangor,Total,2017,75.1
+Terengganu,Total,2017,71.8
+W.P. Kuala Lumpur,Total,2017,76.5
+W.P. Labuan,Total,2017,77.3
+W.P. Putrajaya,Total,2017,72.2
+Malaysia,Male,2017,72.1
+Johor,Male,2017,71.8
+Kedah,Male,2017,70.3
+Kelantan,Male,2017,69.3
+Melaka,Male,2017,71.8
+Negeri Sembilan,Male,2017,70.5
+Pahang,Male,2017,71.0
+Perak,Male,2017,71.0
+Perlis,Male,2017,69.4
+Pulau Pinang,Male,2017,72.3
+Sabah,Male,2017,72.5
+Sarawak,Male,2017,74.4
+Selangor,Male,2017,73.1
+Terengganu,Male,2017,69.1
+W.P. Kuala Lumpur,Male,2017,74.4
+W.P. Labuan,Male,2017,76.0
+W.P. Putrajaya,Male,2017,71.7
+Malaysia,Female,2017,77.1
+Johor,Female,2017,76.9
+Kedah,Female,2017,76.0
+Kelantan,Female,2017,75.2
+Melaka,Female,2017,77.5
+Negeri Sembilan,Female,2017,76.8
+Pahang,Female,2017,76.3
+Perak,Female,2017,77.2
+Perlis,Female,2017,74.8
+Pulau Pinang,Female,2017,77.7
+Sabah,Female,2017,76.3
+Sarawak,Female,2017,78.2
+Selangor,Female,2017,77.4
+Terengganu,Female,2017,74.9
+W.P. Kuala Lumpur,Female,2017,79.0
+W.P. Labuan,Female,2017,78.7
+W.P. Putrajaya,Female,2017,72.6
+Malaysia,Total,2018,74.6
+Johor,Total,2018,74.3
+Kedah,Total,2018,73.1
+Kelantan,Total,2018,72.4
+Melaka,Total,2018,74.7
+Negeri Sembilan,Total,2018,73.5
+Pahang,Total,2018,73.6
+Perak,Total,2018,74.0
+Perlis,Total,2018,72.0
+Pulau Pinang,Total,2018,75.2
+Sabah,Total,2018,74.2
+Sarawak,Total,2018,76.4
+Selangor,Total,2018,75.4
+Terengganu,Total,2018,72.1
+W.P. Kuala Lumpur,Total,2018,76.7
+W.P. Labuan,Total,2018,77.6
+W.P. Putrajaya,Total,2018,73.3
+Malaysia,Male,2018,72.3
+Johor,Male,2018,72.0
+Kedah,Male,2018,70.4
+Kelantan,Male,2018,69.6
+Melaka,Male,2018,72.0
+Negeri Sembilan,Male,2018,70.6
+Pahang,Male,2018,71.2
+Perak,Male,2018,71.1
+Perlis,Male,2018,69.2
+Pulau Pinang,Male,2018,72.6
+Sabah,Male,2018,72.6
+Sarawak,Male,2018,74.6
+Selangor,Male,2018,73.4
+Terengganu,Male,2018,69.4
+W.P. Kuala Lumpur,Male,2018,74.5
+W.P. Labuan,Male,2018,76.2
+W.P. Putrajaya,Male,2018,72.8
+Malaysia,Female,2018,77.2
+Johor,Female,2018,77.1
+Kedah,Female,2018,76.2
+Kelantan,Female,2018,75.5
+Melaka,Female,2018,77.6
+Negeri Sembilan,Female,2018,76.9
+Pahang,Female,2018,76.4
+Perak,Female,2018,77.3
+Perlis,Female,2018,74.8
+Pulau Pinang,Female,2018,78.0
+Sabah,Female,2018,76.1
+Sarawak,Female,2018,78.4
+Selangor,Female,2018,77.7
+Terengganu,Female,2018,75.2
+W.P. Kuala Lumpur,Female,2018,79.3
+W.P. Labuan,Female,2018,79.0
+W.P. Putrajaya,Female,2018,73.5
+Malaysia,Total,2019,74.8
+Johor,Total,2019,74.4
+Kedah,Total,2019,73.4
+Kelantan,Total,2019,72.6
+Melaka,Total,2019,74.9
+Negeri Sembilan,Total,2019,73.8
+Pahang,Total,2019,73.9
+Perak,Total,2019,74.2
+Perlis,Total,2019,72.0
+Pulau Pinang,Total,2019,75.5
+Sabah,Total,2019,74.2
+Sarawak,Total,2019,76.3
+Selangor,Total,2019,75.7
+Terengganu,Total,2019,72.2
+W.P. Kuala Lumpur,Total,2019,76.9
+W.P. Labuan,Total,2019,77.6
+W.P. Putrajaya,Total,2019,73.8
+Malaysia,Male,2019,72.5
+Johor,Male,2019,72.1
+Kedah,Male,2019,70.7
+Kelantan,Male,2019,69.7
+Melaka,Male,2019,72.2
+Negeri Sembilan,Male,2019,70.9
+Pahang,Male,2019,71.5
+Perak,Male,2019,71.3
+Perlis,Male,2019,69.3
+Pulau Pinang,Male,2019,72.9
+Sabah,Male,2019,72.5
+Sarawak,Male,2019,74.5
+Selangor,Male,2019,73.6
+Terengganu,Male,2019,69.6
+W.P. Kuala Lumpur,Male,2019,74.6
+W.P. Labuan,Male,2019,76.3
+W.P. Putrajaya,Male,2019,72.5
+Malaysia,Female,2019,77.4
+Johor,Female,2019,77.3
+Kedah,Female,2019,76.4
+Kelantan,Female,2019,75.8
+Melaka,Female,2019,77.8
+Negeri Sembilan,Female,2019,77.0
+Pahang,Female,2019,76.6
+Perak,Female,2019,77.4
+Perlis,Female,2019,74.9
+Pulau Pinang,Female,2019,78.2
+Sabah,Female,2019,76.3
+Sarawak,Female,2019,78.4
+Selangor,Female,2019,78.0
+Terengganu,Female,2019,75.2
+W.P. Kuala Lumpur,Female,2019,79.5
+W.P. Labuan,Female,2019,79.0
+W.P. Putrajaya,Female,2019,74.5
+Malaysia,Total,2020,74.7
+Johor,Total,2020,74.3
+Kedah,Total,2020,73.1
+Kelantan,Total,2020,72.2
+Melaka,Total,2020,74.0
+Negeri Sembilan,Total,2020,73.3
+Pahang,Total,2020,72.9
+Perak,Total,2020,73.7
+Perlis,Total,2020,72.8
+Pulau Pinang,Total,2020,74.2
+Sabah,Total,2020,74.3
+Sarawak,Total,2020,75.1
+Selangor,Total,2020,77.4
+Terengganu,Total,2020,71.7
+W.P. Kuala Lumpur,Total,2020,76.4
+W.P. Labuan,Total,2020,75.4
+W.P. Putrajaya,Total,2020,74.5
+Malaysia,Male,2020,72.5
+Johor,Male,2020,72.1
+Kedah,Male,2020,70.4
+Kelantan,Male,2020,69.6
+Melaka,Male,2020,71.8
+Negeri Sembilan,Male,2020,70.4
+Pahang,Male,2020,70.7
+Perak,Male,2020,71.1
+Perlis,Male,2020,70.2
+Pulau Pinang,Male,2020,72.0
+Sabah,Male,2020,72.6
+Sarawak,Male,2020,72.9
+Selangor,Male,2020,75.5
+Terengganu,Male,2020,69.1
+W.P. Kuala Lumpur,Male,2020,74.1
+W.P. Labuan,Male,2020,73.6
+W.P. Putrajaya,Male,2020,72.2
+Malaysia,Female,2020,77.2
+Johor,Female,2020,76.9
+Kedah,Female,2020,76.1
+Kelantan,Female,2020,75.1
+Melaka,Female,2020,76.4
+Negeri Sembilan,Female,2020,76.4
+Pahang,Female,2020,75.7
+Perak,Female,2020,76.7
+Perlis,Female,2020,75.6
+Pulau Pinang,Female,2020,76.7
+Sabah,Female,2020,76.4
+Sarawak,Female,2020,77.6
+Selangor,Female,2020,79.6
+Terengganu,Female,2020,74.6
+W.P. Kuala Lumpur,Female,2020,79.1
+W.P. Labuan,Female,2020,77.3
+W.P. Putrajaya,Female,2020,76.7
+Malaysia,Total,2021,74.5
+Johor,Total,2021,74.0
+Kedah,Total,2021,72.8
+Kelantan,Total,2021,72.0
+Melaka,Total,2021,73.5
+Negeri Sembilan,Total,2021,73.5
+Pahang,Total,2021,73.0
+Perak,Total,2021,73.8
+Perlis,Total,2021,72.9
+Pulau Pinang,Total,2021,74.1
+Sabah,Total,2021,74.0
+Sarawak,Total,2021,74.8
+Selangor,Total,2021,77.0
+Terengganu,Total,2021,71.8
+W.P. Kuala Lumpur,Total,2021,75.7
+W.P. Labuan,Total,2021,74.8
+W.P. Putrajaya,Total,2021,74.9
+Malaysia,Male,2021,72.3
+Johor,Male,2021,71.9
+Kedah,Male,2021,70.2
+Kelantan,Male,2021,69.5
+Melaka,Male,2021,71.3
+Negeri Sembilan,Male,2021,71.1
+Pahang,Male,2021,70.8
+Perak,Male,2021,71.1
+Perlis,Male,2021,70.2
+Pulau Pinang,Male,2021,71.9
+Sabah,Male,2021,72.3
+Sarawak,Male,2021,72.6
+Selangor,Male,2021,75.1
+Terengganu,Male,2021,69.5
+W.P. Kuala Lumpur,Male,2021,73.5
+W.P. Labuan,Male,2021,73.2
+W.P. Putrajaya,Male,2021,72.3
+Malaysia,Female,2021,77.0
+Johor,Female,2021,76.6
+Kedah,Female,2021,75.6
+Kelantan,Female,2021,74.8
+Melaka,Female,2021,76.0
+Negeri Sembilan,Female,2021,76.2
+Pahang,Female,2021,75.8
+Perak,Female,2021,76.8
+Perlis,Female,2021,75.8
+Pulau Pinang,Female,2021,76.7
+Sabah,Female,2021,76.0
+Sarawak,Female,2021,77.5
+Selangor,Female,2021,79.2
+Terengganu,Female,2021,74.5
+W.P. Kuala Lumpur,Female,2021,78.3
+W.P. Labuan,Female,2021,76.6
+W.P. Putrajaya,Female,2021,77.4
+Malaysia,Total,2022,73.4
+Johor,Total,2022,73.1
+Kedah,Total,2022,70.9
+Kelantan,Total,2022,71.0
+Melaka,Total,2022,72.5
+Negeri Sembilan,Total,2022,72.4
+Pahang,Total,2022,72.4
+Perak,Total,2022,73.1
+Perlis,Total,2022,72.3
+Pulau Pinang,Total,2022,73.2
+Sabah,Total,2022,73.5
+Sarawak,Total,2022,74.3
+Selangor,Total,2022,75.2
+Terengganu,Total,2022,71.0
+W.P. Kuala Lumpur,Total,2022,74.0
+W.P. Labuan,Total,2022,74.5
+W.P. Putrajaya,Total,2022,74.5
+Malaysia,Male,2022,71.3
+Johor,Male,2022,71.2
+Kedah,Male,2022,68.6
+Kelantan,Male,2022,68.7
+Melaka,Male,2022,70.2
+Negeri Sembilan,Male,2022,70.2
+Pahang,Male,2022,70.2
+Perak,Male,2022,70.3
+Perlis,Male,2022,69.4
+Pulau Pinang,Male,2022,70.9
+Sabah,Male,2022,72.0
+Sarawak,Male,2022,72.1
+Selangor,Male,2022,73.3
+Terengganu,Male,2022,69.0
+W.P. Kuala Lumpur,Male,2022,71.8
+W.P. Labuan,Male,2022,72.4
+W.P. Putrajaya,Male,2022,71.9
+Malaysia,Female,2022,75.8
+Johor,Female,2022,75.4
+Kedah,Female,2022,73.4
+Kelantan,Female,2022,73.3
+Melaka,Female,2022,74.8
+Negeri Sembilan,Female,2022,74.9
+Pahang,Female,2022,75.1
+Perak,Female,2022,76.1
+Perlis,Female,2022,75.3
+Pulau Pinang,Female,2022,75.8
+Sabah,Female,2022,75.2
+Sarawak,Female,2022,76.9
+Selangor,Female,2022,77.5
+Terengganu,Female,2022,73.1
+W.P. Kuala Lumpur,Female,2022,76.6
+W.P. Labuan,Female,2022,76.8
+W.P. Putrajaya,Female,2022,77.0
