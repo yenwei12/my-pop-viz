@@ -181,11 +181,6 @@ function drawMap() {
             d3.select(this).attr("fill", "YELLOW");
 
             drawTooltip(d.properties.name);
-
-            Streamlit.notifyHost({
-                value: d.properties.name,
-                dataType: "json",
-            });
         })
         .on("mouseout", function (event, d) {
             d3.select(this).attr("fill", function () {
@@ -200,11 +195,13 @@ function drawMap() {
             });
 
             tooltip.transition().duration(500).style("opacity", 0);
-
+        })
+        .on("click", function (event, d) {
             Streamlit.notifyHost({
-                value: "All",
+                value: d.properties.name,
                 dataType: "json",
             });
+            window.rendered = true;
         });
 }
 
