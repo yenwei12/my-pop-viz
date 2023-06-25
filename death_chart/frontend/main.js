@@ -4,7 +4,6 @@ let selectedYear;
 let selectedState;
 let tooltip;
 let colorScale;
-let previousColorScale;
 
 // Define the properties of the map container
 let margin = {
@@ -142,7 +141,8 @@ function drawDeathChart() {
     colorScale = d3
         .scaleOrdinal()
         .domain(subgroups)
-        .range(["#79B9C2", "#F89880"]);
+        .range(["#00D4D4", "#FF4B4B"]);
+        // .range(["#79B9C2", "#F89880"]);
 
     svg.append("g")
         .selectAll("g")
@@ -157,8 +157,8 @@ function drawDeathChart() {
                 group: d.group,
                 color:
                     key.toLowerCase() == "female" && d.female > d.male
-                        ? d3.color(colorScale(d[key])).darker(0.6)
-                        : colorScale(d[key]),
+                        ? d3.color(colorScale(key)).darker(0.6)
+                        : colorScale(key),
             }));
         })
         // include group
