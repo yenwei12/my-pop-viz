@@ -179,10 +179,15 @@ function drawMap() {
             }
 
             d3.select(this).attr("fill", "YELLOW");
+
             drawTooltip(d.properties.name);
+
+            Streamlit.notifyHost({
+                value: d.properties.name,
+                dataType: "json",
+            });
         })
         .on("mouseout", function (event, d) {
-            tooltip.transition().duration(500).style("opacity", 0);
             d3.select(this).attr("fill", function () {
                 let matchedData = yearData.find(
                     (entry) => entry["State"] === d.properties.name
@@ -192,6 +197,13 @@ function drawMap() {
                 } else {
                     return "#ccc";
                 }
+            });
+
+            tooltip.transition().duration(500).style("opacity", 0);
+
+            Streamlit.notifyHost({
+                value: "All",
+                dataType: "json",
             });
         });
 }
@@ -244,4 +256,4 @@ function onRender(event) {
 
 Streamlit.events.addEventListener(Streamlit.MSG_RENDER, onRender);
 Streamlit.setComponentReady();
-Streamlit.setFrameHeight(height * 10);
+Streamlit.setFrameHeight(height);

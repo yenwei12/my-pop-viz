@@ -51,9 +51,12 @@ props = {
     "states": st.session_state.states,
 }
 
-# draw population state graph
+# draw population state map
 st.header("Population Distribution by State in a Country")
 st.markdown("**Click** on the legend to display the state with a specific population density. Click again to deselect.")
 st.markdown(
     "**Hover** over the states to view detailed population distribution by ethnicity.")
 iPopulationMap = populationMap(key="popMap", **props)
+
+# draw death rate bar chart
+st.header(f"Death Rate for Year {st.session_state.year} based on Age Group")
