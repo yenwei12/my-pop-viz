@@ -1,5 +1,7 @@
 import streamlit as st
 from population_map import populationMap
+from death_chart import deathChart
+
 
 # set page info
 st.set_page_config(
@@ -28,7 +30,8 @@ with st.sidebar:
         min_value=1980,
         max_value=2020,
         key="year",
-        help="Select a year"
+        help="Select a year",
+        value=2010,
     )
 
     # state multiselector
@@ -56,7 +59,20 @@ st.header("Population Distribution by State in a Country")
 st.markdown("**Click** on the legend to display the state with a specific population density. Click again to deselect.")
 st.markdown(
     "**Hover** over the states to view detailed population distribution by ethnicity.")
+st.markdown("**Click** on the state to view the death rate for a specific state.")
 iPopulationMap = populationMap(key="popMap", **props)
 
 # draw death rate bar chart
-st.header(f"Death Rate for Year {st.session_state.year} based on Age Group")
+props = {
+    "year": st.session_state.year,
+    "state": st.session_state.popMap
+}
+container = st.container()
+st.markdown("**Hover** over the bars to view detailed death rate.")
+if st.session_state.popMap:
+    st.write(f"Selected state: {st.session_state.popMap}")
+iDeathChart = deathChart(key="deathChart", **props)
+container.write(
+    f'<h2>Age Group-Based Mortality Rates for <span style="color: {st.session_state.deathChart[0]}">Male</span> & <span style="color: {st.session_state.deathChart[1]}">Female</span> in Year {st.session_state.year}</h2>',
+    unsafe_allow_html=True
+)
