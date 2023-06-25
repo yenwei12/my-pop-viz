@@ -45,7 +45,7 @@ function hideTooltip(event, d) {
 
 function drawDeathChart() {
     d3.select(".group-bar").selectAll("*").remove();
-    const svg = d3
+    let svg = d3
         .select(".group-bar")
         .append("svg")
         .attr("width", width + margin.left + margin.right)
@@ -53,7 +53,7 @@ function drawDeathChart() {
         .append("g")
         .attr("transform", `translate(${margin.left},${margin.top})`);
 
-    const infoTest = svg
+    let infoTest = svg
         .append("text")
         .attr("x", width / 2)
         .attr("y", -50)
@@ -75,8 +75,8 @@ function drawDeathChart() {
         return;
     }
 
-    const array = [];
-    const agegroup = [];
+    let array = [];
+    let agegroup = [];
     let filteredData;
 
     // if no selected state shows all count for selected year
@@ -86,31 +86,31 @@ function drawDeathChart() {
         filteredData = stateDeaths.filter((d) => d.State === selectedState);
     }
 
-    const groups = d3.group(filteredData, (d) => d.Year);
+    let groups = d3.group(filteredData, (d) => d.Year);
 
-    const death = d3.rollup(
+    let death = d3.rollup(
         groups.get(selectedYear),
         (v) => d3.sum(v, (d) => +d.DeathCount),
         (d) => d.Sex,
         (d) => d.AgeGroup
     );
 
-    const sexes = ["Male", "Female"];
+    let sexes = ["Male", "Female"];
 
-    const maleAges = death.has("Male")
+    let maleAges = death.has("Male")
         ? Array.from(death.get("Male").keys())
         : [];
 
-    const femaleAges = death.has("Female")
+    let femaleAges = death.has("Female")
         ? Array.from(death.get("Female").keys())
         : [];
 
-    const uniqueAges = [...new Set([...maleAges, ...femaleAges])];
+    let uniqueAges = [...new Set([...maleAges, ...femaleAges])];
 
-    for (const age of uniqueAges) {
-        const object = { group: age };
+    for (let age of uniqueAges) {
+        let object = { group: age };
 
-        for (const sex of sexes) {
+        for (let sex of sexes) {
             object[sex.toLowerCase()] =
                 death.has(sex) && death.get(sex).has(age)
                     ? death.get(sex).get(age)
@@ -121,22 +121,22 @@ function drawDeathChart() {
         agegroup.push(age);
     }
 
-    const subgroups = sexes.map((d) => d.toLowerCase());
+    let subgroups = sexes.map((d) => d.toLowerCase());
 
-    const x = d3.scaleBand().domain(agegroup).range([0, width]).padding([0.2]);
+    let x = d3.scaleBand().domain(agegroup).range([0, width]).padding([0.2]);
     svg.append("g")
         .attr("transform", `translate(0, ${height})`)
         .call(d3.axisBottom(x).tickSizeOuter(0));
 
-    const maxCount = d3.max(
+    let maxCount = d3.max(
         array.map((obj) => {
             return Math.max(obj.male, obj.female);
         })
     );
-    const y = d3.scaleLinear().domain([0, maxCount]).range([height, 0]);
+    let y = d3.scaleLinear().domain([0, maxCount]).range([height, 0]);
     svg.append("g").call(d3.axisLeft(y));
 
-    const xSubgroup = d3
+    let xSubgroup = d3
         .scaleBand()
         .domain(subgroups)
         .range([0, x.bandwidth()])
