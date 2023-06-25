@@ -208,8 +208,8 @@ function drawMap() {
         });
 }
 
-function update(year) {
-    selectedYear = parseInt(year);
+function update(props) {
+    selectedYear = parseInt(props.year);
 
     // Retrieve the population value for each state
     let populationData = statePops.filter(
@@ -235,8 +235,7 @@ function update(year) {
 
 // Access values sent from Streamlit
 function onRender(event) {
-    console.log(event.data.args);
-    let year = event.data.args.year;
+    let props = event.data.args;
 
     // load topojson
     d3.json("data/my-states.json").then((data) => {
@@ -250,7 +249,7 @@ function onRender(event) {
 
     d3.csv("data/pop-states.csv").then((data) => {
         statePops = data;
-        update(year);
+        update(props);
     });
 }
 
