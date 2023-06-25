@@ -91,3 +91,7 @@
 .tick text {
     font-size: 12px;
 }
+
+rect:hover {
+    opacity: 0.7;
+}

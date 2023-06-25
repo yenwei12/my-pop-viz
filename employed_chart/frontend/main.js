@@ -9,7 +9,6 @@ let svg;
 let width = 1000;
 let height = 600;
 
-
 // Code from https://observablehq.com/@jtrim-ons/svg-text-wrapping
 function wrapText(
     text,
@@ -120,18 +119,23 @@ function showTooltip(event, d) {
             .style("opacity", 1);
     }
 
-    let tooltipHtml = `${d.group}<br>${d.name}: ${d.value} ('000)`;
+    // let tooltipHtml = `${d.group}<br>${d.name}: ${d.value} ('000)`;
+    let tooltipHtml =
+        "<strong>Gender:</strong> <span style='color:black'>" +
+        d.group +
+        "</span><br>" +
+        "<strong>Industry:</strong> <span style='color:black'>" +
+        d.name +
+        "</span><br>" +
+        "<strong>Population ('000):</strong> <span style='color:black'>" +
+        d.value +
+        "</span>";
+
     tooltip.transition().duration(200).style("opacity", 0.9);
     tooltip
         .html(tooltipHtml)
-        .style(
-            "left",
-            d3.pointer(event, d3.select(".group-bar").node())[0] + 30 + "px"
-        )
-        .style(
-            "top",
-            d3.pointer(event, d3.select(".group-bar").node())[1] - 30 + "px"
-        );
+        .style("left", event.pageX + "px")
+        .style("top", event.pageY - 28 + "px");
 }
 
 function hideTooltip(event, d) {
@@ -241,7 +245,6 @@ function drawBubbleChart() {
             return d.name;
         })
         .call(wrapText, 92, 0.5, 1.5, 1.5, true, true);
-
 
     // Features of the forces applied to the nodes:
     let simulation = d3

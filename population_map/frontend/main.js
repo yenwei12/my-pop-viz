@@ -52,11 +52,17 @@ function showTooltip(event, d) {
 
     let tooltipHtml;
     if (stateData.length > 0) {
-        tooltipHtml = `<strong>${state}</strong><br>`;
-        tooltipHtml += `Total Population: ${totalStatePopulation} ('000 Person)<br>`;
+        tooltipHtml =
+            "<strong>State:</strong> <span style='color:black'>" +
+            state +
+            "</span><br>" +
+            "<strong>Total Population ('000):</strong> <span style='color:black'>" +
+            totalStatePopulation +
+            "</span><br>";
+
         stateData.forEach((entry) => {
             let percentage = entry["Percentage"];
-            tooltipHtml += `${entry["Ethnic group"]}: ${percentage}%<br>`;
+            tooltipHtml += `<strong>${entry["Ethnic group"]}:</strong> ${percentage}%<br>`;
         });
     } else {
         tooltipHtml = `${state}: No data in year ${selectedYear}`;
@@ -133,8 +139,8 @@ function drawPopulationText() {
     let selectedPopulationData = totalPops.find(
         (d) => +d["Year"] === selectedYear
     );
-    d3.select("#population").text(
-        `Total population in ${selectedYear}: ${selectedPopulationData["TotalPopulation"]}`
+    d3.select("#population").html(
+        `<strong>Total population in ${selectedYear}</strong>:</br>${selectedPopulationData["TotalPopulation"]}`
     );
 }
 

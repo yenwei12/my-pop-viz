@@ -16,6 +16,12 @@ let margin = {
 let width = 1000 - margin.left - margin.right;
 let height = 550 - margin.top - margin.bottom;
 
+function toTitleCase(str) {
+    return str.replace(/\w\S*/g, function (txt) {
+        return txt.charAt(0).toUpperCase() + txt.substr(1).toLowerCase();
+    });
+}
+
 function showTooltip(event, d) {
     if (!tooltip) {
         tooltip = d3
@@ -25,17 +31,26 @@ function showTooltip(event, d) {
             .style("opacity", 1);
     }
 
-    let tooltipHtml = `Group: ${d.key}<br>Age Group: ${d.group}<br>Deaths: ${d.value}`;
+    let tooltipHtml =
+        "<strong>Gender:</strong> <span style='color:black'>" +
+        toTitleCase(d.key) +
+        "</span><br>" +
+        "<strong>Age Group:</strong> <span style='color:black'>" +
+        d.group +
+        "</span><br>" +
+        "<strong>Deaths:</strong> <span style='color:black'>" +
+        d.value +
+        "</span>";
     tooltip.transition().duration(200).style("opacity", 0.9);
     tooltip
         .html(tooltipHtml)
         .style(
             "left",
-            d3.pointer(event, d3.select(".group-bar").node())[0] + 30 + "px"
+            d3.pointer(event, d3.select(".group-bar").node())[0] + 28 + "px"
         )
         .style(
             "top",
-            d3.pointer(event, d3.select(".group-bar").node())[1] - 30 + "px"
+            d3.pointer(event, d3.select(".group-bar").node())[1] - 28 + "px"
         );
 }
 
@@ -179,6 +194,21 @@ function drawDeathChart() {
         .delay((d, i) => i * 50)
         .attr("y", (d) => y(d.value))
         .attr("height", (d) => height - y(d.value));
+
+    // Append x-axis label
+    svg.append("text")
+        .attr("x", width / 2)
+        .attr("y", height + margin.bottom - 20)
+        .attr("text-anchor", "middle")
+        .text("Age Group");
+
+    // Append y-axis label
+    svg.append("text")
+        .attr("transform", "rotate(-90)")
+        .attr("x", -height / 2 )
+        .attr("y", -margin.left + 12)
+        .attr("text-anchor", "middle")
+        .text("Death Count");
 
     // notify host once
     if (!window.rendered) {
