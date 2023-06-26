@@ -291,7 +291,7 @@ function drawScatterplot() {
         .on("mouseover", showTooltip)
         .on("mouseout", hideTooltip)
         .transition()
-        .duration(1000)
+        .duration(3000)
         .attr("cx", function (d) {
             return xScale(xValue(d));
         })

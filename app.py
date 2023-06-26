@@ -4,7 +4,7 @@ from death_chart import deathChart
 from employed_chart import employmentChart
 from fertility_life_chart import fertilityLifeChart
 from birthrate_chart import birthRateChart
-
+from population_chart import populationChart
 
 # init
 if "selectedState" not in st.session_state:
@@ -94,7 +94,6 @@ if iPopulationMap:
     fromMapGetState()
 # --------------------------------------------------------------------------
 
-
 # --------------------------------------------------------------------------
 # draw death rate bar chart
 # --------------------------------------------------------------------------
@@ -107,7 +106,7 @@ showAll = st.checkbox("Show all states", value=False,
                       key="showAll", on_change=clearState)
 if st.session_state.selectedState:
     st.markdown(f"Selected state: **{st.session_state.selectedState}**")
-if st.session_state.year < 2001:
+if st.session_state.year < 2001 or st.session_state.year > 2019:
     st.error(f"No data found in year {st.session_state.year}")
 props = {
     "year": st.session_state.year,
@@ -115,7 +114,7 @@ props = {
 }
 deathChart(key="deathChart", **props)
 if not st.session_state.deathChart is None:
-    deathSectionHeader = f'<h2>Age Group-Based Mortality Rates for <span style="color: {st.session_state.deathChart[0]}">Male</span> & <span style="color: {st.session_state.deathChart[1]}">Female</span> in Year {st.session_state.year}</h2>'
+    deathSectionHeader = f'<h2>Age Group-Based Death Rates for <span style="color: {st.session_state.deathChart[0]}">Male</span> & <span style="color: {st.session_state.deathChart[1]}">Female</span> in Year {st.session_state.year}</h2>'
     container.write(deathSectionHeader, unsafe_allow_html=True)
 
 # --------------------------------------------------------------------------
@@ -139,6 +138,30 @@ props = {
 fertilityLifeChart(key="fertilityLifeChart", **props)
 # --------------------------------------------------------------------------
 
+# --------------------------------------------------------------------------
+# draw birthrate chart
+# --------------------------------------------------------------------------
+st.header("State Birthrates over Time")
+st.markdown(
+    "**Please be aware that records for Sabah are only available after 2014*")
+st.markdown("Filter by: **State**")
+showAllMul = st.checkbox("Show all states", value=False,
+                         key="showAllMul", on_change=clearState)
+props = {"state": st.session_state.selectedState}
+birthRateChart(key="birthRateChart", **props)
+# --------------------------------------------------------------------------
+
+# --------------------------------------------------------------------------
+# draw population chart
+# --------------------------------------------------------------------------
+st.header("Population Growth over Time")
+
+# st.markdown("Filter by: **State**")
+# showAllMul = st.checkbox("Show all states", value=False,
+#                          key="showAllMul", on_change=clearState)
+props = {"state": st.session_state.selectedState}
+populationChart(key="populationChart", **props)
+# --------------------------------------------------------------------------
 
 # --------------------------------------------------------------------------
 # draw employment population bubble chart
@@ -152,15 +175,4 @@ employmentChart(key="employmentChart", **props)
 if st.session_state.employmentChart is not None:
     deathSectionHeader = f'<h2>Employment Distribution Across Industries for <span style="color: {st.session_state.employmentChart[0]}">Male</span> & <span style="color: {st.session_state.employmentChart[1]}">Female</span> in Year {st.session_state.year}</h2>'
     container.write(deathSectionHeader, unsafe_allow_html=True)
-# --------------------------------------------------------------------------
-
-# --------------------------------------------------------------------------
-# draw birthrate chart
-# --------------------------------------------------------------------------
-st.header("State Birthrates over Time")
-st.markdown("Filter by: **State**")
-showAllMul = st.checkbox("Show all states", value=False,
-                         key="showAllMul", on_change=clearState)
-props = {"state": st.session_state.selectedState}
-birthRateChart(key="birthRateChart", **props)
 # --------------------------------------------------------------------------

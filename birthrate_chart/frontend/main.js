@@ -31,7 +31,6 @@ function showTooltip(event, i, x, y, stateData) {
     }).left;
     let index = bisect(stateData, xDate, 1);
     let d0 = stateData[index - 1];
-    console.log(d0);
     let d1 = stateData[index];
     let d =
         xDate - new Date(d0.Year, 0, 1) > new Date(d1.Year, 0, 1) - xDate
@@ -65,9 +64,11 @@ function draw() {
         );
         width = 900 - margin.left - margin.right;
         height = 400 - margin.top - margin.bottom;
+        Streamlit.setFrameHeight(height + margin.top + margin.bottom);
     } else {
         width = 240 - margin.left - margin.right;
         height = 250 - margin.top - margin.bottom;
+        Streamlit.setFrameHeight((height + margin.top + margin.bottom) * 3);
     }
 
     let nestedData = d3.group(stateBirthRates, (d) => d.State);
@@ -83,23 +84,20 @@ function draw() {
             .attr("width", width + margin.left + margin.right)
             .attr("height", height + margin.top + margin.bottom)
             .append("g")
-            .attr(
-                "transform",
-                "translate(" + margin.left + "," + margin.top + ")"
-            );
+            .attr("transform", `translate(${margin.left}, ${margin.top})`);
 
         // Set up scales and axes for the current state's chart
         let x = d3.scaleTime().range([0, width]);
         let y = d3.scaleLinear().range([height, 0]);
 
-        x.domain([new Date("2009-01-01"), new Date("2018-12-31")]);
+        x.domain([new Date("2001-01-01"), new Date("2020-12-31")]);
         y.domain([0, 100]);
 
         let xAxis = d3.axisBottom(x).tickFormat(d3.timeFormat("'%y"));
         let yAxis = d3.axisLeft(y);
 
         // Draw a line chart for the current state
-        svg.append("path")
+        let path = svg.append("path")
             .datum(stateData)
             .attr("fill", "none")
             .attr("stroke", "#1f77b4")
@@ -152,6 +150,15 @@ function draw() {
                 .attr("text-anchor", "middle")
                 .text("Birth rate");
         }
+
+        let totalLength = path.node().getTotalLength();
+
+        path.attr("stroke-dasharray", totalLength + " " + totalLength)
+            .attr("stroke-dashoffset", totalLength)
+            .transition()
+            .duration(3000)
+            .ease(d3.easeLinear)
+            .attr("stroke-dashoffset", 0);
     });
 }
 
@@ -169,11 +176,10 @@ function onRender(event) {
     // load data
     d3.csv("data/birthrate-states.csv").then((data) => {
         stateBirthRates = data.filter((d) => d.State != "Malaysia");
-        console.log(stateBirthRates);
         update(event.data.args);
     });
 }
 
 Streamlit.events.addEventListener(Streamlit.MSG_RENDER, onRender);
 Streamlit.setComponentReady();
-Streamlit.setFrameHeight((height + margin.top + margin.bottom) * 6);
+Streamlit.setFrameHeight((height + margin.top + margin.bottom) * 3);
