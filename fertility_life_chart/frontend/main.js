@@ -33,7 +33,6 @@ function unhighlightStates() {
 }
 
 function highlightDots(event, d) {
-    console.log(d);
     if (highlightedState === d) {
         // if the state is already highlighted, unhighlight it
         unhighlightStates();
@@ -121,9 +120,6 @@ function drawLegend() {
 }
 
 function drawScatterplot() {
-    console.log("draw scatterplot");
-    console.log(selectedState);
-    console.log(selectedYear);
     highlightedState = selectedState;
 
     if (!svg) {
