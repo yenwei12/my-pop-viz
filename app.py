@@ -60,7 +60,7 @@ with st.sidebar:
         min_value=1980,
         max_value=2020,
         key="year",
-        help="Select a year",
+        help="Please note that the availability of data for each graph may vary across different years.",
         value=2018,
     )
 
@@ -105,7 +105,6 @@ st.markdown("Filter by: **Year (2001 - 2019)**, **State**")
 st.markdown("**Hover** over the bars to view detailed death rate.")
 showAll = st.checkbox("Show all states", value=False,
                       key="showAll", on_change=clearState)
-
 if st.session_state.selectedState:
     st.markdown(f"Selected state: **{st.session_state.selectedState}**")
 if st.session_state.year < 2001:
@@ -158,10 +157,10 @@ if st.session_state.employmentChart is not None:
 # --------------------------------------------------------------------------
 # draw birthrate chart
 # --------------------------------------------------------------------------
-st.header("State Birthrates over Year")
-# st.markdown("Filter by: **Year (2009 - 2020)**")
-if st.session_state.year < 2009:
-    st.error(f"No data found in year {st.session_state.year}")
-props = {"year": st.session_state.year}
+st.header("State Birthrates over Time")
+st.markdown("Filter by: **State**")
+showAllMul = st.checkbox("Show all states", value=False,
+                         key="showAllMul", on_change=clearState)
+props = {"state": st.session_state.selectedState}
 birthRateChart(key="birthRateChart", **props)
 # --------------------------------------------------------------------------

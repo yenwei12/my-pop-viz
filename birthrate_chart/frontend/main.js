@@ -1,9 +1,7 @@
 // Global letiables
 let stateBirthRates;
-// let selectedYear;
-// let selectedState;
+let selectedState;
 let tooltip;
-let colorScale;
 
 // Define the properties of the map container
 let margin = {
@@ -60,6 +58,17 @@ function hideTooltip(event, d) {
 
 function draw() {
     stateBirthRates.sort((a, b) => d3.ascending(a.State, b.State));
+
+    if (selectedState) {
+        stateBirthRates = stateBirthRates.filter(
+            (d) => d.State == selectedState
+        );
+        width = 900 - margin.left - margin.right;
+        height = 400 - margin.top - margin.bottom;
+    } else {
+        width = 240 - margin.left - margin.right;
+        height = 250 - margin.top - margin.bottom;
+    }
 
     let nestedData = d3.group(stateBirthRates, (d) => d.State);
 
@@ -126,13 +135,30 @@ function draw() {
                 showTooltip(event, d, x, y, stateData);
             })
             .on("mouseout", hideTooltip);
+
+        if (selectedState) {
+            // Append x-axis label
+            svg.append("text")
+                .attr("x", width / 2)
+                .attr("y", height + margin.bottom - 20)
+                .attr("text-anchor", "middle")
+                .text("Year");
+
+            // Append y-axis label
+            svg.append("text")
+                .attr("transform", "rotate(-90)")
+                .attr("x", -height / 2)
+                .attr("y", -margin.left + 12)
+                .attr("text-anchor", "middle")
+                .text("Birth rate");
+        }
     });
 }
 
 function update(props) {
     // selectedYear = props.year.toString();
-    // if (!props.state) selectedState = null;
-    // else selectedState = props.state;
+    if (!props.state) selectedState = null;
+    else selectedState = props.state;
 
     draw();
     // drawBirthRateChart();
